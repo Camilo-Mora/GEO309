@@ -24,7 +24,7 @@ We will also discuss how environmental, ecological and anthropocentric variables
 
 This course consists of a number of weekly lectures covering different aspects about the diversity of life on Earth. Each lecture has been recorded and is provided in the chapters below. Each chapter is accompanied with the slides of the lectures, and a set questions you need to answer after watching the lectures.
 
-[Sillabus](https://github.com/Camilo-Mora/GEO309_Biogeography/raw/main/main/GEOG309_Sillabus.doc) <br>
+[Sillabus](https://github.com/Camilo-Mora/GEO309/raw/main/main/GEOG309_Sillabus.doc) <br>
 
 ## Grading {-}
 
@@ -41,7 +41,7 @@ In a time slot during the last two weeks of the semester, you will meet with me 
 If you fail the final test, you will be allowed to take it again, without any penalty to your grade. This test will be worth 80% of your grade. Below, I provide more instructions about the test.
 
 
-### Weekly Assignments  {-}
+## Weekly Assignments  {-}
 Each lecture is accompanied with a given number of questions, for which groups of two students (you and another student) need to find the answers during or after watching the video of the given lecture.
 
 I suggest the following approach to watching the videos and finding the answers:
@@ -96,7 +96,7 @@ In short, I need you to ensure that all your assignments are concatenated in the
 It is mandatory for you to deliver the weekly assignments in collaboration with a partner. This is done because it has been my experience that some students in online courses leave all work to be done the last week of the semester. That put a lot of stress on everyone. This method of you having to work with a partner forces you and your partner to watch the lectures each week. The other benefit is that it allows you to interact with the content of the course beyond simply watching a video.
 
 
-### Final exam {-}
+## Final exam {-}
 
 The questions of the exam will be exactly the same questions I have provided for each lecture and for which you delivered weekly assignments.
 
@@ -115,8 +115,8 @@ If after this second chance you fail to answer the three questions correctly, I 
 
 
 # 1: Basic concepts {-}
-[Slides](https://github.com/Camilo-Mora/GEO309_Biogeography/raw/main/main/Lecture 01_Basic concepts.pptx) <br>
-[Exam questions](https://github.com/Camilo-Mora/GEO309_Biogeography/raw/main/main/ExamQuestionsLecure1.xlsx)
+[Slides](https://github.com/Camilo-Mora/GEO309/raw/main/main/Lecture 01_Basic concepts.pptx) <br>
+[Exam questions](https://github.com/Camilo-Mora/GEO309/raw/main/main/ExamQuestionsLecure1.xlsx)
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/W9FUcPHeIKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
