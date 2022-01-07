@@ -47,6 +47,7 @@ Each lecture is accompanied with a given number of questions, for which groups o
 I suggest the following approach to watching the videos and finding the answers:
 
 **Individual work**:
+
 1.	Read the questions for the given lecture.
 
 2.	Watch the video of the given lecture (I recommend that you keep track of the times in the videos where answers are located so you can easily come back to them later on, if needed).
@@ -54,9 +55,12 @@ I suggest the following approach to watching the videos and finding the answers:
 3.	Respond to each question in a Word or Excel File.
 
 **Group work**:
+
 4.	Meet with your partner, compare the responses to each question, and select a unique response.
 
 5.	Deliver your responses by email to cmora@hawaii.edu (either direct text email, or add as an attachment your Word or Excel file). These assignments are due each week Friday; any time is fine.
+
+
 
 **INSTRUCTIONS TO DELIVER YOUR WEEKLY ASSIGMENTS**:
 Follow the following instructions to email your assignments (I will penalize students a 5% of the grade for not following these instructions).  Take it as a learning experience and let me give you my reasoning:
@@ -64,13 +68,13 @@ Follow the following instructions to email your assignments (I will penalize stu
 Imagine that you just got hired in a new job and your boss tells you to run a test in a very expensive machine; she also suggests that you have a look at the instructions to operate the machine. Say that you scan quickly, or perhaps did not even read the instructions, thinking that the machine is easy to operate. You turned the machine ON, which triggers a fire inside the machine. It turns out that the instructions cautioned to check the water level of the machine before it is turned On. The failure to read the instructions carefully just ruined a very expensive machine, and I am confident that your boss will not be happy.
 
 I am cautioning this because it has been my experience that some, not all, students in online courses pay little to no attention to the instructions, which results in unnecessary stress for everyone. 
-Also, if you ask questions, whose answers are provided in the instructions, it implies that you did not read the instructions with the necessary care. 
+Also, if you ask questions whose answers are provided in the instructions, it implies that you did not read the instructions with the necessary care. 
 
 Please do not hesitate to ask questions if you cannot really figure out, but please make the effort to read in advance the instructions that have been provided. With that said, here are the instructions to deliver your assignments:
 
 **First assignment email:**
 
-1.	In the subject, write “GEO309 Assignments by” (Your Name) “and” (Your partner’s name).
+1.	In the subject, write “GEO309 Assignments by” (Your Name) “and” (Your partner’s name). Only you or your partner should deliver the final assignment.
 
 2.	In the first line of text of the email, indicate the assignment number/lecture number (e.g., Lecture 1).
 
