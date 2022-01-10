@@ -30,7 +30,8 @@ This course consists of a number of weekly lectures covering different aspects a
 
 **Weekly Assignments (20%)**
 
-Each week Friday (any time is fine), you need to deliver your responses to the questions of the weekly chapters. You need to work on these questions and responses with another student. Your responses to these questions need to be delivered to me by email following the instructions provided below. These weekly assignments will be worth 20% of your grade.
+Each week Friday (any time is fine), you need to deliver your responses to the questions of the weekly chapters. You need to work on these questions and responses with another student. Your responses to these questions need to be delivered to me by email; after you email the responses, you need to sign up the attendance sheet, which I will be provide by email to you. Below I provide instructions about these weekly assignments. 
+These weekly assignments will be worth 20% of your grade.
 
 
 
@@ -42,9 +43,11 @@ If you fail the final test, you will be allowed to take it again, without any pe
 
 
 ## Weekly Assignments  {-}
+
 Each lecture is accompanied with a given number of questions, for which groups of two students (you and another student) need to find the answers during or after watching the video of the given lecture.
 
 I suggest the following approach to watching the videos and finding the answers:
+
 
 **Individual work**:
 
@@ -54,15 +57,25 @@ I suggest the following approach to watching the videos and finding the answers:
 
 3.	Respond to each question in a Word or Excel File.
 
+
+
 **Group work**:
 
 4.	Meet with your partner, compare the responses to each question, and select a unique response.
 
-5.	Deliver your responses by email to cmora@hawaii.edu (either direct text email, or add as an attachment your Word or Excel file). These assignments are due each week Friday; any time is fine.
+5.	Deliver your responses in a chain email to cmora@hawaii.edu (either direct text email, or add as an attachment your Word or Excel file). These assignments are due each week Friday; any time is fine.
+
+6. Fill the attendance sheet for the given lecture.
+
+7. Done.
+
+
 
 
 
 **INSTRUCTIONS TO DELIVER YOUR WEEKLY ASSIGMENTS**:
+
+
 Follow the following instructions to email your assignments (I will penalize students a 5% of the grade for not following these instructions).  Take it as a learning experience and let me give you my reasoning:
 
 Imagine that you just got hired in a new job and your boss tells you to run a test in a very expensive machine; she also suggests that you have a look at the instructions to operate the machine. Say that you scan quickly, or perhaps did not even read the instructions, thinking that the machine is easy to operate. You turned the machine ON, which triggers a fire inside the machine. It turns out that the instructions cautioned to check the water level of the machine before it is turned On. The failure to read the instructions carefully just ruined a very expensive machine, and I am confident that your boss will not be happy.
@@ -72,7 +85,9 @@ Also, if you ask questions whose answers are provided in the instructions, it im
 
 Please do not hesitate to ask questions if you cannot really figure out, but please make the effort to read in advance the instructions that have been provided. With that said, here are the instructions to deliver your assignments:
 
-**First assignment email:**
+
+**How to email the first assignment:**
+
 
 1.	In the subject, write “GEO309 Assignments by” (Your Name) “and” (Your partner’s name). Only you or your partner should deliver the final assignment.
 
@@ -82,18 +97,22 @@ Please do not hesitate to ask questions if you cannot really figure out, but ple
 
 4.	Send the email with copy to cmora@hawaii.edu and your partner’s email.
 
-5.	Done.
+5.  Fill the attendance sheet (put the date in front of your name for the given lecture)
+
+6.	Done.
 
 
-**Second to last assignment:**
+**How to email the second to last assignment:**
 
 1.	Reply to the email used to deliver the first assignment. Ensure to “Reply” including all contacts (so that me and your partner are cc).
 
 2.	In the first line of text of the email, indicate the assignment number/lecture number (e.g., Lecture 2).
 
-3.	After the second line in the body of the email write the responses to each question (or attach a Word or Excel file with your responses)
+3.	After the second line in the body of the email write the responses to each question (or attach a Word or Excel file with your responses).
 
-4.	Done.
+4. Fill the attendance sheet.
+
+5.	Done.
 
 In short, I need you to ensure that all your assignments are concatenated in the same email chain, and that you copy your partner and me. This will facilitate assessing your progress, and quickly check the responses if needed.
 
@@ -114,7 +133,7 @@ At the time of the exam, I will ask three questions randomly from the questions 
 
 **Option A**: I ask you seven more questions out of the total pool of questions. Each correct answer will be 10% of the grade. Your grade for the final exam will be the cumulative number of correct answers you provided.
 
-**Option B**: I offer you to take the test again, in which case you will go back to the GoogleSheet to mark the questions you *really and honestly* know the answers for. From the subset of questions you claim you know, I will ask you three questions to confirm that you knew the answers to those questions. You will get the grade that appear in the sheet if you answer the three questions correctly. 
+**Option B**: I offer you to take the test again, in which case you will go back to the GoogleSheet to mark the questions you *really and honestly* know the answers for. From the subset of questions you claim you know, I will ask you three questions to confirm that you knew the answers to those questions. You will get the grade that appears in the sheet if you answer the three questions correctly. 
 If after this second chance you fail to answer the three questions correctly, I will ask you seven more questions randomly from the total pool, and your grade will be based on the number of questions you answer correctly.
 
 
