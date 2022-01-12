@@ -18,7 +18,7 @@ title.innerHTML = '<img src="images/Water, their lost, causes and consequences.j
 
 This course explores current ideas and theory regarding the patterns and mechanisms driving biodiversity on Earth. 
 
-The student will first gain basic understanding of general concepts about biodiversity, and then dive into current knowledge about global scale patterns on the distribution of species, their body sizes and abundances.
+Student will first gain basic understanding of general concepts about biodiversity, and then dive into current knowledge about global scale patterns on the distribution of species, their body sizes and abundances.
 
 We will also discuss how environmental, ecological and anthropocentric variables have shaped such patterns of life on Earth.
 
@@ -30,8 +30,9 @@ This course consists of a number of weekly lectures covering different aspects a
 
 **Weekly Assignments (20%)**
 
-Each week Friday (any time is fine), you need to deliver your responses to the questions of the weekly chapters. You need to work on these questions and responses with another student. Your responses to these questions need to be delivered to me by email; after you email the responses, you need to sign up the attendance sheet, which I will be provide by email to you. Below I provide instructions about these weekly assignments. 
+Each week Friday (any time is fine), you need to deliver your responses to the questions of the weekly chapters. You need to work on these questions and responses with another student. Your responses to these questions need to be delivered to me by email; after you email the responses, you need to sign up the attendance sheet, which I will be providing by email to you at the beginning of the course. Below I provide instructions about these weekly assignments.
 These weekly assignments will be worth 20% of your grade.
+
 
 
 
@@ -97,7 +98,7 @@ Please do not hesitate to ask questions if you cannot really figure out, but ple
 
 4.	Send the email with copy to cmora@hawaii.edu and your partner’s email.
 
-5.  Fill the attendance sheet (put the date in front of your name for the given lecture)
+5.  Fill the attendance sheet (that is, put the date in front of your name for the given lecture)
 
 6.	Done.
 
@@ -129,11 +130,15 @@ Your grading for this test will be as follow:
 
 A week or two before the tests starts, I will provide a GoogleSheets link, where you will mark the questions for which you feel confident you know the answers for. This sheet will give you automatically the grade that you will get in the exam.
 
+```{block2, type='rmdwarning'}
+Before you claim that you know the answer to a question, I suggest you ask the question in loud voice and answer it in also loud voice. If you respond to the question yourselft, you should be able to respond to the question when I ask it.
+```
+
 At the time of the exam, I will ask three questions randomly from the questions you claimed you know. If you answer them correctly, I have then confirmed that you indeed knew the answers to the questions you claimed you knew and you will get the grade that appears in the sheet. If you fail to answer any of my questions correctly, that means that your own assessment of the content is incorrect; at this time, I will offer you one of two choices:
 
 **Option A**: I ask you seven more questions out of the total pool of questions. Each correct answer will be 10% of the grade. Your grade for the final exam will be the cumulative number of correct answers you provided.
 
-**Option B**: I offer you to take the test again, in which case you will go back to the GoogleSheet to mark the questions you *really and honestly* know the answers for. From the subset of questions you claim you know, I will ask you three questions to confirm that you knew the answers to those questions. You will get the grade that appears in the sheet if you answer the three questions correctly. 
+**Option B**: I offer you to take the test again, in which case you will go back to the GoogleSheet to mark the questions that you *really and honestly* know the answers for. From the subset of questions you claim you know, I will ask you three questions to confirm that you knew the answers to those questions. You will get the grade that appears in the sheet if you answer the three questions correctly. 
 If after this second chance you fail to answer the three questions correctly, I will ask you seven more questions randomly from the total pool, and your grade will be based on the number of questions you answer correctly.
 
 
@@ -141,7 +146,24 @@ If after this second chance you fail to answer the three questions correctly, I 
 [Slides](https://github.com/Camilo-Mora/GEO309/raw/main/main/Lecture 01_Basic concepts.pptx) <br>
 [Exam questions](https://github.com/Camilo-Mora/GEO309/raw/main/main/ExamQuestionsLecure1.xlsx)
 <center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZuELsfCNCps" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-S1rNCFUhYk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
+
+
+# 2: Speciation and extinction {-}
+[Slides](https://github.com/Camilo-Mora/GEO309/raw/main/main/Lecture 02_ Speciation and Extinciton.pptx) <br>
+[Exam questions](https://github.com/Camilo-Mora/GEO309/raw/main/main/ExamQuestionsLecure2.xlsx)
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jofK3KzfSps" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
+
+# 3: Taxonomy, systematics, and phylogenies {-}
+[Slides](https://github.com/Camilo-Mora/GEO309/raw/main/main/Lecture 03_ Taxonomy.pptx) <br>
+[Exam questions](https://github.com/Camilo-Mora/GEO309/raw/main/main/ExamQuestionsLecure3.xlsx)
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P0MLm9uAunA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
+
+
 
 
