@@ -166,7 +166,7 @@ If after this second chance you fail to answer the three questions correctly, I 
 
 # 4: Human evolution {-}
 [Slides](https://github.com/Camilo-Mora/GEO309/raw/main/main/Lecture 04_Human evolution.pptx) <br>
-[Exam questions](https://github.com/Camilo-Mora/GEO309/raw/main/main/ExamQuestionsLecure3.xlsx)
+[Exam questions](https://github.com/Camilo-Mora/GEO309/raw/main/main/ExamQuestionsLecure4.xlsx)
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OHUJPdaGtIg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
