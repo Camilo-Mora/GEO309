@@ -204,25 +204,29 @@ Please do not reveal the errors to the rest of the class.
 
 
 
-# 7: Species richness: Patterns {-}
+# Species richness
+
+## 7: Patterns {-}
 [Slides](https://github.com/Camilo-Mora/GEO309/raw/main/main/Lecture 07 Patterns in species richness.pptx) <br>
 [Exam questions](https://github.com/Camilo-Mora/GEO309/raw/main/main/ExamQuestionsLecure7.xlsx)
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XkqI4zNP2VI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
+
+
+
+## 8: Processes {-}
+[Slides](https://github.com/Camilo-Mora/GEO309/raw/main/main/Lecture 08 Processes in species richness.pptx) <br>
+[Exam questions](https://github.com/Camilo-Mora/GEO309/raw/main/main/ExamQuestionsLecure8.xlsx)
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EJpzKQ8F9m4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
 
 
 
-# 8: Species richness: Processes {-}
-[Slides](https://github.com/Camilo-Mora/GEO309/raw/main/main/Lecture 08 Processes in species richness.pptx) <br>
-[Exam questions](https://github.com/Camilo-Mora/GEO309/raw/main/main/ExamQuestionsLecure8.xlsx)
-<center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/..." title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</center>
+# Body size
 
-
-
-# 9: Body size: Processes {-}
+## 9: Processes {-}
 [Slides](https://github.com/Camilo-Mora/GEO309/raw/main/main/Lecture 09 Processes in body size.pptx) <br>
 [Exam questions](https://github.com/Camilo-Mora/GEO309/raw/main/main/ExamQuestionsLecure9.xlsx)
 <center>
@@ -231,7 +235,7 @@ Please do not reveal the errors to the rest of the class.
 
 
 
-# 10: Body size: Patterns {-}
+## 10: Patterns {-}
 [Slides](https://github.com/Camilo-Mora/GEO309/raw/main/main/Lecture 10 Processes in body size.pptx) <br>
 [Exam questions](https://github.com/Camilo-Mora/GEO309/raw/main/main/ExamQuestionsLecure10.xlsx)
 <center>
