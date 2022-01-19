@@ -142,6 +142,16 @@ At the time of the exam, I will ask three questions randomly from the questions 
 If after this second chance you fail to answer the three questions correctly, I will ask you seven more questions randomly from the total pool, and your grade will be based on the number of questions you answer correctly.
 
 
+## Extra credit {-}
+
+All lectures have been filmed and are posted in the pages below. All pages are loaded with data, and they all follow a general outline that I describe at the start of each lecture.
+
+However, I appreciate that watching a video for nearly an hour could be tedious. To motivate you to watch these lectures while paying attention and remaining focus, I have introduced a couple of errors in the lectures. If you identify any of such errors, please email it to me. Pointing any of such errors will give you a 5% buffer in your grade.
+
+The errors are simply statements, or terms I made that you should be able to challenge with the data given along the different lectures. These errors are not significant and do not affect any concept, but if you spot them, then you have been paying attention. 
+
+Please do not reveal the errors to the rest of the class.
+
 # 1: Basic concepts {-}
 [Slides](https://github.com/Camilo-Mora/GEO309/raw/main/main/Lecture 01_Basic concepts.pptx) <br>
 [Exam questions](https://github.com/Camilo-Mora/GEO309/raw/main/main/ExamQuestionsLecure1.xlsx)
@@ -172,4 +182,86 @@ If after this second chance you fail to answer the three questions correctly, I 
 </center>
 
 
+
+
+
+
+# 5: Biogeographical regions {-}
+[Slides](https://github.com/Camilo-Mora/GEO309/raw/main/main/Lecture 05 Biogeographical Regions.pptx) <br>
+[Exam questions](https://github.com/Camilo-Mora/GEO309/raw/main/main/ExamQuestionsLecure5.xlsx)
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NzhqUU46_GE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
+
+
+
+# 6: Geographic range {-}
+[Slides](https://github.com/Camilo-Mora/GEO309/raw/main/main/Lecture 06 Geographical range.pptx) <br>
+[Exam questions](https://github.com/Camilo-Mora/GEO309/raw/main/main/ExamQuestionsLecure6.xlsx)
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/...." title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
+
+
+
+# 7: Species richness: Patterns {-}
+[Slides](https://github.com/Camilo-Mora/GEO309/raw/main/main/Lecture 07 Patterns in species richness.pptx) <br>
+[Exam questions](https://github.com/Camilo-Mora/GEO309/raw/main/main/ExamQuestionsLecure7.xlsx)
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EJpzKQ8F9m4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
+
+
+
+# 8: Species richness: Processes {-}
+[Slides](https://github.com/Camilo-Mora/GEO309/raw/main/main/Lecture 08 Processes in species richness.pptx) <br>
+[Exam questions](https://github.com/Camilo-Mora/GEO309/raw/main/main/ExamQuestionsLecure8.xlsx)
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/..." title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
+
+
+
+# 9: Body size: Processes {-}
+[Slides](https://github.com/Camilo-Mora/GEO309/raw/main/main/Lecture 09 Processes in body size.pptx) <br>
+[Exam questions](https://github.com/Camilo-Mora/GEO309/raw/main/main/ExamQuestionsLecure9.xlsx)
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CYr3yVFnMN4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
+
+
+
+# 10: Body size: Patterns {-}
+[Slides](https://github.com/Camilo-Mora/GEO309/raw/main/main/Lecture 10 Processes in body size.pptx) <br>
+[Exam questions](https://github.com/Camilo-Mora/GEO309/raw/main/main/ExamQuestionsLecure10.xlsx)
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AYRft23ied4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
+
+
+
+# 11: Abundance {-}
+[Slides](https://github.com/Camilo-Mora/GEO309/raw/main/main/Lecture 11 Abundance.pptx) <br>
+[Exam questions](https://github.com/Camilo-Mora/GEO309/raw/main/main/ExamQuestionsLecure11.xlsx)
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/..." title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
+
+
+
+# 12: Ecosystem functioning {-}
+[Slides](https://github.com/Camilo-Mora/GEO309/raw/main/main/Lecture 12 Ecosystem functioning.pptx) <br>
+[Exam questions](https://github.com/Camilo-Mora/GEO309/raw/main/main/ExamQuestionsLecure12.xlsx)
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/..." title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
+
+
+
+# 13: The future of biodiversity {-}
+[Slides](https://github.com/Camilo-Mora/GEO309/raw/main/main/Lecure 13 The future of biodiversity.pptx) <br>
+[Exam questions](https://github.com/Camilo-Mora/GEO309/raw/main/main/ExamQuestionsLecure13.xlsx)
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/..." title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
 
