@@ -204,7 +204,7 @@ Please do not reveal the errors to the rest of the class.
 
 
 
-# Species richness
+# Species richness  {-}
 
 ## 7: Patterns {-}
 [Slides](https://github.com/Camilo-Mora/GEO309/raw/main/main/Lecture 07 Patterns in species richness.pptx) <br>
@@ -224,7 +224,7 @@ Please do not reveal the errors to the rest of the class.
 
 
 
-# Body size
+# Body size  {-}
 
 ## 9: Processes {-}
 [Slides](https://github.com/Camilo-Mora/GEO309/raw/main/main/Lecture 09 Processes in body size.pptx) <br>
