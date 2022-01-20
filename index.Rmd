@@ -90,28 +90,28 @@ Please do not hesitate to ask questions if you cannot really figure it out, but 
 **How to email the first assignment:**
 
 
-1.	In the subject, write “GEO309 Assignments by” (Your Name) “and” (Your partner’s name). Only you or your partner should deliver the assignment.
+Step 1.	In the subject, write “GEO309 Assignments by” (Your Name) “and” (Your partner’s name). Only you or your partner should deliver the assignment.
 
-2.	In the first line of text of the email, indicate the assignment number/lecture number (e.g., Lecture 1).
+Step 2.	In the first line of text of the email, indicate the lecture number (e.g., Lecture 1).
 
-3.	After the second line in the body of the email write the responses to each question (or attach a Word or Excel file with your responses)
+Step 3.	Load your answers (either load the file with the answers or write them down after line 2 of your email)
 
-4.	Send the email with copy to cmora@hawaii.edu and your partner’s email.
+Step 4.	Send the email with copy to cmora@hawaii.edu and your partner’s email.
 
-5.  Fill the attendance sheet (that is, put the date in front of your name for the given lecture)
+Step 5.  Fill the attendance sheet (that is, put the date in front of your name for the given lecture)
 
 6.	Done.
 
 
-**How to email the second to last assignment:**
+**How to email the second to last assignment (how to send lectures 2 to 13):**
 
-1.	Reply to the email used to deliver the first assignment. Ensure to “Reply” including all contacts (so that me and your partner are cc).
+Step 1.	Reply to the email used to deliver the first assignment. Ensure to “Reply” including all contacts (so that me and your partner are cc).
 
-2.	In the first line of text of the email, indicate the assignment number/lecture number (e.g., Lecture 2).
+Step 2.	In the first line of text of the email, indicate the lecture number (e.g., Lecture 2).
 
-3.	After the second line in the body of the email write the responses to each question (or attach a Word or Excel file with your responses).
+Step 3.	Load your answers (either load the file with the answers or write them down after line 2 of your email)
 
-4. Fill the attendance sheet.
+Step 4. Fill the attendance sheet.
 
 5.	Done.
 
@@ -199,7 +199,7 @@ Please do not reveal the errors to the rest of the class.
 [Slides](https://github.com/Camilo-Mora/GEO309/raw/main/main/Lecture 06 Geographical range.pptx) <br>
 [Exam questions](https://github.com/Camilo-Mora/GEO309/raw/main/main/ExamQuestionsLecure6.xlsx)
 <center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/...." title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4Mtxaj7tAKg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
 
 
@@ -257,7 +257,7 @@ Please do not reveal the errors to the rest of the class.
 [Slides](https://github.com/Camilo-Mora/GEO309/raw/main/main/Lecture 12 Ecosystem functioning.pptx) <br>
 [Exam questions](https://github.com/Camilo-Mora/GEO309/raw/main/main/ExamQuestionsLecure12.xlsx)
 <center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/..." title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gX6XsgOka5w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
 
 
