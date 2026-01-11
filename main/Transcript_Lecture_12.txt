@@ -1,0 +1,863 @@
+
+0:04
+all right we're approaching the end of the course today we're going to be looking at ecosystem functioning
+0:10
+and let's see how did we get here though so we established that a
+0:15
+4.6 billion years ago the planet came to be it took about a 0.1 billion 100 million years for the
+0:23
+moon to come in then for a billion years nothing is happening other than maybe the creation
+0:29
+of this thing called protocells that work as a plastic bag that allows to contain molecules that then allow for complex
+0:37
+things to emerge that led to the emerging the emergence emergence of prokaryotes that then led to eukaryotes
+0:44
+that a 3.0 something billion years after the first prokaryote
+0:51
+we ended up here with about 8.7 million species we established that once the
+0:56
+species originates which can happen in four different in four different pathways
+1:01
+i start the species start spreading until they colonize an area that is called the geographical range
+1:08
+many species doing this simultaneously leads to the overlap with your graphical ranges and
+1:14
+such that when you go and count the species on a given place you end up with different diversities on different
+1:19
+places and that leads to what is called the parents in species richness and we also show that once those species
+1:27
+start interacting on places and adapting to new environmental conditions you end up having different
+1:34
+body sizes and abundances now another thing that will emerge from you having
+1:39
+different species biomasses and abundances on local communities is basically they start
+1:45
+interacting and they start creating what is called an ecosystem and how that ecosystem works is the topic of a big
+1:52
+field of biogeographical ecosystem functioning so again basically what we're talking
+1:59
+about here is the the top three vials that we have described so far on how energy gets
+2:05
+allocated once get to the planet basically the number of species the body size of those species and the abundance
+2:11
+of those species and the interaction of all of these factors is what you get
+2:16
+what is called the ecosystem functioning so how is the consistent functioning of
+2:22
+an ecosystem nature though generally speaking functioning is defined as the efficiency with which
+2:28
+energy fluxes through an environment that's the definition of ecosystem functioning basically how efficient is
+2:33
+energy to flow through a given ecosystem so how can do you make how do you measure that in the real world when you
+2:39
+look at a given ecosystem you find a lot of different players species interacting
+2:44
+with each other and they are part of um different levels of the trophic pyramid you get
+2:50
+the energy and that energy gets taken by the plants then potentially decompose
+2:56
+and is taken by the primary producers secondary producers operators so you can start picturing
+3:02
+the different levels at which you can start measuring the how the energy flows
+3:07
+through that ecosystem at the most basic level of course you get the composition and you can start measuring things like
+3:14
+nutrient cycling how nutrients a model would get changed through a given ecosystem you can start looking then
+3:20
+potentially at the primary production how much energy from here goes through the nutrient cycling that ended up
+3:27
+allocated to primary producers you can also start looking at secondary production or you can look at the
+3:33
+biomass or the entire ecosystem so here again are some indicators that you can
+3:38
+use to measure how the energy flows through through a given ecosystem of course it's very complex the flow of
+3:46
+energy can go in so many different ways and the reason why scientists normally focus on just one or two of those bibles
+3:53
+there so as it relates to ecosystem functioning
+3:59
+of again the flow energy the efficiency of the flow of energy on a given ecosystem
+4:04
+most of the focus has been on how that efficiency relates to the number of species
+4:10
+let me just give you some background in mathematics just so that you can understand in a moment the relationship
+4:15
+between ecosystem functioning and biodiversity mathematically this equation here y is
+4:21
+equal to a times x to the power of b is what is called a power model it's a
+4:26
+power model because you have this coefficient that elevates the x value to the power of b
+4:33
+now it turns out that when you have that y variable here on this plot and the x
+4:39
+variable here on the x-axis what happens is that the number of these power exponent
+4:47
+determines the shape of the relation to the relationship between x and y so this
+4:53
+b parameter is smaller than b normally what you find is what is called a saturating curve right so as you can see
+4:59
+here it's a saturating chord as you increase x y also increase but then after certain
+5:05
+increases on x y doesn't increase that much so you get what is called a saturating curve
+5:11
+also it's called concave down relationship and it's again cases when the power model has a b exponent that is
+5:18
+smaller than one when that exponent is equal to one then of course
+5:23
+you forget about a then y will become equal to x and again
+5:29
+you get a linear relationship between x and y there are other cases though where b is
+5:35
+larger than one in those cases what you find again is normally relationship that are concave up or
+5:42
+exponential relationships in which a y increases exponentially for small increases on x
+5:49
+again that's what is called the power model and what i want you to keep in mind is the the significance of that b
+5:54
+parameter okay depending on the b parameter you can get concave down
+6:00
+linear relationships or concave up relationships that is important because in a moment we
+6:05
+are going to be looking at how people around the world have been trying to relate ecosystem functioning on the
+6:11
+y-axis against biodiversity and what is the parameter that they have found
+6:16
+so there is this guy brad cardinale he's the one that kind of started to put all of these papers together so obviously
+6:23
+having hundreds of papers related relate relating ecosystem functioning against richness and put it all together and he
+6:29
+found on this paper in 2006 that out of 111 papers that have been published at
+6:35
+the time the power parameter was between point one fifteen and point zero thirty two
+6:42
+basically what we are talking about here is that all of these experimental studies have shown what is called a
+6:47
+saturating curve or a concave down relationship exactly the shape that you see here so this is a consistent
+6:53
+functioning whatever method you choose here against the number of species richness what it was found is that as you
+6:59
+increase the number of species on an ecosystem the functioning of the ecosystem tends to flatten out
+7:07
+now that is the paper by cardinale again they put together 111 papers here and they found that in
+7:14
+experiments all of the relationships had shown that biodiversity the functioning of an ecosystem flattens as you increase the
+7:20
+number of species there is this other paper by mitchell loro and he found exactly the same thing
+7:26
+again this is a huge diversity of stories that he put together and he shows here that again in this case
+7:31
+productivity as a metric of ecosystem functioning flattens saturates as you increase the number of
+7:38
+species but the question then becomes why why would that be the case why will
+7:45
+these experiments show that the number of species as you increase the number of species that function on the amount of
+7:51
+energy that flows through that ecosystem tends to flatten out so in a paper written by micheloro again in
+7:57
+2001 he speculates that there might be two driving forces for this relationship
+8:02
+basically if you had a pool of a species and you increase the number of species one of the things that will could
+8:08
+potentially happen of course is that you are going to have more traits or more functions and that leads to what is
+8:13
+called complementarity we talked about that earlier when you talk about explanation specialization and basically
+8:20
+when you have many species combining together you are going to be using multiple parts of the resource and that obviously
+8:26
+will increase the number of the amount the amount of energy that can flow through an ecosystem the other
+8:33
+possibility that they speculate is that as you start increasing the number of species like in this case assuming that
+8:38
+the size of these triangles is related to the biomass that is flows through a given species one of the things that you
+8:44
+will observe obviously is that the arsenic species are more abundant they are bigger so they are going to have a higher chance of having a larger flow of
+8:50
+energy through them they speculate that when you start increasing the number of species there
+8:55
+is a chance that you might by chance alone picked out those species that have large in
+9:01
+capacity to produce biomass and again that's what it's called that's what they refer as a sampling effect something
+9:08
+after again is just you having a random chance of picking up a species that can
+9:14
+either hold or produce more violence and that is again to the to the driving explanations for why is it that all of
+9:21
+these experiments had shown a concave down or saturating relationship
+9:27
+between functioning and species richness
+9:32
+so when you look at the relationship again that seems to be universal from experimental studies is the fact that
+9:39
+the relationship saturates but one of the one observations that you can still make out of the hundreds of papers is
+9:45
+that there is a huge variation on the slopes of these relationships in some cases
+9:51
+biomass increases quite dramatically in other cases it doesn't increase as dramatically the question then becomes
+9:57
+why why is there such a variability here on the relationship that has been found
+10:03
+among studies between the functioning of ecosystems and the richness of those ecosystems so there
+10:08
+are multiple explanations again here we're trying to explain what does the case one hypothesis that was proposed early
+10:15
+on is the history of colonization it's a paper by fukuma and peter mourinho in
+10:21
+2003 this is what they did just for you to realize that science doesn't need to be
+10:27
+complicated so they have these jars right maybe a gallon block of jars and
+10:32
+inside those jars they have rotifers protozoans ciliates and microphone for
+10:38
+isolates and these are microorganisms that you can actually will will pop up
+10:43
+on any of these any things that you live in open and you can normally see that when you put water and let it outside you start
+10:51
+seeing turning green and those are kind of again um algae but then that algae allows for all
+10:58
+kind of microbes to arrive including these guys here so one of the things that they did though was to identify
+11:04
+these guys very well and what they did after was to modify the order in which
+11:10
+these guys arrive in the jar right so basically there is like a priority effect once the species gets to the jar
+11:16
+and then what happens when the second species arrives and basically what they did they modify the order in which these
+11:22
+species arrive and then they analyze here a consistent functioning they look
+11:28
+at productivity versus species richness kind of the reverse on the axis but you have to forgive them for that but the
+11:34
+point of their paper was that depending on who do you put first on those jars you end up having
+11:40
+different relationships so here they have the same relationship with the same species over they
+11:47
+modifying a b c and d is the order in which these guys got to those jars and
+11:52
+then that allows them to conclude that the history of colonization who gets to a place first
+11:58
+can potentially shape quite dramatically the shape or the relationship between functioning and biodiversity and you can
+12:04
+think about it right so imagine there is an empty island and a species that gets there first obviously has a higher
+12:10
+chance of colonizing potentially becoming more productive if that by any chance that a species is
+12:16
+a weak producer then the relationship that you are going to get is going to be completely different if
+12:22
+the species are arrived first is a species that produces a lot of energy or that that is sufficient as a recycling
+12:28
+energy so again one of the first explanations for why there is a viability in the
+12:35
+relationship between ecosystem functioning arrangements was produced by fukuma and maureen and suggests that is
+12:41
+simply the history of colonization or the order in which species arrive to ecosystems
+12:48
+another explanation for this variability is the telogenity of the habitat there is a paper that was produced that was
+12:55
+published by this guy tilianakis in plus biology i don't know if i don't know the person though but that's
+13:01
+his or her last name what they did they look at the grasslands i mean natural grasslands
+13:07
+it's just landscapes that look like this and they look at the relationship between bellow biomass they basically
+13:14
+took all of the biomass of those grasses and they related against the number of species and what they did though was to separate
+13:20
+locations that had higher heterogeneity medium heterogeneity and lower
+13:26
+heterogeneity and they find that depending on the level of habitat heterogeneity you get different shapes
+13:33
+of that relationship so whenever there is high soil heterogeneity you have you get a much steeper relationship
+13:39
+basically you produce a lot more biomass for the same given number of species when it's medium the slope is still
+13:47
+inclined it is positive but not as steep but when there is soil heterogeneity that is low that is almost
+13:54
+the relationship is very flat the question again just to summarize
+14:00
+here when you take the relationship between the functioning and the diversity one of the and you take for
+14:05
+instance one point of diversity what you find is that the diversity at any
+14:11
+heterogeneity increases as you increase heterogeneity again the biomass
+14:18
+production or the functioning that you get is significantly higher for the same level of diversity as you increase
+14:25
+heterogeneity well you can think about why why would be habitats that are more heterogeneous
+14:31
+have more biomass than habitats that are not acetogeneous given the same number of species the potential for that again
+14:38
+it could be simply a specialization to those habitats so basically species inhabitants are heterogeneous can
+14:44
+specialize and optimize the use of resources in certain places and that will potentially maximize the amount of
+14:50
+biomass that you produce on those places as opposed to places that have low heterogeneity when a species
+14:57
+obviously can interact more freely among them and that interaction of course reduces the the efficiency of a species
+15:04
+to to cycle energy because they will have to spend and waste a lot more energy on fighting each other competing
+15:10
+than in producing biomass again thinking about the reasons for why
+15:15
+there is a viability on the relationship between functioning and diversity one possibility as well is the habitat
+15:24
+heterogeneity another possibility that has been suggested is for this variability is disturbances this is a
+15:32
+paper by brad cardinale and palmer and what they did they analyzed these
+15:37
+cut cuties flies and they look like these these are animals that inches that you
+15:42
+see living on streams and here what they did they looked at again the biomass
+15:49
+production of habitats where that species was there there and the number of species on those places and they had
+15:57
+these hydras that they they stored and sometimes they did on the other side
+16:02
+the other group they did the surf and then they looked at the biomass of those places that were disturbed against the places that were not disturbed and they
+16:08
+found different relationships here so for instance in the places that were not disturbed which are these places in
+16:14
+black you see that the biomass increases as the number of species
+16:21
+increases while in places that are disturbed the biomass increases
+16:26
+as the number of species increases so post this video and think about why
+16:31
+why will there be the biomass of an ecosystem increase as you increase the level of disturbance given same number
+16:39
+of species as opposed to a place where there is no disturbance obviously
+16:44
+one potential explanation here is that when you get a disturbance basically the disturbance allows to to remove the
+16:52
+competitive advantage that some species might have so obviously you don't have disturbance they're especially going to
+16:58
+start interacting and there is going to be an imbalance that is going to make one species to be more dominant than the other one and that will cause
+17:04
+potentially an extinction of the species that is weak however when you have disturbances it's possible that these
+17:10
+species that start dominating start getting knocked out by the disturbance because it's more abundant and that kind
+17:16
+of allows them those two species to coexist and as a result become more efficient in the use of energy and that
+17:22
+is one potential explanation for how disturbances will cause
+17:27
+variations on the relationship between biomass production and the species richness
+17:33
+and again what we're just talking about here is the stain to which disturbances can help to explain that variation that
+17:40
+we find between the biomass that is produced as a function of the number of species
+17:48
+another possibility to explain this variation again between rich functioning and richness is ecological interactions
+17:55
+this is a kind of a review written by emma duffy in ecology letters
+18:00
+and it shows here that when you look at ecosystem functioning measure as different types of biomass against the
+18:07
+diversity you will find that there are different patterns to that relationship whether you look at the diversity of
+18:14
+plants alone where you put albiros alone or where you plants and herbivorous
+18:19
+alone so what he argues there is always there are different species with
+18:25
+different capacities to to cycle energy and this also
+18:30
+changes in the efficiency of energy from one ecologic trophic to the next one and
+18:35
+obviously that you can expect those variations cause different um
+18:42
+shapes on the relationship between biomass and diversity and again this is a paper by duffy and
+18:49
+it suggests that some of this variability that we find in the relationship between functioning and richness is a function of ecological
+18:56
+interactions another possibility for this variation
+19:04
+is basically an interaction between disturbances and trophic levels
+19:09
+right annie this is a paper by patchy i think this is the same guys that did the work
+19:15
+before that we talked about earlier and about the the priority of arrival this
+19:20
+is the the group by peter morin and again the same deal they had these jars
+19:26
+and what they did on these jars though they had different groups of species that can be classified as producers
+19:32
+bacterial right herbivorites and predators and what they did they start warming up the water they start warming
+19:39
+up the water on those containers and what they find is of course as expected is that when there is warming the
+19:45
+predators the herbivorous and the the ones that eat bacteria they normally
+19:53
+die more wherever it is hot right makes sense if you think about big predators and bigger
+19:59
+vibrators they are going to die when it gets hot while producers and bacteria-related species they don't die
+20:06
+as much so what you can expect just from this figure of them determining the rate of
+20:11
+extinction of a species on those aquariums and most of the species that die when you heat up the water being predators and
+20:17
+herbivorous and the ones that don't die as much are producers and bacteria that alone already tells you then that
+20:23
+in ecosystems that you get heat up are the producers and the bacteria that the ones
+20:29
+that are gonna produce the more biomass and in fact that's exactly what they did
+20:34
+so here they had the results of experiments that they hit up in which they had different types of diversity
+20:42
+and with different these four groups and they in some aquariums they hit them
+20:48
+and in all aquariums they just get them at room temperature what you can see here is that in aquariums where they
+20:53
+were swarming and especially in high biomass in high diversity there was a high
+21:00
+biomass and again in low diversity there was still a hot biomass and those are again the species that the biomass that
+21:06
+is produced by producers exactly this group of species here as you can see temperature didn't do much
+21:12
+to these guys but when you analyze the the biodiversity of that species in the
+21:19
+entire ecosystem on ajar and you start heating it up obviously there is no surprise that they actually are the ones
+21:24
+that produce the most biomass and ecosystems that get hot as opposed to ecosystems where the temperature remains
+21:30
+cold again the point that i'm making here is that anytime that you heat up the water
+21:36
+what they found is that most of the biomass that is produced on those aquariums are by the species that
+21:41
+survive they call the hotter temperatures which were their producers now however when they analyze the
+21:47
+biomass of the entire ecosystem all of the jars not just the ones that manage to survive the temperature what they
+21:53
+find though is that the the ecosystems that were the hot were
+21:58
+producing the least amount of biomass while the ones that remain constant
+22:04
+produce the more energy seen that interesting finding there so what what they find here is the fact that in
+22:10
+aquarius that we're heat up right obviously the herbivorous and
+22:16
+predators die the energy that is available can be processed only by producers that
+22:21
+dominate the production of ecosystems in environments that are hot but when you analyze the total biomass that is
+22:27
+produced in those places it turns out that the biomass is much smaller than the biomass that is produced when the
+22:33
+temperature is constant basically in the environments that are hot you just kill off all of the the top predators and the
+22:40
+arbitrals so the energy cannot flow as easily there so that's the reason why those ecosystems that get hot don't
+22:46
+produce as much energy as opposed to the ecosystems where the temperature remain constant there again that's just not to
+22:53
+say that biomass producers didn't produce biomass because on those ecosystems all of the biomass
+22:59
+in the biosystems are hot all of the vitamins is produced by these producers at the end die because of the heat
+23:05
+one thing though that you two have noted to this point in this lecture is the fact that all of the studies that were done
+23:12
+early on for decades this is a field of research that started maybe in the 2000s and it has been going on for 20 years
+23:18
+now most of that work has been done at the level of experiments either in jars like
+23:23
+these or feel a few experiments that are relatively small so the the effect of this of course is that
+23:30
+the outputs are very simplistic you can imagine here we're trying to simulate entire ecosystems in the world based on
+23:35
+what happens on a jar obviously they provide interesting insights like we just understand here but can they really
+23:41
+be replicated their results at the global scale can they be translated to see really what's
+23:47
+happening in the real world to answer that question or really what's now happening in the real world this guy
+23:54
+came about his name is roberto da novaro he's from italy he pulls his paper on
+23:59
+deep nematodes he went around the world all of these places that you see here
+24:05
+in colors in these maps and he analyzed the biomass and the diversity of these
+24:11
+nematodes and what he find there which was even fascinating was that the slopes
+24:16
+or the relationships between ecosystem functioning and richness were concave up you guys remember all of the papers add
+24:23
+to that paper after this paper in 2008 were based on experiments and all of them have been showing concave down
+24:29
+relationships roberto de novaro for the first time goes to the field and wants to find out how is that relationship in
+24:35
+nature and he finds that the relationship is actually concave up
+24:41
+at the time when this thing this paper was in 2008 i got super intrigued on this and the reason why not many people
+24:47
+have done this globally online is because obviously you need to analyze the consistency over huge geographical skills that that it makes it for those
+24:54
+analysis to be super rare because collecting the data is super hard however at the time i i decided that i
+25:02
+wanted to answer the same question but i wanted to focus on coral reefs it took me about three years to put this
+25:08
+database together so what i did i i contacted a scientist from every one of those places i contacted easily 60
+25:15
+scientists that had collected data on the biomass and the diversity of fishes on coral reefs everywhere on those
+25:21
+places from the caribbean the eastern pacific the pacific ocean and the indian ocean
+25:27
+and i wanted to explore for coral reefs what is the relationship between biomass
+25:32
+and raciness am i supporting the world that was known by donald barrow showing that the relationship is concave up or
+25:38
+am i supporting the relationship by loro and all of these other guys cardinality showing that the
+25:44
+relationship is concave down so you can imagine my excitement as i was collecting this data from all of these
+25:49
+places around the world i put the data together on a plot just to see how the relationship looks like and this is what
+25:54
+i found that the relationship is actually concave up regardless of the region where you look at and that's the
+26:01
+the shape of the relationship that we found so now it turns out that we had a contrast
+26:07
+right so we had all of these experiments that have been done over hundreds of experiments by now showing that the
+26:13
+relationship between biomass and richness is concave down but then there are at least two studies done globally
+26:20
+showing that the relationship is actually concave up and the question then becomes why does the case
+26:27
+why in experiments the relationship is concave down why nature that relationship is concave
+26:33
+up one one impossibility we had another paper that i published with michelle laurel
+26:40
+and roberto d'anoaro as well was to explain why does why is that different one
+26:46
+possibility that we speculate is initial specialization so imagine that here you had two species
+26:53
+right in red and in blue those are two species when you had an experiment and you put experiment there right imagine
+26:59
+like an aquarium you put two animals that you take from a pond and put them into that aquarium obviously those
+27:04
+species are going to start interacting with each other there's going to be intense competition on that acquiring the resources are no limited there is no
+27:10
+places to hide the time that they require to to specialize in some of the orders of tons of years so
+27:17
+in experiments there is going to be a high degree of ecological interactions between the species that are put in
+27:23
+there while in nature the goals of past competition has forced these species to
+27:28
+already specialize so there is not going to be competition so the speculation here is that obviously in nature given
+27:36
+this higher specialization you are going to have higher production while in experiments that ecological
+27:42
+interaction between species is going to make species waste energy on that competition making them the production
+27:49
+smaller on experiments and again this is one explanation that we suggest for why is
+27:56
+it that in nature the relationship is concave basically through a specialization every species that is
+28:01
+added add more biomass while in experiments the competition that makes all species
+28:08
+to start competing for certain amount of resources that are there and that competition eventually just
+28:14
+forces a species to to minimize the amount of energy that is producing the
+28:19
+given ecosystem another possibility proposed by michelle
+28:25
+ro on this paper was that when you look at atrophic pyramids obviously you have the primary producers and the top
+28:31
+predators at the top there is there are flows of energy on this and one possibility that will be happening in
+28:38
+nature is that we are losing the top predators as we explained before and basically you lose that operators what
+28:45
+happens there is that then you increase the biomass the efficiency of lower
+28:50
+trophic groups and then that results in an increasing production
+28:56
+in nature that is simply the result of a tropic release of you clean off the top
+29:01
+predators right so basically by you're wiping out the operators in nature what you ended up with is most of the biomass
+29:09
+in the in an increasing biomass by the by the top by the producers that then
+29:15
+could explain why in nature you get this exponential relationship again basically what means what emitter suggests is that
+29:22
+by you losing that operator you increase the efficiency of production of primary producers in nature that explains why
+29:29
+that relationship is accelerating in nature but what are the implications of what's
+29:35
+the big deal so experiments find that this is saturating in nature is exponential well it turns out that there
+29:40
+are a lot of different implications for why this is seeing a significant issue for us to resolve what is happening in
+29:46
+nature the implications are this so when you lose a a species basically what you do you lose
+29:54
+exponentially the capacity to produce biomass or the efficiency in which you produce biomass on that ecosystem well
+30:02
+in experiments if we trust the evidence that comes from experiments we can really afford a lot of species being
+30:08
+lost without having too much change in functioning right so again that's the significance of this thing we're talking
+30:14
+about ecosystem functioning which are the things that we feed on from nature so this is what is happening in reality
+30:20
+which is an exponential increase every time that we are killing a species from nature we are tampering significantly
+30:27
+exponentially the capacity of that ecosystem to produce resources and biomass and functioning
+30:33
+but if what is happening is this then you can afford to lose a lot of different species there without
+30:39
+impacting the capacity of this ecosystem to produce biomass basically another thing from experiments
+30:46
+is basically the idea that there is a lot of redundancy on the ecosystem basically you can afford to lose any
+30:52
+species from here on because there are species that are redundant on those places in nature is
+30:57
+actually is actually quite the opposite almost every species is unique and that actually for me makes the most sense
+31:04
+because again through evolution and ecological interactions those species will be specialized into specific
+31:11
+habitats as a way to minimize that competition so in nature there is less redundancy meaning that again if you
+31:17
+lose that one species you might have lose an entire function of an ecosystem
+31:24
+so again just to summarize in nature almost the loss of every species could
+31:29
+have irreplaceable effects on the ecosystems while in nature you can afford to lose
+31:35
+tons of species and that will not potentially influence as much the functioning of the ecosystems and that again are some examples of the huge
+31:43
+implications of as needed to resolve what is really happening in nature here whether whether
+31:48
+it is concave up or concave down
+31:55
+so unfortunately that relationship between functioning and special reasons in
+32:01
+nature that understanding is very limited as i explained the the data that is needed
+32:07
+for you to analyze that relationship is very hard to collect and you have to collect it globally and that kind of
+32:12
+restricts the number of stories that are have tested this however with the data that we already had you
+32:19
+can get some insights into some of the variations that you find in nature so this is the paper
+32:25
+another paper that i analyzed in the caribbean this is the data just for the caribbean and you can see here the
+32:30
+biomass production of coral reefs in the caribbean against the number of species and again as i explained to you is
+32:37
+concave up in the prior paper analyze every single region in the world in this one paper it
+32:42
+was only the caribbean though one of the things that we decided to do for this paper is that
+32:48
+one of the observations that we had was this huge variability though despite the fact that in average
+32:53
+the relationship is concave up you still get a huge variability one of the things that we decided to do was to separate
+32:58
+locations depending on how many people were on those coral reefs near those coral reefs so here is a relationship just a subset
+33:05
+of these points in which there was almost no people near the coral reefs and you can see that their relationship
+33:10
+is super exponential and super steep now when you start having locations
+33:18
+that have between a hundred people and a thousand people that relationship start flattening when you have people that is between a
+33:24
+thousand and ten thousand people the relationship flattens even more so i want you to start picturing from the
+33:30
+subset of ribs the relationship between biomass and richness start flattening
+33:36
+as you increase the number of people but what is remarkable though is the
+33:42
+fact that when you have a lot of people on coral reefs the the biomass that relationship increased the slope of that
+33:48
+correlation increase so think about this like the susception so the relationship that you will expect to see in nature
+33:54
+everywhere is this where there are no humans the relationship is super steep but as you start increasing the number
+33:59
+of people that relationship start flattening but when you had a lot of people that relationship comes back up
+34:07
+and and here you can see actually how steep it becomes when you have more than this is a million people near ribs these
+34:13
+are the slopes of these relationships here so i decided to linearize this and here you can see the slopes in these
+34:20
+columns depending on how many people are near ribs and this is exactly what i explained the relationship is super
+34:26
+steep where there is no people start declining as you increase the number of people but then it goes back up as you
+34:33
+increase the number of people so it seems like again when there is no
+34:38
+people functioning the capacity of ecosystems to produce biomass is huge as you start
+34:44
+putting people that if their efficiencies start declining but once you get to a lot of people that
+34:49
+efficiency for some reason goes back up so we decided to investigate why
+34:55
+right why would that ecosystem functioning changes as a function of how many people are near ribs
+35:02
+we think about two possibilities one is that as you increase the number of people you increase
+35:07
+you reduce the number of people that require that uses those resources or includes yeah right or the other one is
+35:14
+that somehow as you increase the number of people the pressures are so massive that ecosystems start adapting to that
+35:22
+to those pressures that are being put in there again two possibilities one is that as you increase the number of people you
+35:28
+reduce the the use of resources that you take from coral reefs you think about
+35:33
+this right so you had a million people that live on a place the reality is that not a million people
+35:40
+can be fed from a coral reef so you will expect then that at those levels of people
+35:45
+the impulse that we had on coral reefs will reduce as opposed to places where there is a relatively fewer people where
+35:51
+they can be fed over those coral reefs so the pressure could be more intense that's one of the speculations here
+35:57
+the other one is that maybe what is happening is that ecosystems start rebounding after something happens to
+36:03
+the ecosystems let's analyze the work that we did to test these two hypotheses
+36:10
+the first one hypothesis is that humans reduce their use of reef resources so in
+36:15
+this paper we analyze the data on the amount of fish that is taken from quarter roots per square kilometer this
+36:21
+is by country and this is number of people fishing right and we correlated that against the number of people what
+36:27
+you can see is that that relationship is steep on both cases so basically what we
+36:32
+are talking about here is that no this is a completely untrue that as you increase the number of people the pressures that we put on coral reefs get
+36:39
+smaller it's actually quite the opposite when you increase the number of people
+36:44
+you increase the amount of fish that is taking from the reefs actually there is a ton more people going fishing
+36:50
+and the same thing here when you increase the number of people to increase the number of people within that group that can go and fish as well
+36:56
+so this hypothesis was a kind of nullified because we found
+37:03
+evidence to suggest that no as you increase the number of people the pressures on coral reefs do not decline
+37:12
+the other possibility that we speculate here is that maybe what is happening is that there are changes in the in the
+37:17
+community of coral reefs as a way again to adapt to those pressures that we are putting here
+37:24
+so here you can see the diversity of the biomass this is sorry this is the
+37:29
+density of top predators and their body size in places that had no humans places
+37:35
+that had a lot of humans in red so what you can see here is that when you look at the top predators the density remains
+37:43
+almost zero across body sizes basically what you are
+37:48
+seeing what we are showing here on this red line is that in places that you had a lot of humans we take always they're
+37:55
+the bigger fish right in places where there are no humans you can see that ecosystems normally had a
+38:01
+higher proportion of big fish makes sense right you think about the northern hawaiian islands there is no people
+38:07
+there so you get to see a lot of big fish when you go and look at places like oahu where there is a lot of fish there
+38:13
+is no big story where there is a lot of people there is not a lot of big fish there so it seems that in nature even
+38:20
+under natural conditions of no human impact you don't get to have a smaller
+38:26
+top predators right so normally those in places anywhere you don't get to see
+38:32
+too many small predators but in places that had a
+38:37
+no humans toprators get to be very big very abundant while places that
+38:43
+you had a lot of people the predators that is large get to be pretty rare
+38:49
+now what happened what happens to their vibros fish the ones that get fed on by the top predators what you see actually
+38:55
+is that in places that had a lot of humans the density of small herbivorous
+39:02
+increases quite a lot so what we speculate here is the fact that
+39:08
+this shape on that relationship between functioning and richness declining as
+39:15
+you increase the number of people but bouncing back is simply an ecosystem release from you having top
+39:21
+predators in places where no human the relationship being super stiff humans start depleting their resources
+39:28
+and as a result of that depletion you start losing top predators you start increasing the density of a smaller
+39:33
+vibrators and then is that increasing the density of smaller arbitrals that causes the increase in biomass
+39:40
+their but one of the things that i want you to look at is the access of these columns you can see on places that had
+39:46
+no humans how you can produce up to 1200 kilograms of biomass i don't remember
+39:52
+sorry i don't remember what the units on this thing but you can see that the units are the same on all axes here is 1200 in places where there are no humans
+40:00
+in places where you have humans despite the fact that the relationship is trying to come back up the scale only goes up
+40:06
+to 900 right
+40:11
+so again what we speculate on this paper is that humans seem to induce some kind
+40:17
+of trophic changes in ref communities which in turn change changes the way in which energy flows through that
+40:23
+ecosystem is very similar to the word that was shown earlier by peter mourin when you start killing fish killing in
+40:30
+certain groups of species winning ecosystems by warming right when you kill the top predators and their vibrators most of the biomass is
+40:37
+produced by the producers but the biomass is still insignificant to compare to compared to the biomass that
+40:42
+is produced by entire ecosystem we are explaining the same thing here ecosystems
+40:48
+could produce a lot of biomass when there is no humans when you start having human impacts on those ecosystems those
+40:54
+consistencies are changing the the composition of a species so that at the very end you ended up with a huge
+41:00
+density of a smaller everywhere so obviously the amount of biomass that is produced by these species doesn't
+41:06
+compare at all to the biomass that is produced on ribs that have no humans
+41:13
+so why the whole thing is important though why is it important for us to understand this ecosystem ecosystem functioning well one of the things that
+41:18
+i want you to realize is that at the end of the day biodiversity
+41:23
+abundance and body size they come together into this thing called ecosystem functioning and that ecosystem functioning is what fits humanity at the
+41:30
+end of the day the the turnover efficiency in which the energy and resources flow through those ecosystems
+41:36
+is what we feed on right and as we establish today with this massive transformation of ecosystems we are
+41:42
+losing goods and services that sustain humanity so we are talking about here is
+41:47
+that with us impairing the capacity of ecosystems to function well we're inferring the capacity of those
+41:53
+ecosystems again to deliver goods and services that influence human welfare and in this class i already point out to
+41:58
+you some serious statistics in the order of a billion people going angry around a billion people lacking good water and
+42:04
+things like that there's also the economic value that we established before
+42:10
+this paper that we talked earlier by constanza that calculated the total goods and services from nature in the
+42:16
+order of 33 trillion dollars relies obviously or assumes that all of these ecosystems are effective at producing
+42:24
+biomass we're not only affecting again welfare as i explained earlier but also
+42:29
+the economic return that we get from nature let me summarize the class
+42:35
+again one of the key questions in biogeography is this relationship between the functioning of
+42:41
+ecosystems and the richness it has been found it's almost universal that in
+42:46
+experiments that relationship is saturating the reason why well one possibility is
+42:52
+those two paper that paper by laurel saying that it could be complementarity where species just complement each other
+42:58
+and that increases the number by the functioning as you increase radiation or the other one is what is called a sampling effect basically by chance
+43:04
+alone you might get certain species that are effective at producing biomass
+43:10
+what factors influence that relationship basically we found that among all of those experimental studies there is a
+43:15
+variability on the slope of that relationship some of the factors that can influence that relationship are the history of
+43:22
+colonization a lot of papers by mitchell by peter morin the heterogeneity that one paper in in close biology
+43:29
+disturbances this is the word by brad cardinale and ecological interactions
+43:34
+and peter mourin also had the last paper talking about ecological interactions and disturbances playing together to
+43:41
+influence this the shape of this relationship we also discover how describe how in
+43:47
+nature this this same relationship between functioning and richness is actually concave up
+43:52
+and we speculate that the factors that will influence that relationship are human population
+43:58
+the reason why this relationship is important for us to understand is because at the core of it is the
+44:03
+production of goods and services that we obtain from nature and that is going to influence human welfare and that
+44:09
+finishes the class for today and see you guys in the next episode

@@ -1,0 +1,1039 @@
+
+Intro
+0:03
+okay welcome back so let me review the content of the class up to now just to see where we are for
+0:10
+the next phase of the class so early on i indicated to you how species originate
+0:16
+there are different pathways in which species originate there are also the alternative pathways that we can think
+0:22
+of on how species go stain so there is this the change
+0:28
+right to a species originating and going a stain and during that period during that period where species are alive
+0:34
+alive they they disperse and then they overlap the ranges with other species
+0:39
+this overlap of a species ranges creates then a different patterns one of the
+0:46
+most striking patterns of all of these species again originating this person and overlapping the ranges is that when
+0:53
+you look at a given place you can count then how many species are there and you can start from all the way
+0:59
+up to the global scale how many species are there in the planet all the way down to how many species are there in waikiki
+1:04
+and again it comes down to these species overlapping the regions that determine this very interesting pattern that we
+1:10
+call a specie richness i i had decided to break the class on a special richness into two different
+1:17
+lectures one that we're going to be looking at today which are the patterns so i want to describe to you some of the
+1:22
+patterns that are there globally on how many speed are there in the world where are they and in the following
+1:28
+class we will move into the processes why are the patterns the way they look
+1:34
+so when we think about biogeography and as it relates to species richness there
+1:39
+are obviously hundreds of equations questions that have been formulated but two of the most pressing or most important questions as they relate to
+1:46
+especially resonating biogeography is how many species are there right and the second one is where are
+1:51
+those species and why are they on those places so let's break down here the first question of how many species are
+1:57
+there in the planet when you look at the species that we have actually put a name to the magic
+2:03
+number comes to about 1.5 million species those are the species that had a name according to the illinois system of
+2:09
+classification that we saw priorly and here you can see the number of species by taxonomic groups for instance in
+2:15
+vertebrates all of the species that share a backbone the total number comes to about 57 species that had a name i
+2:22
+want you to keep this keep a distinction here these are the species that had name 1.5 million species and here how here is
+2:29
+how they are divided among the different groups but how many are there in total though
+How many are there
+2:35
+we have managed to give a name to 1.5 million but how many are there in total unfortunately when you look at
+2:41
+that answer one way that you can get to this answer how many species are there is to count them directly basically i go
+2:47
+there and i count one species by one unfortunately when you look at the data that comes from this approach you
+2:53
+realize the magnitude of the uncertainty that we have today as it relates to how many species are there in the planet
+2:59
+so here on this axis on the y-axis i had the number of species that had a name that have been described
+3:05
+here the year so you can see how the whole thing got started back in the 1700s when lynn nels proposed his method
+3:12
+and then after that people from around the world started to get crazy about putting names to his species and here
+3:18
+you can see by the end of this century when in reality easily we could have given names to about 1.5
+3:25
+million species the number actually oxidized a lot i'm not going to get into that today because something that is
+3:31
+called synonyms basically different especially back in the day when people were in different places
+3:36
+naming these species it turns out that many times scientists picked up the same species and gave them different names on
+3:43
+different parts of the world than to realize that they were the same species that's what is called a synonym so the synonym that we see today is complicated
+3:50
+because unfortunately it tends to inflate at times the number of species that we
+3:55
+really know so basically again if you look at this strain of a species described over time
+4:02
+what you can see is that there is not an asymptote if this number was kind of flattening you will get you will think
+4:07
+then that we are already reaching the description of all of the species in the planet but the reality that every
+4:13
+time that we go on sample new species we come out with tons of new species it tells you already that this direct
+4:19
+count is not reliable for them to know how many species are there in the planet and the
+4:24
+reason why i make a distinction earlier on for you to know that the 1.5 million species that had a name are the species
+4:30
+that we know of not all of the species that are there as a result scientists have come up with
+Biodiversity patterns
+4:37
+an indirect way to get to that number obviously it has proven very hard for us to count all of the species in the
+4:43
+planet is there an alternative method that we can use to come how many species are there in the world so
+4:49
+there are different approaches that have been developed by a scientist one is what is called biodiversity patterns basically this idea that you can look at
+4:56
+biodiversity patterns that are there in the planet that we can document easier to then extrapolate how many species are
+5:01
+there in the world the full the first of such approaches was introduced by raven back in 1983 and
+5:08
+he calculated according to his method that in the world that could be anything between three and five million species
+5:13
+that's the magic number that he came out back in the day the way that he did it was this
+5:18
+so we know that there are about 1.5 million species that have been described we know that two-thirds of those species
+5:25
+occur in temporary regions the reason being a higher latitude is where governments are richer they can
+5:32
+afford to buy a scientist to go and describe those numbers so the reason why about two-thirds of the species of higher latitudes have been described
+5:38
+because there has been a lot of money putting that but also because of those places by the high latitudes have fewer
+5:44
+species so it has been kind of not only easier they have been a lot of resources and that explains why tutors
+5:50
+or the species that are found today with a name have been found at tempe regions and then he said you look
+5:57
+at the global pattern of biodiversity it turns out that the ratio of temporary
+6:02
+regions to tropical radius is two to one for every two species that are in the tropics there is only one species at
+6:08
+higher latitudes so given some mathematics that you play out with these proportions he suggested then that the
+6:13
+total number of species in the planet could be anything between three and point five to eight four point five million species in the planet
+6:21
+unfortunately he acknowledged on this thing that this calculation doesn't include bacteria or other microbes and
+6:26
+it was later on described though that there were several limitations to this well this for instance while this n
+6:32
+ratio is true too many taxa there are several attacks that remain homogeneous over very large geographical
+6:38
+extent so there have been numerous criticisms to to this way to get to how
+6:44
+many species are there in the world the other method was introduced by
+Robert May
+6:50
+robert may back in 1988 and in his mentor i'm going to explain in a second he point out that there could be easily
+6:55
+between 10 and 50 million species so how did he came up with that number using a biogeographical pattern so here he took
+7:02
+the data on all the species that were described at the time and he looked at the body sizes of those species so what
+7:07
+he did here he plot the number of species against how many species are found at different body sizes all of the
+7:13
+ones that were known and he found this pattern so one of the things that you can see from this pattern is that the species
+7:19
+that are large as we described before are few of them right and because they are so huge that explains why we know
+7:26
+them very well but then he found this gap here right at this the species that had very small
+7:32
+body sizes and he speculate that the reason why this gap of course is because those are the species that need to be
+7:38
+named so basically his argument is well obviously we we need to sample the
+7:43
+remaining part of the world and unfortunately the species that we have failed to sample are the species that are small because we cannot see them
+7:48
+well so we speculated that this gap that you see in the body size what is called this is what is called the body size
+7:54
+frequency distribution this gap that you observe here is basically an uncertainty coming from
+8:00
+asthma sampling so what he did he took this equation here and he extrapolated to find out what is the gap there
+8:07
+assuming again that those species that are there are the ones that are unknown and if you extrapolate this gap and
+8:12
+calculate the number of species below the line then overcome between 350 million species that was proposed by robert may
+8:20
+unfortunately he was actually one of a robert may colleagues a guy called kevin
+8:25
+gaston that then came out with a paper in pnas pointing out that these frequency distributions actually change
+8:31
+from place to place so actually one friend of rubbermaid kind of
+8:37
+proved this idea not right so this biodiversity pattern well indeed that
+8:43
+this part holds for many species it has been shown that when you analyze all of the species the this pattern of the bodyside frequency distribution doesn't
+8:49
+hold meaning that this gap here might not be necessarily the fact that we haven't studied that well it might be a
+8:56
+legit pattern the other method that has been used
+Species Area Relationship
+9:01
+again using biodiversity patterns to extrapolate how many species are there is the species area relationship as i
+9:06
+explained to you several times in the class already as you start increasing the area that you sample you normally start increasing the number of species
+9:12
+but that number of species start flattening so the idea here was introduced by these two guys here
+9:18
+grassley and mackie massey oleg grassley is a guy from
+9:24
+from new york i believe i forgot rogers so he's i believe he's a rogers but don't quote me on that
+9:29
+so in his method grassley calculated that on the oceans alone there could be up to a 10 million species of which only
+9:36
+about 300 000 had a name so what he did was this so this is the sampling area that he
+9:42
+used you can see long island here this is in the pacific ocean sorry in the atlantic ocean so right there he went
+9:48
+and sampled these areas and he counted using quadrats how many species are there and here you can see for instance
+9:55
+the number of species as he accumulated the number of samples right so you get this species aggregate relationship that
+10:01
+we saw before so what he did here he then extrapolated this area here to the
+10:07
+total area of the world's oceans and then calculate how many species were there and he estimated according
+10:13
+by extrapolating this line that there could be a hundred million species in the planet obviously
+10:19
+the big mistake of this approach is the fact that their biogeographical regions as we explained before from after
+10:26
+before and after them the composition of species changes quite dramatically so this idea that grassley used here
+10:33
+assumes that the distribution of a species is sort of homogeneous around the world which we have proven is not
+10:38
+right because of these biogeographical regions so this extrapolation again is maybe an overestimation of the real
+10:44
+thing again there's he he kind of described that they described that on that paper
+10:49
+right saying well 100 million seems to be a very high number so just for the sake of playing conservative we presume
+10:56
+that the number of species is 10 million so obviously something that is completely unt a scientist which is to
+11:03
+to the data giving you something and then you say well that seems to be too high let me make it 10 million but again
+11:08
+it just points out the fact that we are just struggling as a scientist to find out a way to count how many species are
+11:14
+there in the planet this is another approach that was introduced by irwin from the smithsonian
+Amazon Trees
+11:19
+back again in the day this is what we did he went to the amazon and there are obviously these humongous trees he got
+11:26
+this machine gun that spills a smoke into the canopies of the trees and he
+11:31
+put fences at the bottom at the at the bottom that capture all of the insects that die after he intruding these trees
+11:39
+and then he analyzed the insects that were on those samples and what he found is that of all the insects that were
+11:46
+found on a given tree on the canopy of a given tree 160 of them were beatles and that's something that he knows very well
+11:52
+he doesn't know the rest but he knows the beatles better way so he found that 160
+11:58
+beetles were specific to the one tree he also found in his sample when he
+12:04
+analyzed the beetles in comparison to all of the species of insects that were there the beetles represent only four
+12:09
+out of ten insets that then allows him to calculate that the total number of inches
+12:15
+per tree will be about 400 species we're talking that for every species of tree in the amazon forest there could be up
+12:21
+to five 400 unique species in of incense this is inches alone
+12:27
+now what it remains then is to know how many species are on the on the lower part of the tree all what he analyzed
+12:33
+was the canopy he he used this ratio here that two out of the three insects that live on a tree
+12:39
+live on the canopy that allows him then to calculate that on a single tree there are 600 species
+12:44
+again when you look at the canopy of the forest in a given tree in the amazon 400
+12:50
+species are there that are insets that is about two thirds of the total insects in the tree that means that in
+12:56
+the total three there could be up to 600 species trees are obviously easy to sample
+13:02
+because they are huge they don't move so we know relatively very well the number
+13:07
+of species of trees in the world and that number came to be about 50 000 species
+13:13
+so basically what he did and he speculated that if every tree has 600 species and there are 50 000 species of
+13:19
+trees then the total number of a species in the world will be 30 million
+13:26
+just for the inset so i i want you to pass this for a moment and think what kind of limitations can
+13:32
+you foresee on his approach keep in mind that this was in 1983 and there has been some criticism to it just for you to
+13:38
+start figuring out where the potential flows on this error okay you came back from this several
+13:44
+limitations were identified with this the first one this idea that the these
+13:49
+ratios remain constant from place to place actually several places around the world
+13:56
+duplicated the story and they found that these ratios of sony species to the total pool of
+14:01
+species changes quite a lot from place to place as a result of this ratio being very different from
+14:07
+place to place this calculation that air wind reach could be potentially very
+14:12
+variable from place to place so that was kind of the biggest limitations of this one study
+How many species
+14:19
+now a scientist got fed up with this so we have tried everything as a way to count how many speakers there but we
+14:24
+just don't know but one thing that we had are these experts that have been focusing on specific groups and these
+14:29
+people have been studying these taxa for for years so they get to know relatively very well the diversity of these taxes
+14:36
+so another tool that has been used to come out with how many species are there in the world
+14:41
+is the the opinion of experts the way that that works is that some guy go
+14:46
+there and a scientist and start asking all of these big shots how many species are there in the world somebody actually
+14:52
+already did this this one guy robert may and he calculated that on the opinion of the experts there could be anything
+14:58
+between 3 million and 100 million species so that alone there gives you a sense of
+15:04
+the uncertainty that we had about the diversity of the species in the planet when all of the experts that are the
+15:10
+ones that know tell you that there could be anything between three and a hundred million that's a huge uncertainty i want
+15:15
+you to think about that uncertainty like for instance the money that you had in your bank account you can either have a
+15:21
+three dollars or you can have a hundred dollars so obviously that distinction is important to you for you to know how
+15:28
+much you do you spend right if you spend three dollars you lost all of your capital if they are only three dollars in your bank account if they are a
+15:34
+hundred dollars then you can afford to lose three dollars the same thing goes here for us to know this number of how
+15:39
+many species are there in the planet and reducing this uncertainty is important so that we can better contextualize the
+15:45
+current extinction crisis that we had we are driving a species at a rate of easily 20 000 species a year is that a
+15:51
+lot or not that depends on how many species are there in the planet and unfortunately you can see here that
+15:57
+uncertainty is very large so there is a huge risk that there could be massive consequences on the loss of a species
+16:03
+that we had today unfortunately all of that depends on us knowing better how many species are there in the world
+16:10
+now with that being said though even this range has been brought into question and there was another guy
+16:16
+voucher sorry i there's no vouchers i forgot the name of these guys a french scientist
+16:23
+that kind of even questioned the idea of trusting the opinion of experts and he used in his paper a very interesting
+16:29
+statistic how one giving a scientist for instance at given time said that there were 100 million species of nematodes as
+16:36
+you can see lan lands had here he said there were 100 million species of nematodes in 1993 but the same guy lance
+16:43
+head and voucher in another paper just 10 years ago he said that there could be no more than a million so we're talking
+16:50
+about here that the senior scientist in 10 years time went from saying that they were 100 million to them saying there is
+16:56
+only a million and obviously that's the way it goes right scientists start working on this thing and every time you get a new understanding of these
+17:02
+problems so the point being me the point being made here is the fact that even the opinion of experts is not a reliable
+17:09
+metric uh one thing that i did on that paper and i
+17:14
+recommend you to have a look at that paper that is one of the top 100 most important scientific discoveries of 2011
+17:22
+according to discovery magazine out of the millions of papers published that year that one paper that i'm going to
+17:28
+describe to you now is one of the top 100 one thing that i did on that paper though was this again as i explained to you one
+17:34
+of the big nanos about scientific presentations is never put too many letters on a slide but i decided again
+17:40
+to violate my own rule here just to make a point to you in this in this column here i have all
+17:46
+of the scientific methods that have been used to describe a calculation of how many species are
+17:51
+there in the world what we did on that paper was to take all of the papers that have made a calculation categorize that
+17:57
+on these different groups describe how many species were there but then point
+18:03
+out the limitations of the methods so one thing that you can see is that for every method that has been proposed
+18:08
+there has been a limitation and in some cases in fact the meto had been criticized by the guy who invented the
+18:14
+method itself like for instance this example here how rubber may which is the guy that i just described to you used
+18:20
+the pattern of the body sizes of the species to create the frequency distribution of body sizes to come out
+18:25
+that there will be between 10 and 50 million species yet it was the same rubbermaid that many years later then
+18:31
+questioned the idea that the pattern could be reliable so again the point that i wanted to make here is that even
+18:37
+among a scientist we understand this huge uncertainty about how many species are there in the world mostly related to the fada all the
+18:45
+mentos that we have proposed had limitations of their own
+18:50
+so one of the things that happened early on in my career when i was a phd i just was
+18:56
+finishing up my phd i got this phone call from a guy called ransom myers that was described by fortune magazine as one
+19:03
+of the top 10 people that will change the world and the guy calls me and he say hey i saw a paper that you just published in nature i want you to come
+19:08
+and work with me and let me in japan and i was i was like yeah sure can you imagine
+19:14
+i am colombian very famous for drug trafficking getting a phone call from a random guy and telling me to go from
+19:20
+canada to meet this guy in japan and i was like yeah sure sure i usually believe anything that he told me
+19:26
+then i when i told my supervisor at the time about this one guy and my supervisor peter cell said to me
+19:32
+are you crazy that's one of the most famous scientists in the world so yeah with that opportunity in mind i just went to japan and i started to work with
+19:39
+ron myers ron myers turns out that he had a big budget like a huge amount of money whose
+19:46
+main purpose was to can quantify how many species are there in the world's oceans that's it tons of people wanted
+19:54
+to put money into answering the question of how many species are there in the oceans
+19:59
+so one thing that we did was to to write to nature we wanted to increase the scope the stake of doing
+20:06
+that project we know we need them we knew that we didn't have the money to work on it but we wanted to increase the scope on the issue so that we can gather
+20:12
+all of the data that we needed to do this so we sent out a letter to the editor from nature and we took the
+20:18
+editor of nature there is a question here that needs to be answered which is how many species are there in the world
+20:23
+and we described to her that that question doesn't have an answer and we say now we had the money we had about
+20:30
+2000 scientists from around the world working collecting this data we can do it so we were there like yeah we can do it so the editor from nature responded
+20:37
+back saying yeah go ahead do it so with that in mind now we only had we
+20:43
+had the money and we now have the most prestigious journal in the world saying we managed to come up with an answer they will publish our paper so with that
+20:50
+in mind we started to collect data like you guys cannot imagine we collected data on the body size of all the species
+20:57
+in the world we didn't leave a single species behind and we put all of the data together and we realized that the
+21:02
+body size is incomplete we created accumulation carbs for all the species in the world thinking that
+21:08
+we can maybe extrapolate the department of species over time to how many species are there in the world unfortunately the
+21:14
+data was too incomplete as well we analyzed diversity ratios again using the same approach
+21:20
+that was used earlier by erwin that i told you about and looking at different ratios and maybe see there is a magic
+21:26
+ratio that will allow us to predict maybe the total number of species in the world based on a few species but
+21:31
+unfortunately again we came to understand that those ratios are very viable from place to place so we worked
+21:37
+on this for for several years and eventually we ended up going growing back to nature to say saying to nature
+21:44
+sorry we couldn't do it so just for you to realize that sometimes things don't don't work your way despite the fact
+21:50
+that you might have everything that you need including money and the stake of potentially getting a paper in nature
+21:55
+and i mean for me it's kind of crazy to to summarize a couple years of work on
+22:01
+my life on this half a slide here so i decided obviously that's how it
+22:07
+goes i decided to move to something else and i was kind of clearing my desk one day and i one thing that i always used
+22:12
+to do not so much anymore is to read scientific paper just to keep up to date on what is going on here and i was used
+22:19
+to had a huge pile of papers and i was moving the pile of papers from the papers that i need to read to the paper that i already read and i came across
+22:26
+this paper this paper i'm not joking has two pages long it has been cited
+22:32
+like three times by the outer himself so the chances to me for me to see this paper are close to nothing i i'm just
+22:40
+struck by the fact that this paper that i managed to come across this paper this paper was written
+22:45
+by a guy called ricotta in spain and what he did again is pretty pretty pretty brief paper has been cited almost
+22:52
+no times what he did there he took the number of species on a given location in
+22:58
+spain and he wanted to find out how many species are there on in spain itself so what he did he looked at the taxonomy
+23:04
+hierarchy that we explained before of all of the species that were on that place and basically for instance at the
+23:11
+kingdom level there was one that then follows class then follows and
+23:17
+order family genus species you name it so basically what he did he plotted the
+23:22
+taxonomic rank here on the x-axis again how many attacks are at that taxonomic level and
+23:28
+what he say is this obviously higher taxonomic levels we know very well like for instance the chances of describing a
+23:33
+new kingdom today are close to nothing the ones that are there are the ones that we already know at the species level we keep describing more but they
+23:39
+already belong to the kingdom the point here is that we know very well the the the number of tax a higher taxonomic
+23:47
+levels but we don't know the number of taxes at the species level but one of the things that he found that was pretty cool is that you can use the taxonomy
+23:53
+hierarchy to extrapolate how many species are there so as soon as i saw that figure
+24:00
+i i was super excited because it turns out that i didn't have the data not only of one place like ricotta i had the
+24:06
+species of the entire world all of them over 1.5 million species names i already
+24:12
+had there and what i did i replicated his analysis i saw this paper at about 10 in the morning
+24:18
+and i i say i'm gonna spend two more hours until launch of this i already spent two years let me just waste two more hours on this
+24:25
+paper i've done all of the analysis and what i did was to apply his method to a taxonomy group
+24:31
+that we knew very well so i run the things for like mammals i believe we know very well that there are about 5000
+24:36
+special mammals i recalculated the ricotta approach and the calculation using this metal gave me 5 000 for
+24:42
+mammals all right so that was exciting i still get the goosebumps thinking about this moment right because again i almost
+24:48
+gave up the whole thing i decided to run it for birds and we know that birds are about 10 000 species and i rewrote my
+24:55
+calculations using this metal and this method came out to say that there were 10 thousand and a hundred species so now
+25:01
+i went from something that could be trivial to now something that could be significant i remember running to my supervisor boris one at the time telling
+25:08
+him that we finally figured out a scientific method that we can not only validate
+25:14
+that that will give us a number of how many species are there in the world but we can also validate that method so we were
+25:20
+super excited we sent the paper we sent the letter back to nature after we told
+25:26
+nature that we couldn't do it we grow back to the insane saying hey nature we did it we we want to submit this paper
+25:31
+and unfortunately nature says sorry we don't want it anymore so basically again that's another thing with these high profile journals is the fact that there
+25:38
+are timings for getting these things out there and unfortunately we cannot lose the wagon with this one paper it still
+25:44
+went to be again one of the top 100 discoveries but unfortunately it was not in nature it was in close biology that
+25:50
+is still pretty prestigious you don't know so how does it work so here on these
+How does it work
+25:56
+black lines you can see the cumulative number of taxa over time at the kindle at the field level class order family
+26:03
+genus and the species right again this is the taxonomy hierarchy that we have talked earlier but one of the things
+26:08
+that happens here is that these higher higher orders higher in
+26:13
+the higher taxonomic classification is reaching that asymptote as a result
+26:19
+we can potentially extrapolate to what it could be the asymptotes basically assuming that everything remains the same using different mathematical models
+26:26
+what will be the total number of order what will be the total number of families what about the total number of genus and what we can apply those models
+26:33
+at a higher taxonomic level because they are approaching an asymptotes we cannot apply it to the species regions because
+26:39
+the species reason is still pretty steep so what we did we take the number of taxa that is found at
+26:44
+every taxonomic level and we plot that against the taxonomic level and we get this plot here you can see it's almost a
+26:51
+straight line here between the taxonomic level how many attacks are there and the same to which you can extrapolate that
+26:56
+to the species richness so we decided to now for the first time in the history of humanity after 250
+27:03
+years collecting data and struggling to come up with a method we have now a method that gives us a number the but
+27:08
+that we can validate the validation of that mentor is here where we can apply the method to taxonomy groups that has
+27:15
+have been studied very well because there have been money on those groups over all because the scientists have been super interested on them but for
+27:21
+that subset of all of these species in the world that we know very well or method was very reliable here on this
+27:27
+plot you can see the actual number of species in 15 taxonomy groups that we know well
+27:32
+against the number of species that are predicted by our method and that line that you see there that gray line is the
+27:38
+one to one line and as you can see for every species that we know very well or metal
+27:44
+predicted the number of species that was very similar to what we know and again that kind of is the sweet part of this
+27:50
+one method is the fact that it can be validated the now that we have a method
+Total number of species
+27:57
+that predicts the number of species that can be applied to the entire world we decided to now figure out how many species are there in total for the world
+28:04
+for the world and what we found is that in the entire planet there are a 8.9
+28:09
+million species it's in that cool man yeah so i i you can guys not imagine the
+28:15
+the emotion and satisfaction once we run all of these calculations and this number came on on our computer screen
+28:21
+saying that was 8.9 million species and here you can see the division on how the species get classified the number of
+28:28
+species by by major kingdom on earth and in the oceans and eukaryotes and prokaryotes
+28:34
+prokaryotes are these taxonomic groups they are normally unicellular but the thing that differentiates the prokaryotes is the
+28:41
+fact that they have no nucleus that contains the dna as opposed to the eukaryotes people species like you or me
+28:47
+that had a cell and inside that cell there is a nucleus so prokaryotes are mostly archaea and bacteria
+28:54
+and one of the things that is interesting here though was how our calculation came saying that there were
+29:00
+easily 8.9 million species of eukaryotes most of the species that we see in the planet today are eukaryotes where while
+29:05
+prokaryotes which are bacteria that you would think there would be millions of species or methyl calculated that there
+29:11
+are only ten thousand species so that was a huge controversy that is paper generated you can see that on the blocks
+29:17
+of this paper and we speculate that the reason for this difference is the fact of that
+29:22
+horizontal gene transfer that is very common between archaea and bacteria right philogenes
+29:28
+species that have been evolving through different phylogenetic pathways that over time they come across you don't see that in
+29:35
+eukaryotes or very rarely with hybridization as we point out earlier
+29:40
+another interesting aspect of our results was the contrast between earth and the oceans right well in the total
+29:47
+air there are easily 8.9 million species in the oceans we found 2.2 million species so that's
+29:54
+another interesting thing how is it that if the oceans are much bigger they had much fewer species than on land the the
+30:02
+reasoning that we provide for this result is the fact that while the oceans indeed are much larger they are also a
+30:07
+lot more connected while on land you have a lot of topographical characteristics that pose barriers to
+30:13
+dispersals to dispersals that then allow you to set up biogeographical regions that are very
+30:20
+distant between from place to place that then allows species to add and that's why we speculate that you get most of
+30:26
+the species in the world on land again it's just the fact that there are more chances for speciation than
+30:32
+in the oceans with this number in mind now that there are 8.9 million species or paper
+30:39
+actually highlighted numerous uh consequences of what is at stake for the
+30:45
+planet let's review sorry the implications let's review a couple three implications that we'll point out on that paper
+30:52
+the first one is that when you look at the average number of species described over the last 20 years that number is
+30:58
+about 6 200 species every year the average number of species
+31:03
+described on the last 20 years is 6200 right so that means that if we had 1.5
+31:09
+million species with a name that means that the gap that needs to to be filled will take us 1200 years since that
+31:17
+blowing at the current rates that we are describing this species it will take us 200 years to describe
+31:24
+the remaining species that we share the planet with the other implication of our paper that
+31:29
+we point out there is that today it's not cheap to describe a species not only you have to go to the field collect the
+31:35
+species you have to store the electro transport and you have to keep a facility where you keep the samples safe
+31:41
+and then you have to pay the scientists to a lab or to describe the species that's expensive it has been
+31:46
+calculated that the average price for describing a new species is 48 thousand once you account for all of the costs
+31:52
+that go into this meaning that describing the species that are left will cost in the order of 364 billion
+31:58
+dollars so we are not really fixing climate change that is killing us but really you gotta think where we are
+32:04
+ever going to put that kind of money towards describing the speed the remaining species in the planet which
+32:10
+again just kind of has a reality of how much do we care for the species that we share the planet with
+32:15
+this is another interesting implication when you look at the person that describes species what is called a taxonomies that the person in average of
+32:23
+all the taxonomies that are there today describe an average of about 24.8 species 25 species on a ratio obviously
+32:29
+it takes time to describe species and on average all of the taxonomies describe 25 species in a lifetime meaning that we
+32:36
+will need an army of three hundred thousand and three taxonomies to the strategic species that are left so
+32:43
+obviously this is not gonna be this idea of us trying to describe the species that are left in the world is a very
+32:50
+non-trivial task that is ahead not only in deterrence in terms of the money that
+32:55
+will be required but in terms of the people that need to be focusing on describing these species
+33:02
+so how many species are there in reality well even or methods right this is still an indirect method it's an approximation
+33:08
+that has been validated but the reality is that there is uncertainty to it but regardless of how many species are there
+33:13
+in the world what we know for certain is that every time that we go and look for new species we come out with new species
+33:19
+on average we have been describing 6200 species per year but there are unique
+33:25
+years like for instance this one year in 2007 there were major expeditions on this one here and when they came back
+33:31
+they discovered that 17 000 species so again these are expeditions are done every now and then this year alone
+33:38
+seventeen thousand new species were described and the species new ones the ones that had put a name for the first
+33:43
+time are everywhere you have a species new species found on the us in the oceans on terrestrial ecosystems there
+33:50
+are some species that are beautiful some species that are ugly some species that are large some species
+33:55
+that are very small now the thing that is more problematic now is that with the advance of genetic
+34:02
+tools we have started to sample species from around the world and there are certain times when you look at all of
+34:07
+these species the way that we describe it describe them as news based on their morphology right how they look but now
+34:13
+that we have access to genetic understanding what we have come to realize that many species that look
+34:18
+almost identical in reality are in fact genetic species that
+34:24
+are genetically already very different here are some examples again of species
+34:29
+that look almost identical that on the eye of a taxonomy could be regarded as a
+34:34
+new species but when they were analyzed genetically they were in fact genetic genetically different species it has
+34:41
+been suggested that with this advance on molecular biology and our capacity to better
+34:46
+distinguish species we could potentially double or triple the number of species that we had names for
+Spatial patterns
+34:54
+now with that being said again i i want to clarify that well we get a relatively good approximation of how many species
+35:01
+are there in the world there is still uncertainty on that but with that being said also we need to
+35:07
+also start looking at where those species in the world what we call here in
+35:14
+spatial patterns on a species richness and generally speaking though assuming that everything is correct one thing
+35:19
+that has been observed is that in reality when you look at most a lot of different taxa most of the species had a
+35:25
+pick on their richness in the tropics here is an example of a paper that i published in ecology with ross robertson
+35:32
+from the smithsonian back in the day and again this is fishes and this is latitude and what you can see here is
+35:38
+that somewhere around the tropics there is a peak on the number of species and the number of species declines towards
+35:43
+higher latitudes and towards lower latitudes this is what is called the latitudinal gradient in its species
+35:49
+richness this is a paper by willick that took all of the scientific papers
+35:54
+that have been published after up to that year and he found that in all of those scientific papers almost all of
+35:59
+them show a negative relationship between the number of species and latitude basically as you increase
+36:05
+latitude you decrease the number of species rationales and again here you can see how that pattern of there being
+36:11
+a negative relationship is found it's very common on almost every taxonomy group from mammals birds and
+36:17
+[Music] those are amphibians fishes and you name it right only rare cases you get in the
+36:26
+pattern being different but there are problems though as i
+36:31
+explained to you obviously our understanding of the total number of species in the world is incomplete so what are the chances that we know
+36:36
+locally really what are the limitations so what we did here
+Data quality
+36:42
+to the first thing that as a scientist is you need to look at the quality of the data that you had and this is a paper that we published in the
+36:48
+proceedings of the royal society or the input situation of this one basically what we did on this paper was to to see
+36:55
+how reliable is the data that is in the world for us to to build these global patterns on biodiversity
+37:03
+right so i need to start by putting out a distinction on how is it that we build these patterns right how is it that
+37:09
+people when you look at these beautiful patterns on a species of richness how people build these spanners there are actually two ways to do this one is by
+37:15
+using the geographical ranges of species that you can see here and they you overlap all of those geographical ranges
+37:21
+and you just count how many species fall on a given pixel and as a result of this overlap you just count how many species
+37:26
+fall into that cell as we explained earlier because of the way that geographical patterns are calculated you
+37:33
+might end up with an overestimation of a spatial richness for instance having a lot of species in the open oceans where
+37:39
+you know the species is not there but it just happens that that's an area where most of the species ranges overlap just because of the way
+37:46
+that we calculate these ranges another way to calculate patterns of species richness is by looking at the
+37:52
+the arch point and sampling or sensing the actual diversity of those pixels and then finding out how many species are on
+37:58
+a specific place so that again is just two different approaches on how those patterns of species relations are
+38:04
+calculated again one of them is by looking at the overlap of the geographical ranges the other one is to
+38:09
+go to the individual pixels and then seeing how many species are there on that on that given place these are again
+38:16
+species ranges overlaps and the species censuses but there are multiple problems
+38:22
+with this approach with both approaches again as we explained to you
+38:28
+earlier in this class is the fact that there are certain parts of the geographical range in which the species
+38:33
+is no fun but because of the way that we sample the species uh we might count it there so let me just give you a quick
+38:38
+example here so imagine that you had a latitudinal gradient those black lines that is indicated here sorry in blue and
+38:44
+red and then these black lines which are the geographical ranges of the species right so the way that we calculate
+38:51
+patterns of species reasons by overlapping is simply counting how many species fall on every one of these latitudinal bands and you ended up with
+38:58
+something like this right so you go to every every one of latitude count how many species are there you put on the plot you got how many species are there
+39:04
+and you put in the plot and you obtain this this pattern here now the problem though of this
+39:11
+is that they are a species that are what are called endemics right those species
+39:16
+contribute to these patterns very small because they're only found in a few locations but then you have these species that are found everywhere and
+39:22
+those species contribute a lot and that that contribution of those species and over estimation again or the fact that
+39:28
+they are found in many places imagine that a species only found on the periphery along the range then all of
+39:34
+that area inside that range is going to be counted like the species is there so what you ended up with is this
+39:39
+overestimation of these patterns or these species that have large geographical ranges and here's what we
+39:44
+did on this paper this is a paper that i published with rose robertson this is the pattern for all of the species and
+39:49
+what we did was to separate this pattern between the species that are large range these are the species that have between
+39:55
+3 30 and 40 degrees of latitude as a geographical range to a species that are endemic which are species that had less
+40:01
+than 10 latitudinal degrees and as you can see the species that had
+40:07
+a large geographical ranges had a pattern that looks almost identical to
+40:12
+the pattern of all of the species while the pattern of the species that had small ranges is almost not perceivable
+40:19
+in the globe in the pattern of all of the species so what we're talking about here is that by us calculating a species region is
+40:26
+based on the overlap of the ranges we we give a huge weight to the species that have large
+40:32
+geographical ranges it could be legit because sony species could be found everywhere but it could be also a bias of the fact
+40:39
+that those species tend to be over counted by the way that we count the geographical ranges and obviously the consequence of this for conservation is
+40:46
+that if you look at this pattern we can say yeah we're going to protect these places that had the most species but
+40:51
+unfortunately those are the places where the species with the largest ranges had the lighter influence and we leave
+40:58
+behind the species that had the smallest ranges which we explained earlier are the ones at a higher rate of extinction so there are multiple consequences that
+41:04
+would be quite dramatic of the the effect of range size on these patterns
+41:13
+now the pattern that i just described here this limitation we analyzed it in this one paper for fish but i had to
+41:19
+point out that the actual limitation was described by walter jets and rabbit in that paper in a science they were the
+41:25
+first ones that identified this limitation of how patterns on a species richness
+41:30
+are kind of over representing the diversity of species with large ranges while under
+41:36
+representing the diversity of smaller ranges and this is the paper this is the figure that they analyze
+41:42
+for that one paper this is the diversity of all of the birds in africa as you can see there are hot spots here in darker
+41:48
+rate red are places with high diversity in in pink are places of low diversity
+41:53
+and this is the diversity of all of the birds in africa here are the species with the smallest ranges on this side
+42:00
+these are the species with the second largest ranges third largest ranges and the species with the largest
+42:05
+geographical ranges in africa and what you can see here is the level of similarity so here you can see the
+42:11
+proportion that is similar between the pattern of all species and only the endemics and
+42:16
+you can see that the r is 0.6.5 that's a very small r well here between all of the species and
+42:24
+the species with the largest ranger their r is 0.9 the largest r that you can get is one
+42:30
+and you can see how here how similar it is all the species regions in comparison to the species
+42:36
+with the largest ranges and again despite the fact that they are the same number of species on every one of those
+42:42
+geographical ranges right so it's kind of mind-blowing again when it comes down to the geographical
+42:48
+ranges of the species you break them in equal number of species all every one of these groups has exactly the same number
+42:54
+of species but when you go and look at the geographical space of where they are turns out that a
+43:00
+the pattern that is presented by the species with the largest ranges kind of is super similar to the pattern
+43:06
+that you find in all of the species despite the fat again that they represent exactly the same number of species than the other geographical
+43:11
+ranges so a huge limitation there on how we construct and perceive
+43:18
+patterns in a special region is because of this overlap of the ranges now that is not to say that the other
+Limitations of sensor data
+43:25
+approach which you will think is better which is to go and count the species that are on the actual places rather than than assuming that they are found
+43:31
+everywhere on the range also has their own limitations this is another paper this is a paper that we publish in the proceedings of the royal society to
+43:38
+point out the magnitude of this limitation of using sensors data to come to build these global patterns of
+43:43
+species richness so what we have here is the global distribution of every single
+43:48
+record that has been done by humanity as in regards to fish back in the day
+43:54
+there were six million records now that number is like three or four times larger but at the time was the best database that was there and again i mean
+44:01
+every single record that was on a notebook that was digitalized went into this database at the time and you can
+44:08
+see then all those are every one of those points that you see there it's a scientist or somebody making a claim
+44:13
+that a given species was found there and as part of those records not only we had the geographic recording and we also had
+44:19
+the time of when the record was done so in this paper what we did we took all the species that are in a given pixel
+44:26
+all of them in this pixel and then what we did was to reconstruct the number of species described over time
+44:33
+on that one pixel so from this data we can calculate how many species have been already described on that pixel right
+44:40
+but the other thing that we can do is feed mathematical models to this trend to calculate how many species could
+44:46
+there be in total what we call the number of the expected species so by us again being able to reconstruct
+44:53
+the temporal description of new species on a given place not only do we know how many species are there using mathematical
+44:59
+models we can predict how many species are there so what we did on this paper was then to divide the number of species
+45:05
+that have been observed by the number of species that respect and multiply by 100 and that gives you the percent
+45:10
+completeness the idea here is of all of the sampling that has been
+45:15
+done in the world how complete is that sampling on that one pixel for how many species are there and we
+45:21
+repeated that at multiple resolutions this is the smallest resolution that we analyzed that is a three by three degree
+45:28
+places that are in white means that the data that is collected on those places was insufficient for us to even make the
+45:33
+calculation in green are places for which the completeness is near 100
+45:40
+and in red places for which the completeness is below 10 one thing that you can appreciate right
+45:46
+away is how much white or red is in this map and in fact we found that at this
+45:51
+resolution only one point eight percent less than two percent of the world's oceans had
+45:56
+levels of completeness above eighty percent can you imagine this thing of all the oceans in the world
+46:02
+at that resolution we only know very well diversity of about two percent of the surface of the world's oceans that
+46:08
+is mind-blowing when we talk about a degree of ignorance scarce right and now what i want you to also look at this is
+46:14
+where are the places that we know very well isn't that remarkable is alaska california a little bit
+46:22
+the atlantic coast of the united states new zealand and if you look at what happened on those places it turns out
+46:28
+that those are some of the places we either high fishing fleets that collect a lot of fish that then allow us to have
+46:33
+very good sampling there or places that had a lot of wood scientists storing the fish from those places there but
+46:40
+unfortunately that degree of sampling and scientific effort is not found almost is found almost nowhere in the
+46:47
+world other than that there are a few spots uh in new zealand north america maybe a couple places in
+46:55
+in europe but again one of the things that is interesting about this paper is to highlight the
+47:01
+degree of uncertainty of this global partisan biodiversity
+47:06
+when they use the sampling methods to calculate how many species are in a given place
+Limitations of taxa
+47:12
+with that being said though uh sorry another problem that had been described when we try to that have been
+47:20
+pointed out when we try to describe all the diversity in the planet is the fact that our general understanding of a
+47:25
+species in the planet is restricted to very few taxa obviously if we assume that indeed there are over 8 million
+47:32
+species we only have names for about 1.5 million species that means that the data
+47:37
+for which we can actually build reliable patterns the taxa for which we can build reliable
+47:42
+patterns is very very limited and that limitation is actually highlighted here on this slide on this slide i summarize
+47:49
+to you all of the taxa for which we can build global patents on biodiversity all of them and you can i want you to see a
+47:56
+couple things from this slide here these are figures from different papers this one in paper published in nature this
+48:02
+one paper published in a science this was paper published in nature that one in nature this one in nature this was a
+48:08
+paper by the titans or a friend of mine i am quoted on that paper published in nature as well nature so every time that
+48:15
+a scientist had come together to build this global pattern those papers normally ended up in nature and science just again because it highlights the
+48:21
+limitation of of or understanding on that field now but now the other thing that i want
+48:27
+to point out to you from this slide is the number of species in which those global patterns were built like for
+48:32
+instance the famous paper by meyers use ten thousand species out of eight million that could there be
+48:39
+the paper by rovers in a science use a thousand species this paper by my supervisor board is warm and well and
+48:45
+ransom myers glow global patterns on tuna based on 40 species
+48:51
+this one by greater than 20 000. this one 30 30 species this is even
+48:56
+crazier because this group built a global pattern of based on just 30 species
+49:02
+and on this paper that we published with derek back in 2010 we actually analyzed
+49:07
+13 000 species for that paper at the time that was the largest compilation of
+49:12
+taxa for the oceans while only similar analysis could be done on land like this
+49:17
+paper by granger never before has been such a large analysis being done by the oceans that we did on that paper there
+49:23
+but i still when you look at all of them there is still a subset of the total number of species in the world and the question
+49:30
+that still remains is where in the hell are these eight million species that we know even the 1.5 million species that
+49:36
+had our name on when all of the patterns that we have built so far are based on so and so few other species
+Summary
+49:43
+let me summarize the class up to this moment the reality is that what is really
+49:50
+something very unique of our planet which is this attribute of having been live and as having come up with a method
+49:57
+that is already over 250 years old we just don't really know how many species are there in the world but what
+50:03
+we know for certain though is that there could be about 1.5 million species that had a name as i point out to you that
+50:09
+name that number still might be uncertain because of this issue of synonyms
+50:15
+now there was another uncertainty which was the fact that this species could be all over the place fortunately in the
+50:21
+last decade there have been major advances on compiling all this geographical all of these data into
+50:27
+databases so that limitation has been improved quite a lot but the limitation of synonyms still remains quite a
+50:33
+massive challenge and the other interesting aspect that we
+50:39
+know of is that the best estimation of how many species are there in the world is in the order of 8.7 million species
+50:45
+that number we published it in 2011 and things got up to this moment nobody has challenged that calculation there has
+50:51
+been criticisms of the analysis but it has been mostly about the precision and accuracy of of the metal but nothing
+50:57
+outrageous that will modify that number by a lot and
+51:03
+even despite the fact that we don't know where most of the species in the world how many species are there in the world
+51:08
+or level of uncertainty is also significant about where those species are and again we have problems with the way
+51:15
+that we standardize the data as i explained to you we tend to overestimate policy for species
+51:21
+richness when we use the geographical ranges overlapping and if we were to use
+51:28
+sampling data census data to con the number of species out there in the world where are they in the world that as we
+51:34
+indicated also has significant limitations so what i want to take from this class is that while there are still
+51:40
+some very well described patterns on biodiversity there are still significant shortcomings
+51:45
+on the quality of that data that finishes the chapter there for today see you guys in the next episode
+51:50
+when we are going to be looking at the processes of these patterns
