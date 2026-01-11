@@ -1,0 +1,3368 @@
+<<<<<<< HEAD
+
+0:06
+all right so today we are going to be
+0:08
+covering uh another aspect
+0:11
+of um
+0:13
+that is another thing that is a study in
+0:14
+the field about geographical
+0:16
+biogeographical regions basically the
+0:18
+problem that we had here is the fact
+0:20
+that different parts of the world had
+0:22
+similar types of species right and
+0:26
+the problem is how do we set the
+0:28
+boundaries or those places right so let
+0:31
+me just give you an example here for you
+0:33
+to understand what i'm talking about you
+0:34
+look at these two places this is a
+0:36
+forest in costa rica there's a place a
+0:38
+forest in new england you can see that
+0:40
+from
+0:42
+by looking at them you can see that they
+0:43
+look very similar right you have forest
+0:45
+you have cloud you have trees but it
+0:47
+turns out that when you look at the
+0:48
+species of those two different places
+0:50
+they actually don't share any species so
+0:52
+how do you how do you go about ensuring
+0:55
+that those places are
+0:57
+we in the same place well it turns out
+0:59
+that you gotta do a couple distinctions
+1:01
+here the first one is to understand the
+1:04
+center which they are similar these
+1:05
+places are similar based on their
+1:07
+vegetation type structure climate so etc
+1:10
+or the strength to which they are
+1:11
+differentiated by the species that
+1:13
+belong to those different places
+1:15
+scientists
+1:17
+have created different ways to again
+1:19
+cluster these places depending on this
+1:22
+so anytime that you try to cluster
+1:24
+different places on the world based on
+1:25
+their vegetation type structural climate
+1:27
+so that is what is called a biome
+1:30
+okay so in this case these two places in
+1:33
+costa rica new caledonia again they
+1:35
+probably have the same temperature the
+1:36
+same water regimes and things like that
+1:38
+they are probably part of the same biome
+1:39
+because those climates are very similar
+1:41
+but there are no
+1:43
+but another way to classify those
+1:44
+species based on the similarities
+1:46
+between those two species in that case
+1:49
+scientists use what is called a
+1:51
+biogeographical region and again are
+1:53
+places on the planet that are clustered
+1:56
+together given in the similarity in
+1:58
+those places in for instance the plants
+2:00
+are animals that live within those
+2:02
+places in this case
+2:04
+these two examples here might be the
+2:05
+same biome because again same
+2:07
+temperatures and vegetation type and
+2:09
+things like that but there are probably
+2:11
+different biogeographical regions
+2:13
+because the species are here are not
+2:14
+there
+2:15
+so i need you to remember those two key
+2:17
+words there again biomes are places on
+2:20
+the world that are similar on their
+2:21
+climates
+2:22
+biogeographical regions are places in
+2:24
+the world that are similar on the
+2:25
+species that belong on those are on
+2:27
+those places
+2:29
+let's look at the data how people
+2:31
+outline the boundaries though those
+2:32
+biogeographical regions you know
+2:35
+so as i explained to you several times
+2:38
+in this class a species basically can
+2:41
+either be present on a place or might be
+2:43
+absent on that place the way that you
+2:45
+explain the presence of the space
+2:48
+the presence of a species is via
+2:50
+speciation the species being born in the
+2:51
+given place or via dispersal basically
+2:54
+the species got there from somewhere
+2:55
+else the way that you explain the
+2:58
+absence of a species can also be
+3:00
+be a extinction meaning that the species
+3:02
+was there and it wouldn't stain and
+3:03
+that's the reason why you don't see it
+3:04
+anymore or maybe dispersal limitations
+3:07
+that prevent the species of ever getting
+3:09
+to those places so with that being said
+3:13
+let's see what is the raw data that any
+3:15
+scientists use
+3:17
+to describe these biogeographical
+3:18
+regions and let's imagine here a
+3:20
+latitudinal gradient transit okay so
+3:23
+imagine that this is the normal these
+3:25
+are the tropics and that's the south
+3:26
+pole basically what i do then
+3:29
+what you find along the latitudinal
+3:31
+gradient is what is called geographical
+3:33
+range i'm going to describe a
+3:35
+geographical range as this black line
+3:37
+here so this is one species that is
+3:38
+found all the way from the north pole
+3:40
+all the way to the south pole so along
+3:42
+my transit the species is found
+3:43
+everywhere
+3:45
+just for you to know those species that
+3:47
+are found everywhere are where are we
+3:49
+are called cosmopolitan species i need
+3:51
+you to remember that name cosmopolitan
+3:53
+species are species that are found
+3:55
+everywhere
+3:56
+along the same that you do in a transit
+3:58
+you might find species are found only in
+4:00
+certain places those species are called
+4:02
+endemic species so cosmopolitan and
+4:04
+endemic are the species are kind of at
+4:06
+the stream of the geographical ranges
+4:08
+from the species that had a distribution
+4:10
+everywhere like cosmopolitan to species
+4:13
+that have very restricted limit a very
+4:16
+restricted distribution like species
+4:18
+that are endemic and in between that
+4:19
+range you have a species with all kind
+4:21
+of geographical ranges so here's an
+4:23
+example for instance or many species
+4:26
+that overlap the geographical ranges
+4:28
+along these latitude transit so that's
+4:29
+the reality of what happens in nature
+4:31
+right
+4:33
+now let's imagine that i go along this
+4:35
+transit and i do sampling on these
+4:37
+vertical on these lines that are here in
+4:40
+red so basically if i go to this place i
+4:43
+find two species if i go to this place i
+4:45
+find two species if i go to this place i
+4:47
+find three species right so again this
+4:50
+is using any of the method that we
+4:51
+described before i go to again every one
+4:53
+of these transits and then i for
+4:55
+instance go and count how many species
+4:56
+are there here i will find two here on
+4:58
+this position i find three i put three
+5:00
+there here five i put five there and
+5:02
+then if i were just to count
+5:05
+the species i will get what is called
+5:07
+the pattern of specie richness however
+5:09
+another thing that i can do is to
+5:10
+calculate the similarity between those
+5:13
+places so for instance in this case this
+5:16
+location has two species this location
+5:19
+has two species but you see are the same
+5:21
+species so in this case the similarity
+5:23
+between this location and that location
+5:24
+is 100 so i can rather plot the
+5:27
+similarity as well rather than counting
+5:29
+the species i can count how similar
+5:31
+those places are in this location
+5:33
+compared to that location you see there
+5:35
+is only one species in common this one
+5:37
+has one species that is
+5:40
+unique to the place but this other
+5:41
+location has two species that are unique
+5:43
+to the place so there are several
+5:44
+mathematical equations that allow you
+5:46
+then to calculate the similarity and
+5:48
+rather that you point in the number of
+5:50
+species what you calculate is the
+5:52
+similarity between neighboring locations
+5:54
+and you end up with parties like this
+5:56
+right so for instance in this case
+5:58
+if i went from this location to that
+6:00
+location they are very dissimilar so
+6:01
+they will be you will see dips and
+6:03
+basically what this outline then are
+6:05
+potentially boundaries on the
+6:07
+geographical distribution of a species
+6:09
+you see from this point over here
+6:11
+although there is a high similarity but
+6:13
+from that point between this and that
+6:15
+one they are very dissimilar and we in
+6:17
+that beyond that point everything is
+6:19
+similar so what that suggests here is
+6:20
+that there is a biogeographical
+6:22
+biogeographical boundary that prevents
+6:25
+species from this place to move into
+6:26
+that place so here you get hints into
+6:29
+the potential existence of
+6:32
+boundaries
+6:33
+again a scientist
+6:35
+use this data on the distribution of
+6:37
+species to look at the similarities
+6:39
+between the between locations and where
+6:41
+they are the most dissimilar
+6:44
+it gives hints into potential bond
+6:47
+boundaries of biogeographical regions
+6:49
+because obviously what is happening
+6:50
+there by the location being nearby in
+6:52
+locations being so the different is the
+6:54
+fact that something prevents the species
+6:56
+to go from go from one place to another
+6:58
+one so that's the way
+7:00
+how scientist take the raw data on a
+7:02
+species distribution and turn them into
+7:04
+similarities or dissimilarities to
+7:06
+outline the boundaries of
+7:08
+biogeographical regions
+7:10
+let's just review again let's actually
+7:12
+let's do a quick example here let's
+7:13
+imagine again the same latitudinal
+7:15
+transit here are the species and here
+7:16
+are two locations that i sampled so
+7:18
+mathematically there are different ways
+7:20
+to calculate how dissimilar they are one
+7:23
+method is what is called jacquard
+7:25
+index of similarity and is expressed
+7:27
+with a mathematical equation here s it
+7:30
+stands for a species the first number
+7:33
+stands for the species present in
+7:35
+location one
+7:36
+one stands for the species being present
+7:38
+and zero for the species being absent so
+7:41
+when you see that s11 s stands for the
+7:43
+species that are present in location one
+7:45
+that are also present in location two
+7:48
+so here if we look at this example here
+7:50
+so how many species are present in one
+7:53
+that are also present in location two
+7:54
+that will be four right so here i enter
+7:57
+my four now let's look at the
+7:59
+denominator of this
+8:01
+index and that is s01 so basically the
+8:04
+way that you read this is a species that
+8:06
+are absent
+8:07
+from psi one that are present inside two
+8:11
+right in that case you see there is not
+8:14
+a species that is absent from this side
+8:16
+that is present on that one so that will
+8:17
+become a zero
+8:19
+you do then the reverse for the other
+8:20
+side and finally you had s was one that
+8:23
+we established was again the species
+8:24
+that are present in one so location one
+8:26
+they're also present in location two
+8:28
+that will be four so that this the
+8:30
+similarity will be one so that's what is
+8:32
+called the jacquard
+8:33
+another common index to assess
+8:35
+similarities is what is called simpson
+8:37
+the question of simpson is actually
+8:38
+shorter is
+8:40
+is a
+8:41
+s11 divided by s1 so basically s11 is it
+8:45
+means the species present in location
+8:47
+one that are also present in location
+8:48
+two in this case that will be four
+8:51
+divided by the species that are present
+8:53
+in one location one that will be four so
+8:55
+the similarity is one so here are again
+8:58
+the two mathematical equations that are
+9:00
+used commonly to assess
+9:02
+the dissimilarity between places that at
+9:04
+times are used to define the boundaries
+9:06
+of biogeographical regions
+9:09
+let's look at an actual case example of
+9:11
+the similarity between places and how
+9:14
+they are used to align by geographical
+9:15
+regions this is a paper by mckinney
+9:18
+mack knight in plus biology biology in
+9:20
+2007 and he compared the similarities
+9:23
+between pixels
+9:25
+everywhere in the americas for birds
+9:27
+mammals and amphibians places that are
+9:30
+red are places that are very different
+9:32
+very dissimilar places that are in blue
+9:35
+are places that are very similar so
+9:36
+let's just look at one case example here
+9:38
+for the birds so you see for instance
+9:40
+look at the beauty the beauty of this
+9:42
+pattern how
+9:44
+all of the
+9:45
+pacific coast of the americas had had a
+9:49
+high species dissimilarity
+9:52
+i want you to talk about this while the
+9:55
+the other side of the americas normally
+9:57
+have a species location that are very
+9:59
+similar to each other i want you to pass
+10:01
+this video and think about why would
+10:02
+that be the case why the species
+10:04
+along the pacific coast of the americas
+10:06
+will be so different from place to place
+10:09
+while in the interior of the continent
+10:11
+those
+10:12
+species those sites have very similar
+10:15
+species compositions
+10:17
+so i'm hoping that you the explanation
+10:19
+that you came out with
+10:21
+is this so if you look at the
+10:23
+geomorphology of the americas what you
+10:25
+find along the pacific coast is a set of
+10:27
+mountains right that come from plate
+10:29
+tectonics that elevate the surface and
+10:32
+eventually you get these huge mountains
+10:33
+and what happens in mount times of
+10:34
+course is that it creates huge gradients
+10:37
+in the environment you can go from
+10:38
+hanging out on the beach with a nice
+10:40
+bikini and a martini all the way to
+10:42
+freezing your butt at the top of the
+10:44
+mountain so as you can imagine there is
+10:46
+a huge environmental gradient and all of
+10:48
+the species manage to
+10:50
+survive on those conditions so along the
+10:53
+coast the existence of these mountains
+10:55
+create environmental
+10:56
+variation that then allow forces species
+10:59
+to live on just certain places and
+11:01
+that's the reason why
+11:02
+there are so
+11:04
+many differences in the number of
+11:05
+species from side to side again mostly
+11:08
+related to the geomorphology causing a
+11:11
+huge variation on the environmental
+11:13
+conditions in the opposite for instance
+11:15
+if we focus here in south america you
+11:17
+get
+11:17
+flat areas all in in the in the interior
+11:21
+of the continent for instance like the
+11:22
+amazon the amazon you can see as far as
+11:24
+the i can see and obviously what happens
+11:26
+there is that there are general stable
+11:29
+and similar conditions throughout and
+11:31
+that allows the species to be everywhere
+11:33
+and that then results again
+11:35
+on you having the species from one side
+11:38
+being very similar to the locations on
+11:40
+other side and here then you can easily
+11:41
+outline biogeographical regions right
+11:44
+like here for instance in blue you can
+11:45
+see the entire amazon potentially being
+11:48
+defined as a biogeographical region
+11:50
+where most of the species are there are
+11:51
+commonly found everywhere
+11:56
+so unfortunately this issue of defining
+11:58
+biographical regions is not as trivial
+12:00
+one of the first things that you have to
+12:02
+deal with is the skill of which you try
+12:04
+to define those regions right so for
+12:07
+instance let me just give you an analogy
+12:08
+when i ask you simple things like how do
+12:10
+you get to be here right
+12:13
+there is a problem of a skill on this
+12:15
+question because of how do what do you
+12:18
+mean by here
+12:19
+i couldn't i could mean yeah here my
+12:22
+desk how do you get to be here in
+12:23
+honolulu how do you get to be here in
+12:25
+hawaii how did you get to be here in the
+12:26
+united states how did you get to be here
+12:28
+on earth so as you can see there is a
+12:31
+a huge variation on the scale at which
+12:34
+you can define a space right and that
+12:36
+also applies to the issue of defining
+12:38
+these boundaries
+12:40
+that are clustered different similar
+12:42
+places in the planet so scientists have
+12:45
+kind of agreed already on some
+12:47
+on the use of certain terms to define
+12:50
+this potential hierarchy on skills
+12:52
+the largest skills
+12:55
+that we can use to cluster things is
+12:57
+what is called realms inside realms we
+13:00
+have regions inside regions we have
+13:01
+provinces inside provinces we have
+13:03
+subdivisions and that again is a
+13:06
+hierarchy that a scientist had used to
+13:07
+define the the skill or the magnitude at
+13:10
+which these
+13:11
+areas are clustered together and at
+13:14
+times you will see these in
+13:15
+biogeographical regions these places
+13:17
+being referred and i want you to
+13:19
+understand what they mean and how they
+13:20
+are clustered okay
+13:24
+now that's a problem again with defining
+13:26
+the regions is the scale up would you
+13:27
+decide to create the regions the other
+13:29
+problem is the data that you use to
+13:31
+outline those boundaries so as i
+13:32
+explained to you earlier in another
+13:34
+class the the species are normally
+13:37
+classified into what is called a
+13:38
+taxonomy hierarchy right so you get a
+13:40
+species genomes family orders and
+13:42
+whatever so depending on the data that
+13:44
+you use you may end up with completely
+13:45
+different boundaries for those regions
+13:47
+let me just give you an example here of
+13:49
+two places canada and russia and let's
+13:51
+imagine that i want to find out if those
+13:53
+two places are from the same region or
+13:55
+not
+13:56
+if i use data at the genomes level
+13:59
+you can see that
+14:00
+i at the genos level i had the
+14:02
+genociders in russia in canada and in
+14:04
+russia if i look at pisa i had a genus
+14:07
+also in russia if i look at penis it's
+14:09
+also in russia so in this case at the
+14:12
+genos level canada and russia are
+14:14
+identical right they had exactly the
+14:16
+same type of geniuses on both countries
+14:19
+but now when i look at the species level
+14:21
+you can see that for instance in canada
+14:23
+the species that i had in the genus
+14:24
+larynx is larissina but larissina is not
+14:27
+found in russia
+14:30
+is not found in russia either pisa
+14:32
+mariana
+14:34
+is not found in russia despite the fact
+14:35
+that i had the genus pizza but it's a
+14:37
+different species embassy
+14:40
+banks bank siana is another species of
+14:42
+peanuts that i don't find in russia
+14:44
+so in this case i had no species in
+14:46
+common between canada and russia as a
+14:49
+result they are completely different so
+14:51
+as you can see here
+14:53
+depending on the data the taxonomic
+14:55
+level data that you use you may end up
+14:57
+getting completely different and results
+15:00
+that to outline those biogeographical
+15:02
+boundaries
+15:04
+the other problem that you had again you
+15:06
+try to identify these boundaries for
+15:08
+these regions is the taxa that you use
+15:10
+let me just give you an example and
+15:12
+obviously the reason being that
+15:13
+different species have different
+15:15
+capacities to especially
+15:17
+different capacities to disperse and
+15:19
+different capacities to go extinct so
+15:20
+that obviously can result in
+15:23
+all kind of different
+15:25
+distributions of species that mine that
+15:27
+are resulting in different boundaries
+15:28
+for those regions let me give you an
+15:30
+example that is very famous but it's
+15:32
+called the wallace line
+15:34
+the guadalus line is this
+15:36
+imaginary boundary the wallace created
+15:40
+in the south pacific to differentiate
+15:42
+apparently two different regions that
+15:45
+have completely different
+15:47
+biota rights on some one on one side of
+15:50
+that line you had
+15:52
+a lot of different species
+15:54
+a lot of a lot of species are very
+15:56
+different from the other side of that
+15:58
+line
+15:59
+so scientists have been
+16:01
+investigating that line for the longest
+16:02
+of times but what is interesting and
+16:04
+what i'm pointing out here from this
+16:05
+paper of simpson he took all of the
+16:08
+scientific paper that had documented
+16:09
+that line and what you can see is that
+16:11
+many papers different scientific papers
+16:13
+outlined that line the wireless line on
+16:16
+different places
+16:17
+right so despite the fact that again
+16:19
+there seems to be indeed something we
+16:21
+are going on in the south pacific that
+16:22
+differentiates these two locations the
+16:24
+boundaries
+16:25
+where that happens has been very
+16:27
+different among scientific papers and
+16:28
+the most likely reason is probably the
+16:31
+taxa that those people are using you can
+16:33
+imagine for instance if you are looking
+16:35
+at things like birds obviously for birds
+16:38
+they can move relatively easy if you are
+16:41
+looking for instance and mammals well
+16:42
+mammals are going to have a hard time
+16:44
+going from one island to the other one
+16:46
+so right there in that example you can
+16:48
+see
+16:49
+the challenges of the environment on
+16:52
+dispersal that then will cause different
+16:54
+biogeographical
+16:55
+boundaries for these regions
+16:58
+the other challenges that you will
+17:00
+encounter again as we try to define
+17:02
+biogeographical regions is the fact that
+17:04
+those regions are likely going to change
+17:05
+from time to time let me just give you a
+17:07
+couple examples here for instance with
+17:09
+climate change is one so let's imagine
+17:10
+that this is the distribution of a
+17:12
+species we come along and we start
+17:14
+increasing the temperature it turns out
+17:16
+that the suitable conditions for that
+17:18
+species are going to be moving places
+17:20
+and in resolve the species by might be
+17:22
+moving
+17:23
+so here's an example for instance of a
+17:24
+paper by huntley that was one of the
+17:26
+first ones to kind of model the
+17:28
+redistribution of biodiversity on earth
+17:31
+as a consequence of climate change and
+17:33
+what you can see here for instance is
+17:34
+that now the highest diversities in
+17:36
+colors you can see here the number of
+17:38
+species in red high diversity in blue
+17:40
+lower diversity
+17:42
+and now you have the highest diversity
+17:44
+in central europe but by 2070 when the
+17:47
+temperature of the planet started
+17:48
+increasing at higher latitudes start
+17:50
+becoming hotter what you find now is
+17:52
+that the highest diversity is found at
+17:54
+higher latitudes in europe so you can
+17:56
+imagine obviously that we are out
+17:59
+delineating about geographical region
+18:01
+today
+18:02
+that region is going to be completely
+18:04
+different by 2017 again mostly in this
+18:07
+example as a result of climate change so
+18:08
+the point that i want that i am making
+18:10
+here
+18:11
+is that a scientist we try to define
+18:13
+these biogeographical regions the
+18:15
+limitations of the data that critically
+18:17
+those biogeographical boundaries are
+18:18
+likely to change again in this example
+18:20
+as a result of climate change
+18:23
+another interesting thing that is
+18:25
+happening with climate change that i
+18:26
+will actually point out as well is that
+18:28
+in many cases not only the species are
+18:29
+moving up north
+18:31
+sorry that again is the fact that in
+18:33
+concern in consequence to this climate
+18:35
+change many species are moving and nor
+18:37
+obviously the species many many species
+18:39
+especially in the ocean as in the ocean
+18:41
+are restricted by higher by lower
+18:43
+temperatures and highlighted to how the
+18:44
+planets warm up now these warm
+18:47
+temperatures start being found at high
+18:48
+latitudes and one of the consequences of
+18:50
+this is that many species now are
+18:52
+expanding the geographical distribution
+18:54
+so here's an example for instance on the
+18:56
+snake planning that depending on the
+18:58
+temperature that you get you normally
+19:01
+find in a higher latitude so every time
+19:03
+that the winter temperature becomes
+19:04
+hotter you can see the animal colonizing
+19:06
+much higher latitudes
+19:09
+there is a very clever paper published
+19:12
+by perry a supervisor of mine bodies
+19:14
+warm that in which they analyze again
+19:16
+the extent to which species are moving
+19:18
+at north and they compile data from many
+19:20
+scientific papers and what they found is
+19:22
+that on average the species that they
+19:24
+analyze have been moving in 172
+19:27
+kilometers adwords between 1997
+19:31
+1977 and 2001. we are talking about
+19:34
+20-so years in which because of the
+19:37
+warming that we are seeing in the oceans
+19:38
+the species have now shifted the
+19:40
+distributions by nearly 170 kilometers
+19:44
+north
+19:45
+and again in this case that's gonna have
+19:47
+consequences on how do we set the
+19:49
+boundaries of these regions
+19:53
+i also
+19:55
+wanted to point out that
+19:58
+not only the species as a result of
+20:00
+climate change are moving up north in
+20:02
+the oceans those species are also going
+20:04
+deeper now again because
+20:06
+unfortunately because of the amount of
+20:08
+energy that animals require when it gets
+20:10
+hotter they use a lot more energy and
+20:12
+animals in the oceans cannot afford to
+20:14
+to to waste energy nor do they have any
+20:16
+time to find it what it has been found
+20:18
+is that many species of fish are
+20:20
+actually
+20:21
+migrating lower
+20:23
+towards deeper parts of the oceans again
+20:26
+as a way to keep up with the
+20:28
+oceans getting warmer our shallower
+20:30
+temperatures just for you to know
+20:34
+regardless
+20:36
+so one of the again
+20:37
+this issue of climate change since the
+20:39
+distribution of species has been
+20:40
+documented a lot and this is a
+20:42
+cool paper but actually one of the first
+20:44
+papers published by sean william sean
+20:47
+that kind of look at again what will
+20:48
+happen to the oceans the diversity of
+20:50
+the oceans once once we start changing
+20:52
+the temperature and what he found
+20:54
+was that it's going to be a huge level
+20:57
+of species going a stain on some places
+20:59
+so the species colonizing new places and
+21:02
+as a consequence of this the assemblages
+21:04
+that we see today by assembling i mean
+21:06
+the composition of a species that we see
+21:08
+today is going to be very different in
+21:10
+the future as a result of climate change
+21:12
+and that
+21:13
+species turnover is described on this on
+21:15
+this map here as you can see from the
+21:17
+species to nowhere what he finds is that
+21:19
+the highest turnover of species is going
+21:21
+to be found towards higher latitudes
+21:23
+both both north and south
+21:26
+obviously what is
+21:28
+happening here is that now the species
+21:30
+from the tropics are having a good time
+21:33
+potentially moving up nor colonizing
+21:35
+these things there is interesting also
+21:37
+some reductions in similarity in the
+21:39
+tropics because in the tropics the
+21:41
+temperatures are going to get so hot for
+21:42
+some species that they're going to die
+21:44
+there so that again could explain also
+21:46
+some of these similarities that you're
+21:47
+going to see in the tropics but all
+21:49
+together it's believed that
+21:51
+local assemblages in the gross oceans
+21:53
+could be changed by up to 60 by 2050.
+21:56
+you might not think much of it right
+21:58
+okay we have these species there and
+21:59
+they're gonna change by 60 percent but
+22:01
+the economic consequences of that will
+22:03
+be brutal you can imagine for instance
+22:05
+entire communities having fishing fleets
+22:08
+completely adapted to fish certain fish
+22:10
+right and now the fish have just moved
+22:12
+somewhere else and another fish might
+22:14
+come but you can just not easily change
+22:15
+the fishing gear to fish the new thing
+22:18
+and unfortunately the fish is going into
+22:20
+another country so it's not like you can
+22:21
+just go to another country and fish so
+22:23
+this is a species turnover in the ocean
+22:26
+especially when it comes down to the
+22:28
+fisheries is gonna have incredible
+22:30
+consequences again because communities
+22:32
+are already adapted there are
+22:33
+geopolitical boundaries that you cannot
+22:35
+cross as the species do
+22:38
+there are also
+22:40
+changes on the distribution of species
+22:42
+because of humans and we have explained
+22:44
+this several times already in this class
+22:46
+but here is an example for instance of
+22:48
+some groups of species that have
+22:50
+modified the geographical distributions
+22:52
+quite dramatically mostly the carnivora
+22:54
+in the in south america this is a good
+22:55
+example by these two guys they're in
+22:57
+bioscience where you can see the
+22:58
+original distribution of the species
+23:00
+being everything that is in color here
+23:02
+and where they are found today the most
+23:04
+are those places in green so you can see
+23:07
+many of these species we almost wipe out
+23:09
+from where they are where used to be and
+23:10
+now they are restricted to only certain
+23:12
+amount of certain very small patches
+23:14
+along the original distribution and all
+23:17
+of that seems highly related to the
+23:19
+magnitude of the interaction of these
+23:21
+species with humans here i can see i i'm
+23:23
+showing you the the actual human
+23:25
+presence on the on north america from
+23:29
+black red being high human impact and
+23:32
+green being in law and what you can
+23:34
+capture from this is how on the places
+23:36
+where the humans impacts are the highest
+23:38
+are the places where the species is
+23:40
+almost completely eradicated which are
+23:41
+these places in purple here at the base
+23:44
+and the places where the animals remain
+23:46
+are places where humans have the lowest
+23:47
+impact so again humanity not only
+23:50
+through climate change but also through
+23:51
+the impact again through deforestation
+23:54
+and and killing and we're harvesting
+23:56
+these animals we're also changing the
+23:58
+distribution of these species as a
+23:59
+result what we define again as a region
+24:02
+will change as a consequence of us also
+24:04
+having a huge impact on those species
+24:07
+another driver that is changing and
+24:10
+modify the boundaries of these
+24:12
+geographical regions are the
+24:14
+introduction of new species so here is a
+24:16
+case example of the lionfish that was
+24:19
+introduced early on back in 1999 there
+24:22
+were only a couple of records found in
+24:24
+in florida you can see it right there
+24:26
+but look at what happened to this
+24:28
+species in just a few years by 2000 now
+24:30
+it was found a higher latitudes by 2003
+24:34
+was now found all along the atlantic
+24:36
+coast of the united states and by 2009
+24:39
+now it was found everywhere in the
+24:41
+caribbean isn't that mind-blowing man so
+24:43
+we're talking about here just 10 years
+24:46
+that's right
+24:47
+10 years time a species was released in
+24:51
+in the go in the florida keys and it now
+24:53
+managed to be everywhere in the
+24:55
+caribbean so now what happened here you
+24:57
+are adding a new species but
+24:59
+unfortunately this is species at times
+25:01
+it's also causing the extinction of
+25:02
+local species so again here we have
+25:04
+another human driven
+25:07
+factor that changes the composition of
+25:09
+assemblages that then potentially
+25:12
+modifies what we define as boundaries
+25:14
+for those biogeographical regions today
+25:17
+fortunately this issue of invasive
+25:20
+species is brutal here in this map and
+25:23
+showing you the the chipping lines the
+25:25
+pathways of chipping lines these big
+25:27
+boats that are moving goods and services
+25:29
+from place to place is highlighted there
+25:31
+on those lines so you can imagine the
+25:33
+potential for us to introduce this new
+25:36
+species into new ecosystems so that
+25:38
+again is could could be potentially or
+25:40
+it is already one of the major drivers
+25:43
+on changes in the assemblages of a
+25:45
+species by introducing new species and
+25:48
+unfortunately there are hundreds of
+25:49
+examples that you can point out of
+25:52
+species that have already been
+25:53
+introduced having massive consequences
+25:55
+for local ecosystems for good
+25:57
+for good bringing you species but for
+26:00
+bad for bad also driving species locally
+26:02
+to extinction
+26:04
+so
+26:06
+just to summarize the whole thing the
+26:07
+reality is that there is not really a
+26:09
+clear code way to define these
+26:10
+biogeographical regions as i just showed
+26:12
+you there but
+26:15
+as a result scientists have proposed a
+26:18
+diversity of
+26:24
+diversity of methods let's say
+26:27
+or results that are used to delineate
+26:30
+the biogeographical regions of the world
+26:32
+so here is an example this is the
+26:34
+outline suggested by
+26:36
+ut bardi and you can see how he defined
+26:39
+different biogeographical regions here
+26:41
+is another one by the wwf they went into
+26:44
+deeper analysis just to analyze and to
+26:46
+close their the planet on different
+26:48
+places
+26:50
+and this problem unfortunately is also
+26:54
+present even our smaller skills this is
+26:55
+a paper by a friend of mine well yeah
+26:58
+ross robertson from the smithsonian i
+26:59
+was used to to to work with him there at
+27:02
+the smithsonian in panama and this is a
+27:04
+paper that he published looking at the
+27:05
+distribution of fish in the eastern
+27:07
+pacific and one of the things that you
+27:09
+can see here is he put together
+27:12
+how the scientists define the
+27:14
+area in different regions so this is a
+27:16
+paper by egma this is the paper by
+27:18
+bricks bosque and spalding and one of
+27:20
+the things that he wanted to point that
+27:22
+point out there is how are the local
+27:24
+skills depending on the type of data and
+27:26
+analysis and taxes that you analyze you
+27:28
+might end up with completely different
+27:30
+boundaries for those regions and you
+27:32
+kind of try to make the case here with
+27:34
+this figure in his one paper there
+27:36
+and again showing how
+27:38
+and for even for the same region as
+27:41
+scientists have completely different
+27:43
+definitions for what a region
+27:46
+is especially the boundaries of that
+27:47
+region
+27:48
+so let me summarize the class for today
+27:51
+so basically again we're talking about
+27:53
+geographical region which is an attempt
+27:56
+by a scientist to delineate areas of the
+27:59
+world that are similar in the
+28:00
+composition of species not to be
+28:02
+confused again with biomes
+28:04
+and these
+28:06
+biogeographical regions are difficult to
+28:08
+define
+28:09
+because of the issue of a scale what
+28:10
+scale you define the regions
+28:12
+the taxonomic rank whether you are using
+28:15
+species data or general data
+28:18
+the taxonomic group right are you using
+28:20
+birds insects mammals
+28:23
+or the fact that it's very likely that
+28:26
+these
+28:27
+regions that we outline today are going
+28:28
+to be changing over time as i explain
+28:31
+a couple examples their climate change
+28:33
+and direct human impacts
+28:34
+and as a result then it's no surprise
+28:37
+that whatever we described today as
+28:39
+about geographical region is something
+28:40
+that is very viable
+28:43
+and again it can be viable because of
+28:44
+the climate direct human exploitation or
+28:48
+at times the impatience and that's just
+28:49
+a summary of again how do we describe
+28:53
+these biogeographical regions the
+28:55
+challenges that we encounter every time
+28:57
+that we wanna define them and then
+28:59
+why there is not really a surprise when
+29:01
+different scientists propose in
+29:03
+different regions for different places
+29:05
+=======
+
+0:06
+all right so today we are going to be
+0:08
+covering uh another aspect
+0:11
+of um
+0:13
+that is another thing that is a study in
+0:14
+the field about geographical
+0:16
+biogeographical regions basically the
+0:18
+problem that we had here is the fact
+0:20
+that different parts of the world had
+0:22
+similar types of species right and
+0:26
+the problem is how do we set the
+0:28
+boundaries or those places right so let
+0:31
+me just give you an example here for you
+0:33
+to understand what i'm talking about you
+0:34
+look at these two places this is a
+0:36
+forest in costa rica there's a place a
+0:38
+forest in new england you can see that
+0:40
+from
+0:42
+by looking at them you can see that they
+0:43
+look very similar right you have forest
+0:45
+you have cloud you have trees but it
+0:47
+turns out that when you look at the
+0:48
+species of those two different places
+0:50
+they actually don't share any species so
+0:52
+how do you how do you go about ensuring
+0:55
+that those places are
+0:57
+we in the same place well it turns out
+0:59
+that you gotta do a couple distinctions
+1:01
+here the first one is to understand the
+1:04
+center which they are similar these
+1:05
+places are similar based on their
+1:07
+vegetation type structure climate so etc
+1:10
+or the strength to which they are
+1:11
+differentiated by the species that
+1:13
+belong to those different places
+1:15
+scientists
+1:17
+have created different ways to again
+1:19
+cluster these places depending on this
+1:22
+so anytime that you try to cluster
+1:24
+different places on the world based on
+1:25
+their vegetation type structural climate
+1:27
+so that is what is called a biome
+1:30
+okay so in this case these two places in
+1:33
+costa rica new caledonia again they
+1:35
+probably have the same temperature the
+1:36
+same water regimes and things like that
+1:38
+they are probably part of the same biome
+1:39
+because those climates are very similar
+1:41
+but there are no
+1:43
+but another way to classify those
+1:44
+species based on the similarities
+1:46
+between those two species in that case
+1:49
+scientists use what is called a
+1:51
+biogeographical region and again are
+1:53
+places on the planet that are clustered
+1:56
+together given in the similarity in
+1:58
+those places in for instance the plants
+2:00
+are animals that live within those
+2:02
+places in this case
+2:04
+these two examples here might be the
+2:05
+same biome because again same
+2:07
+temperatures and vegetation type and
+2:09
+things like that but there are probably
+2:11
+different biogeographical regions
+2:13
+because the species are here are not
+2:14
+there
+2:15
+so i need you to remember those two key
+2:17
+words there again biomes are places on
+2:20
+the world that are similar on their
+2:21
+climates
+2:22
+biogeographical regions are places in
+2:24
+the world that are similar on the
+2:25
+species that belong on those are on
+2:27
+those places
+2:29
+let's look at the data how people
+2:31
+outline the boundaries though those
+2:32
+biogeographical regions you know
+2:35
+so as i explained to you several times
+2:38
+in this class a species basically can
+2:41
+either be present on a place or might be
+2:43
+absent on that place the way that you
+2:45
+explain the presence of the space
+2:48
+the presence of a species is via
+2:50
+speciation the species being born in the
+2:51
+given place or via dispersal basically
+2:54
+the species got there from somewhere
+2:55
+else the way that you explain the
+2:58
+absence of a species can also be
+3:00
+be a extinction meaning that the species
+3:02
+was there and it wouldn't stain and
+3:03
+that's the reason why you don't see it
+3:04
+anymore or maybe dispersal limitations
+3:07
+that prevent the species of ever getting
+3:09
+to those places so with that being said
+3:13
+let's see what is the raw data that any
+3:15
+scientists use
+3:17
+to describe these biogeographical
+3:18
+regions and let's imagine here a
+3:20
+latitudinal gradient transit okay so
+3:23
+imagine that this is the normal these
+3:25
+are the tropics and that's the south
+3:26
+pole basically what i do then
+3:29
+what you find along the latitudinal
+3:31
+gradient is what is called geographical
+3:33
+range i'm going to describe a
+3:35
+geographical range as this black line
+3:37
+here so this is one species that is
+3:38
+found all the way from the north pole
+3:40
+all the way to the south pole so along
+3:42
+my transit the species is found
+3:43
+everywhere
+3:45
+just for you to know those species that
+3:47
+are found everywhere are where are we
+3:49
+are called cosmopolitan species i need
+3:51
+you to remember that name cosmopolitan
+3:53
+species are species that are found
+3:55
+everywhere
+3:56
+along the same that you do in a transit
+3:58
+you might find species are found only in
+4:00
+certain places those species are called
+4:02
+endemic species so cosmopolitan and
+4:04
+endemic are the species are kind of at
+4:06
+the stream of the geographical ranges
+4:08
+from the species that had a distribution
+4:10
+everywhere like cosmopolitan to species
+4:13
+that have very restricted limit a very
+4:16
+restricted distribution like species
+4:18
+that are endemic and in between that
+4:19
+range you have a species with all kind
+4:21
+of geographical ranges so here's an
+4:23
+example for instance or many species
+4:26
+that overlap the geographical ranges
+4:28
+along these latitude transit so that's
+4:29
+the reality of what happens in nature
+4:31
+right
+4:33
+now let's imagine that i go along this
+4:35
+transit and i do sampling on these
+4:37
+vertical on these lines that are here in
+4:40
+red so basically if i go to this place i
+4:43
+find two species if i go to this place i
+4:45
+find two species if i go to this place i
+4:47
+find three species right so again this
+4:50
+is using any of the method that we
+4:51
+described before i go to again every one
+4:53
+of these transits and then i for
+4:55
+instance go and count how many species
+4:56
+are there here i will find two here on
+4:58
+this position i find three i put three
+5:00
+there here five i put five there and
+5:02
+then if i were just to count
+5:05
+the species i will get what is called
+5:07
+the pattern of specie richness however
+5:09
+another thing that i can do is to
+5:10
+calculate the similarity between those
+5:13
+places so for instance in this case this
+5:16
+location has two species this location
+5:19
+has two species but you see are the same
+5:21
+species so in this case the similarity
+5:23
+between this location and that location
+5:24
+is 100 so i can rather plot the
+5:27
+similarity as well rather than counting
+5:29
+the species i can count how similar
+5:31
+those places are in this location
+5:33
+compared to that location you see there
+5:35
+is only one species in common this one
+5:37
+has one species that is
+5:40
+unique to the place but this other
+5:41
+location has two species that are unique
+5:43
+to the place so there are several
+5:44
+mathematical equations that allow you
+5:46
+then to calculate the similarity and
+5:48
+rather that you point in the number of
+5:50
+species what you calculate is the
+5:52
+similarity between neighboring locations
+5:54
+and you end up with parties like this
+5:56
+right so for instance in this case
+5:58
+if i went from this location to that
+6:00
+location they are very dissimilar so
+6:01
+they will be you will see dips and
+6:03
+basically what this outline then are
+6:05
+potentially boundaries on the
+6:07
+geographical distribution of a species
+6:09
+you see from this point over here
+6:11
+although there is a high similarity but
+6:13
+from that point between this and that
+6:15
+one they are very dissimilar and we in
+6:17
+that beyond that point everything is
+6:19
+similar so what that suggests here is
+6:20
+that there is a biogeographical
+6:22
+biogeographical boundary that prevents
+6:25
+species from this place to move into
+6:26
+that place so here you get hints into
+6:29
+the potential existence of
+6:32
+boundaries
+6:33
+again a scientist
+6:35
+use this data on the distribution of
+6:37
+species to look at the similarities
+6:39
+between the between locations and where
+6:41
+they are the most dissimilar
+6:44
+it gives hints into potential bond
+6:47
+boundaries of biogeographical regions
+6:49
+because obviously what is happening
+6:50
+there by the location being nearby in
+6:52
+locations being so the different is the
+6:54
+fact that something prevents the species
+6:56
+to go from go from one place to another
+6:58
+one so that's the way
+7:00
+how scientist take the raw data on a
+7:02
+species distribution and turn them into
+7:04
+similarities or dissimilarities to
+7:06
+outline the boundaries of
+7:08
+biogeographical regions
+7:10
+let's just review again let's actually
+7:12
+let's do a quick example here let's
+7:13
+imagine again the same latitudinal
+7:15
+transit here are the species and here
+7:16
+are two locations that i sampled so
+7:18
+mathematically there are different ways
+7:20
+to calculate how dissimilar they are one
+7:23
+method is what is called jacquard
+7:25
+index of similarity and is expressed
+7:27
+with a mathematical equation here s it
+7:30
+stands for a species the first number
+7:33
+stands for the species present in
+7:35
+location one
+7:36
+one stands for the species being present
+7:38
+and zero for the species being absent so
+7:41
+when you see that s11 s stands for the
+7:43
+species that are present in location one
+7:45
+that are also present in location two
+7:48
+so here if we look at this example here
+7:50
+so how many species are present in one
+7:53
+that are also present in location two
+7:54
+that will be four right so here i enter
+7:57
+my four now let's look at the
+7:59
+denominator of this
+8:01
+index and that is s01 so basically the
+8:04
+way that you read this is a species that
+8:06
+are absent
+8:07
+from psi one that are present inside two
+8:11
+right in that case you see there is not
+8:14
+a species that is absent from this side
+8:16
+that is present on that one so that will
+8:17
+become a zero
+8:19
+you do then the reverse for the other
+8:20
+side and finally you had s was one that
+8:23
+we established was again the species
+8:24
+that are present in one so location one
+8:26
+they're also present in location two
+8:28
+that will be four so that this the
+8:30
+similarity will be one so that's what is
+8:32
+called the jacquard
+8:33
+another common index to assess
+8:35
+similarities is what is called simpson
+8:37
+the question of simpson is actually
+8:38
+shorter is
+8:40
+is a
+8:41
+s11 divided by s1 so basically s11 is it
+8:45
+means the species present in location
+8:47
+one that are also present in location
+8:48
+two in this case that will be four
+8:51
+divided by the species that are present
+8:53
+in one location one that will be four so
+8:55
+the similarity is one so here are again
+8:58
+the two mathematical equations that are
+9:00
+used commonly to assess
+9:02
+the dissimilarity between places that at
+9:04
+times are used to define the boundaries
+9:06
+of biogeographical regions
+9:09
+let's look at an actual case example of
+9:11
+the similarity between places and how
+9:14
+they are used to align by geographical
+9:15
+regions this is a paper by mckinney
+9:18
+mack knight in plus biology biology in
+9:20
+2007 and he compared the similarities
+9:23
+between pixels
+9:25
+everywhere in the americas for birds
+9:27
+mammals and amphibians places that are
+9:30
+red are places that are very different
+9:32
+very dissimilar places that are in blue
+9:35
+are places that are very similar so
+9:36
+let's just look at one case example here
+9:38
+for the birds so you see for instance
+9:40
+look at the beauty the beauty of this
+9:42
+pattern how
+9:44
+all of the
+9:45
+pacific coast of the americas had had a
+9:49
+high species dissimilarity
+9:52
+i want you to talk about this while the
+9:55
+the other side of the americas normally
+9:57
+have a species location that are very
+9:59
+similar to each other i want you to pass
+10:01
+this video and think about why would
+10:02
+that be the case why the species
+10:04
+along the pacific coast of the americas
+10:06
+will be so different from place to place
+10:09
+while in the interior of the continent
+10:11
+those
+10:12
+species those sites have very similar
+10:15
+species compositions
+10:17
+so i'm hoping that you the explanation
+10:19
+that you came out with
+10:21
+is this so if you look at the
+10:23
+geomorphology of the americas what you
+10:25
+find along the pacific coast is a set of
+10:27
+mountains right that come from plate
+10:29
+tectonics that elevate the surface and
+10:32
+eventually you get these huge mountains
+10:33
+and what happens in mount times of
+10:34
+course is that it creates huge gradients
+10:37
+in the environment you can go from
+10:38
+hanging out on the beach with a nice
+10:40
+bikini and a martini all the way to
+10:42
+freezing your butt at the top of the
+10:44
+mountain so as you can imagine there is
+10:46
+a huge environmental gradient and all of
+10:48
+the species manage to
+10:50
+survive on those conditions so along the
+10:53
+coast the existence of these mountains
+10:55
+create environmental
+10:56
+variation that then allow forces species
+10:59
+to live on just certain places and
+11:01
+that's the reason why
+11:02
+there are so
+11:04
+many differences in the number of
+11:05
+species from side to side again mostly
+11:08
+related to the geomorphology causing a
+11:11
+huge variation on the environmental
+11:13
+conditions in the opposite for instance
+11:15
+if we focus here in south america you
+11:17
+get
+11:17
+flat areas all in in the in the interior
+11:21
+of the continent for instance like the
+11:22
+amazon the amazon you can see as far as
+11:24
+the i can see and obviously what happens
+11:26
+there is that there are general stable
+11:29
+and similar conditions throughout and
+11:31
+that allows the species to be everywhere
+11:33
+and that then results again
+11:35
+on you having the species from one side
+11:38
+being very similar to the locations on
+11:40
+other side and here then you can easily
+11:41
+outline biogeographical regions right
+11:44
+like here for instance in blue you can
+11:45
+see the entire amazon potentially being
+11:48
+defined as a biogeographical region
+11:50
+where most of the species are there are
+11:51
+commonly found everywhere
+11:56
+so unfortunately this issue of defining
+11:58
+biographical regions is not as trivial
+12:00
+one of the first things that you have to
+12:02
+deal with is the skill of which you try
+12:04
+to define those regions right so for
+12:07
+instance let me just give you an analogy
+12:08
+when i ask you simple things like how do
+12:10
+you get to be here right
+12:13
+there is a problem of a skill on this
+12:15
+question because of how do what do you
+12:18
+mean by here
+12:19
+i couldn't i could mean yeah here my
+12:22
+desk how do you get to be here in
+12:23
+honolulu how do you get to be here in
+12:25
+hawaii how did you get to be here in the
+12:26
+united states how did you get to be here
+12:28
+on earth so as you can see there is a
+12:31
+a huge variation on the scale at which
+12:34
+you can define a space right and that
+12:36
+also applies to the issue of defining
+12:38
+these boundaries
+12:40
+that are clustered different similar
+12:42
+places in the planet so scientists have
+12:45
+kind of agreed already on some
+12:47
+on the use of certain terms to define
+12:50
+this potential hierarchy on skills
+12:52
+the largest skills
+12:55
+that we can use to cluster things is
+12:57
+what is called realms inside realms we
+13:00
+have regions inside regions we have
+13:01
+provinces inside provinces we have
+13:03
+subdivisions and that again is a
+13:06
+hierarchy that a scientist had used to
+13:07
+define the the skill or the magnitude at
+13:10
+which these
+13:11
+areas are clustered together and at
+13:14
+times you will see these in
+13:15
+biogeographical regions these places
+13:17
+being referred and i want you to
+13:19
+understand what they mean and how they
+13:20
+are clustered okay
+13:24
+now that's a problem again with defining
+13:26
+the regions is the scale up would you
+13:27
+decide to create the regions the other
+13:29
+problem is the data that you use to
+13:31
+outline those boundaries so as i
+13:32
+explained to you earlier in another
+13:34
+class the the species are normally
+13:37
+classified into what is called a
+13:38
+taxonomy hierarchy right so you get a
+13:40
+species genomes family orders and
+13:42
+whatever so depending on the data that
+13:44
+you use you may end up with completely
+13:45
+different boundaries for those regions
+13:47
+let me just give you an example here of
+13:49
+two places canada and russia and let's
+13:51
+imagine that i want to find out if those
+13:53
+two places are from the same region or
+13:55
+not
+13:56
+if i use data at the genomes level
+13:59
+you can see that
+14:00
+i at the genos level i had the
+14:02
+genociders in russia in canada and in
+14:04
+russia if i look at pisa i had a genus
+14:07
+also in russia if i look at penis it's
+14:09
+also in russia so in this case at the
+14:12
+genos level canada and russia are
+14:14
+identical right they had exactly the
+14:16
+same type of geniuses on both countries
+14:19
+but now when i look at the species level
+14:21
+you can see that for instance in canada
+14:23
+the species that i had in the genus
+14:24
+larynx is larissina but larissina is not
+14:27
+found in russia
+14:30
+is not found in russia either pisa
+14:32
+mariana
+14:34
+is not found in russia despite the fact
+14:35
+that i had the genus pizza but it's a
+14:37
+different species embassy
+14:40
+banks bank siana is another species of
+14:42
+peanuts that i don't find in russia
+14:44
+so in this case i had no species in
+14:46
+common between canada and russia as a
+14:49
+result they are completely different so
+14:51
+as you can see here
+14:53
+depending on the data the taxonomic
+14:55
+level data that you use you may end up
+14:57
+getting completely different and results
+15:00
+that to outline those biogeographical
+15:02
+boundaries
+15:04
+the other problem that you had again you
+15:06
+try to identify these boundaries for
+15:08
+these regions is the taxa that you use
+15:10
+let me just give you an example and
+15:12
+obviously the reason being that
+15:13
+different species have different
+15:15
+capacities to especially
+15:17
+different capacities to disperse and
+15:19
+different capacities to go extinct so
+15:20
+that obviously can result in
+15:23
+all kind of different
+15:25
+distributions of species that mine that
+15:27
+are resulting in different boundaries
+15:28
+for those regions let me give you an
+15:30
+example that is very famous but it's
+15:32
+called the wallace line
+15:34
+the guadalus line is this
+15:36
+imaginary boundary the wallace created
+15:40
+in the south pacific to differentiate
+15:42
+apparently two different regions that
+15:45
+have completely different
+15:47
+biota rights on some one on one side of
+15:50
+that line you had
+15:52
+a lot of different species
+15:54
+a lot of a lot of species are very
+15:56
+different from the other side of that
+15:58
+line
+15:59
+so scientists have been
+16:01
+investigating that line for the longest
+16:02
+of times but what is interesting and
+16:04
+what i'm pointing out here from this
+16:05
+paper of simpson he took all of the
+16:08
+scientific paper that had documented
+16:09
+that line and what you can see is that
+16:11
+many papers different scientific papers
+16:13
+outlined that line the wireless line on
+16:16
+different places
+16:17
+right so despite the fact that again
+16:19
+there seems to be indeed something we
+16:21
+are going on in the south pacific that
+16:22
+differentiates these two locations the
+16:24
+boundaries
+16:25
+where that happens has been very
+16:27
+different among scientific papers and
+16:28
+the most likely reason is probably the
+16:31
+taxa that those people are using you can
+16:33
+imagine for instance if you are looking
+16:35
+at things like birds obviously for birds
+16:38
+they can move relatively easy if you are
+16:41
+looking for instance and mammals well
+16:42
+mammals are going to have a hard time
+16:44
+going from one island to the other one
+16:46
+so right there in that example you can
+16:48
+see
+16:49
+the challenges of the environment on
+16:52
+dispersal that then will cause different
+16:54
+biogeographical
+16:55
+boundaries for these regions
+16:58
+the other challenges that you will
+17:00
+encounter again as we try to define
+17:02
+biogeographical regions is the fact that
+17:04
+those regions are likely going to change
+17:05
+from time to time let me just give you a
+17:07
+couple examples here for instance with
+17:09
+climate change is one so let's imagine
+17:10
+that this is the distribution of a
+17:12
+species we come along and we start
+17:14
+increasing the temperature it turns out
+17:16
+that the suitable conditions for that
+17:18
+species are going to be moving places
+17:20
+and in resolve the species by might be
+17:22
+moving
+17:23
+so here's an example for instance of a
+17:24
+paper by huntley that was one of the
+17:26
+first ones to kind of model the
+17:28
+redistribution of biodiversity on earth
+17:31
+as a consequence of climate change and
+17:33
+what you can see here for instance is
+17:34
+that now the highest diversities in
+17:36
+colors you can see here the number of
+17:38
+species in red high diversity in blue
+17:40
+lower diversity
+17:42
+and now you have the highest diversity
+17:44
+in central europe but by 2070 when the
+17:47
+temperature of the planet started
+17:48
+increasing at higher latitudes start
+17:50
+becoming hotter what you find now is
+17:52
+that the highest diversity is found at
+17:54
+higher latitudes in europe so you can
+17:56
+imagine obviously that we are out
+17:59
+delineating about geographical region
+18:01
+today
+18:02
+that region is going to be completely
+18:04
+different by 2017 again mostly in this
+18:07
+example as a result of climate change so
+18:08
+the point that i want that i am making
+18:10
+here
+18:11
+is that a scientist we try to define
+18:13
+these biogeographical regions the
+18:15
+limitations of the data that critically
+18:17
+those biogeographical boundaries are
+18:18
+likely to change again in this example
+18:20
+as a result of climate change
+18:23
+another interesting thing that is
+18:25
+happening with climate change that i
+18:26
+will actually point out as well is that
+18:28
+in many cases not only the species are
+18:29
+moving up north
+18:31
+sorry that again is the fact that in
+18:33
+concern in consequence to this climate
+18:35
+change many species are moving and nor
+18:37
+obviously the species many many species
+18:39
+especially in the ocean as in the ocean
+18:41
+are restricted by higher by lower
+18:43
+temperatures and highlighted to how the
+18:44
+planets warm up now these warm
+18:47
+temperatures start being found at high
+18:48
+latitudes and one of the consequences of
+18:50
+this is that many species now are
+18:52
+expanding the geographical distribution
+18:54
+so here's an example for instance on the
+18:56
+snake planning that depending on the
+18:58
+temperature that you get you normally
+19:01
+find in a higher latitude so every time
+19:03
+that the winter temperature becomes
+19:04
+hotter you can see the animal colonizing
+19:06
+much higher latitudes
+19:09
+there is a very clever paper published
+19:12
+by perry a supervisor of mine bodies
+19:14
+warm that in which they analyze again
+19:16
+the extent to which species are moving
+19:18
+at north and they compile data from many
+19:20
+scientific papers and what they found is
+19:22
+that on average the species that they
+19:24
+analyze have been moving in 172
+19:27
+kilometers adwords between 1997
+19:31
+1977 and 2001. we are talking about
+19:34
+20-so years in which because of the
+19:37
+warming that we are seeing in the oceans
+19:38
+the species have now shifted the
+19:40
+distributions by nearly 170 kilometers
+19:44
+north
+19:45
+and again in this case that's gonna have
+19:47
+consequences on how do we set the
+19:49
+boundaries of these regions
+19:53
+i also
+19:55
+wanted to point out that
+19:58
+not only the species as a result of
+20:00
+climate change are moving up north in
+20:02
+the oceans those species are also going
+20:04
+deeper now again because
+20:06
+unfortunately because of the amount of
+20:08
+energy that animals require when it gets
+20:10
+hotter they use a lot more energy and
+20:12
+animals in the oceans cannot afford to
+20:14
+to to waste energy nor do they have any
+20:16
+time to find it what it has been found
+20:18
+is that many species of fish are
+20:20
+actually
+20:21
+migrating lower
+20:23
+towards deeper parts of the oceans again
+20:26
+as a way to keep up with the
+20:28
+oceans getting warmer our shallower
+20:30
+temperatures just for you to know
+20:34
+regardless
+20:36
+so one of the again
+20:37
+this issue of climate change since the
+20:39
+distribution of species has been
+20:40
+documented a lot and this is a
+20:42
+cool paper but actually one of the first
+20:44
+papers published by sean william sean
+20:47
+that kind of look at again what will
+20:48
+happen to the oceans the diversity of
+20:50
+the oceans once once we start changing
+20:52
+the temperature and what he found
+20:54
+was that it's going to be a huge level
+20:57
+of species going a stain on some places
+20:59
+so the species colonizing new places and
+21:02
+as a consequence of this the assemblages
+21:04
+that we see today by assembling i mean
+21:06
+the composition of a species that we see
+21:08
+today is going to be very different in
+21:10
+the future as a result of climate change
+21:12
+and that
+21:13
+species turnover is described on this on
+21:15
+this map here as you can see from the
+21:17
+species to nowhere what he finds is that
+21:19
+the highest turnover of species is going
+21:21
+to be found towards higher latitudes
+21:23
+both both north and south
+21:26
+obviously what is
+21:28
+happening here is that now the species
+21:30
+from the tropics are having a good time
+21:33
+potentially moving up nor colonizing
+21:35
+these things there is interesting also
+21:37
+some reductions in similarity in the
+21:39
+tropics because in the tropics the
+21:41
+temperatures are going to get so hot for
+21:42
+some species that they're going to die
+21:44
+there so that again could explain also
+21:46
+some of these similarities that you're
+21:47
+going to see in the tropics but all
+21:49
+together it's believed that
+21:51
+local assemblages in the gross oceans
+21:53
+could be changed by up to 60 by 2050.
+21:56
+you might not think much of it right
+21:58
+okay we have these species there and
+21:59
+they're gonna change by 60 percent but
+22:01
+the economic consequences of that will
+22:03
+be brutal you can imagine for instance
+22:05
+entire communities having fishing fleets
+22:08
+completely adapted to fish certain fish
+22:10
+right and now the fish have just moved
+22:12
+somewhere else and another fish might
+22:14
+come but you can just not easily change
+22:15
+the fishing gear to fish the new thing
+22:18
+and unfortunately the fish is going into
+22:20
+another country so it's not like you can
+22:21
+just go to another country and fish so
+22:23
+this is a species turnover in the ocean
+22:26
+especially when it comes down to the
+22:28
+fisheries is gonna have incredible
+22:30
+consequences again because communities
+22:32
+are already adapted there are
+22:33
+geopolitical boundaries that you cannot
+22:35
+cross as the species do
+22:38
+there are also
+22:40
+changes on the distribution of species
+22:42
+because of humans and we have explained
+22:44
+this several times already in this class
+22:46
+but here is an example for instance of
+22:48
+some groups of species that have
+22:50
+modified the geographical distributions
+22:52
+quite dramatically mostly the carnivora
+22:54
+in the in south america this is a good
+22:55
+example by these two guys they're in
+22:57
+bioscience where you can see the
+22:58
+original distribution of the species
+23:00
+being everything that is in color here
+23:02
+and where they are found today the most
+23:04
+are those places in green so you can see
+23:07
+many of these species we almost wipe out
+23:09
+from where they are where used to be and
+23:10
+now they are restricted to only certain
+23:12
+amount of certain very small patches
+23:14
+along the original distribution and all
+23:17
+of that seems highly related to the
+23:19
+magnitude of the interaction of these
+23:21
+species with humans here i can see i i'm
+23:23
+showing you the the actual human
+23:25
+presence on the on north america from
+23:29
+black red being high human impact and
+23:32
+green being in law and what you can
+23:34
+capture from this is how on the places
+23:36
+where the humans impacts are the highest
+23:38
+are the places where the species is
+23:40
+almost completely eradicated which are
+23:41
+these places in purple here at the base
+23:44
+and the places where the animals remain
+23:46
+are places where humans have the lowest
+23:47
+impact so again humanity not only
+23:50
+through climate change but also through
+23:51
+the impact again through deforestation
+23:54
+and and killing and we're harvesting
+23:56
+these animals we're also changing the
+23:58
+distribution of these species as a
+23:59
+result what we define again as a region
+24:02
+will change as a consequence of us also
+24:04
+having a huge impact on those species
+24:07
+another driver that is changing and
+24:10
+modify the boundaries of these
+24:12
+geographical regions are the
+24:14
+introduction of new species so here is a
+24:16
+case example of the lionfish that was
+24:19
+introduced early on back in 1999 there
+24:22
+were only a couple of records found in
+24:24
+in florida you can see it right there
+24:26
+but look at what happened to this
+24:28
+species in just a few years by 2000 now
+24:30
+it was found a higher latitudes by 2003
+24:34
+was now found all along the atlantic
+24:36
+coast of the united states and by 2009
+24:39
+now it was found everywhere in the
+24:41
+caribbean isn't that mind-blowing man so
+24:43
+we're talking about here just 10 years
+24:46
+that's right
+24:47
+10 years time a species was released in
+24:51
+in the go in the florida keys and it now
+24:53
+managed to be everywhere in the
+24:55
+caribbean so now what happened here you
+24:57
+are adding a new species but
+24:59
+unfortunately this is species at times
+25:01
+it's also causing the extinction of
+25:02
+local species so again here we have
+25:04
+another human driven
+25:07
+factor that changes the composition of
+25:09
+assemblages that then potentially
+25:12
+modifies what we define as boundaries
+25:14
+for those biogeographical regions today
+25:17
+fortunately this issue of invasive
+25:20
+species is brutal here in this map and
+25:23
+showing you the the chipping lines the
+25:25
+pathways of chipping lines these big
+25:27
+boats that are moving goods and services
+25:29
+from place to place is highlighted there
+25:31
+on those lines so you can imagine the
+25:33
+potential for us to introduce this new
+25:36
+species into new ecosystems so that
+25:38
+again is could could be potentially or
+25:40
+it is already one of the major drivers
+25:43
+on changes in the assemblages of a
+25:45
+species by introducing new species and
+25:48
+unfortunately there are hundreds of
+25:49
+examples that you can point out of
+25:52
+species that have already been
+25:53
+introduced having massive consequences
+25:55
+for local ecosystems for good
+25:57
+for good bringing you species but for
+26:00
+bad for bad also driving species locally
+26:02
+to extinction
+26:04
+so
+26:06
+just to summarize the whole thing the
+26:07
+reality is that there is not really a
+26:09
+clear code way to define these
+26:10
+biogeographical regions as i just showed
+26:12
+you there but
+26:15
+as a result scientists have proposed a
+26:18
+diversity of
+26:24
+diversity of methods let's say
+26:27
+or results that are used to delineate
+26:30
+the biogeographical regions of the world
+26:32
+so here is an example this is the
+26:34
+outline suggested by
+26:36
+ut bardi and you can see how he defined
+26:39
+different biogeographical regions here
+26:41
+is another one by the wwf they went into
+26:44
+deeper analysis just to analyze and to
+26:46
+close their the planet on different
+26:48
+places
+26:50
+and this problem unfortunately is also
+26:54
+present even our smaller skills this is
+26:55
+a paper by a friend of mine well yeah
+26:58
+ross robertson from the smithsonian i
+26:59
+was used to to to work with him there at
+27:02
+the smithsonian in panama and this is a
+27:04
+paper that he published looking at the
+27:05
+distribution of fish in the eastern
+27:07
+pacific and one of the things that you
+27:09
+can see here is he put together
+27:12
+how the scientists define the
+27:14
+area in different regions so this is a
+27:16
+paper by egma this is the paper by
+27:18
+bricks bosque and spalding and one of
+27:20
+the things that he wanted to point that
+27:22
+point out there is how are the local
+27:24
+skills depending on the type of data and
+27:26
+analysis and taxes that you analyze you
+27:28
+might end up with completely different
+27:30
+boundaries for those regions and you
+27:32
+kind of try to make the case here with
+27:34
+this figure in his one paper there
+27:36
+and again showing how
+27:38
+and for even for the same region as
+27:41
+scientists have completely different
+27:43
+definitions for what a region
+27:46
+is especially the boundaries of that
+27:47
+region
+27:48
+so let me summarize the class for today
+27:51
+so basically again we're talking about
+27:53
+geographical region which is an attempt
+27:56
+by a scientist to delineate areas of the
+27:59
+world that are similar in the
+28:00
+composition of species not to be
+28:02
+confused again with biomes
+28:04
+and these
+28:06
+biogeographical regions are difficult to
+28:08
+define
+28:09
+because of the issue of a scale what
+28:10
+scale you define the regions
+28:12
+the taxonomic rank whether you are using
+28:15
+species data or general data
+28:18
+the taxonomic group right are you using
+28:20
+birds insects mammals
+28:23
+or the fact that it's very likely that
+28:26
+these
+28:27
+regions that we outline today are going
+28:28
+to be changing over time as i explain
+28:31
+a couple examples their climate change
+28:33
+and direct human impacts
+28:34
+and as a result then it's no surprise
+28:37
+that whatever we described today as
+28:39
+about geographical region is something
+28:40
+that is very viable
+28:43
+and again it can be viable because of
+28:44
+the climate direct human exploitation or
+28:48
+at times the impatience and that's just
+28:49
+a summary of again how do we describe
+28:53
+these biogeographical regions the
+28:55
+challenges that we encounter every time
+28:57
+that we wanna define them and then
+28:59
+why there is not really a surprise when
+29:01
+different scientists propose in
+29:03
+different regions for different places
+29:05
+>>>>>>> 13f4ffe9d2e9a16535f71e86959748a90295fbdb
+in the world as well

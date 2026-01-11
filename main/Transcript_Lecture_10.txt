@@ -1,0 +1,1716 @@
+<<<<<<< HEAD
+
+Introduction
+0:05
+right so today we're going to be looking
+0:08
+at the patterns in body size so let's
+0:10
+see how did we get here so we
+0:12
+established that a
+0:14
+five five 4.55
+0:16
+six billion years ago life came to be it
+0:18
+took about a hundred million years for
+0:21
+the moon to come out a billion years
+0:24
+in a standby which nothing was happening
+0:26
+other than maybe what is called the
+0:28
+protocol that is like a plastic bag that
+0:30
+contains molecules that then alive allow
+0:33
+the first forms of life to come out
+0:35
+about 3.5 3.6 billion years ago what is
+0:37
+called the prokaryotes that leads to the
+0:40
+eukaryotes and next thing you know you
+0:41
+had a
+0:43
+8.7 million species that we share the
+0:45
+planet with the species orientate they
+0:48
+disperse occupy what is called the
+0:49
+geographical range as the species
+0:52
+overlap their ranges they create
+0:54
+patterns in species richness and when
+0:56
+they start interacting with the local
+0:58
+environments and with other species then
+1:00
+they start changing their body size as
+1:03
+we established in the last class today
+1:05
+we're going to be looking at some of the
+1:07
+patterns in body size again how
+1:09
+the
+1:10
+the parents in the distribution of body
+1:12
+size in space and time let's let's just
+1:14
+get started again let's just review very
+Review
+1:16
+quickly
+1:18
+how a species get to be the size that it
+1:20
+does we establish that is basically the
+1:22
+trade-off between the cost and the
+1:23
+benefit of the body size in the face of
+1:26
+several ecological and evolutionary in
+1:30
+forces
+1:31
+we established that some of those
+1:33
+factors eco ecological and evolutionary
+1:36
+factors that shape the body size of a
+1:39
+species are resources the ecological
+1:41
+interactions among species like
+1:43
+predation and competition climate and
+1:45
+human activities like hunting and
+1:47
+fishing as well
+1:49
+so obviously you can imagine there is a
+1:51
+huge variability on these driving forces
+1:54
+in a space and then there will be no
+1:56
+surprise that you are going to have a
+1:58
+huge diversity on the patterns in body
+2:00
+size which are the ones that are going
+2:02
+to be looking at today
+2:04
+so the first thing that you need to
+2:06
+understand given this huge diversity of
+2:09
+ecological forces affecting species
+2:11
+differently is that there is not going
+2:12
+to be a unique
+2:14
+way in which
+2:16
+biles influence the body size of a
+2:18
+species and here is an example for
+2:21
+instance of a paper by those guys there
+2:23
+and when they look in which they look at
+2:25
+the species richness of a
+2:28
+lizards and snakes which are both red
+2:31
+tails and you can see that they are very
+2:32
+similar in the pattern there is a high
+2:34
+diversity here and and a huge diversity
+2:37
+here and the diversity decreases as you
+2:40
+increase latitude so the pioneering
+2:42
+species relations is very similar but
+2:43
+when you look at their body sizes of
+2:45
+these two taxonomy groups you find that
+2:47
+they are actually very contrasting
+2:49
+patterns and again there's one evidence
+2:51
+that to suggest that right there that
+2:53
+there is not going to be a single
+2:54
+mechanism that can explain variations in
+2:57
+body size so most likely it's going to
+2:59
+be something that is
+3:00
+specific what makes these patterns on
+3:03
+body size
+3:04
+similar or different among species in
+3:06
+space
+bermans rule
+3:08
+let's start looking at the patterns
+3:09
+though one of the first patterns that
+3:12
+you find about body size in space is
+3:14
+what is called the beckman's rule the
+3:16
+berman's rule suggests that the body
+3:18
+size increases
+3:20
+in colder temperatures the consequence
+3:22
+of this rule here that you have to be
+3:25
+big every time that is cold is that you
+3:27
+find normally species at higher
+3:29
+latitudes having bigger body size but
+3:31
+why
+3:32
+the explanation for this is basically
+3:34
+this what happens is that
+3:37
+when you look at the
+3:39
+the body size of a species against the
+3:41
+temperature of these places normally
+3:43
+what happens is you find that they climb
+3:46
+again in body size as you increase
+3:49
+temperature and the explanation for this
+3:51
+is basically the ratio between area and
+3:54
+mass so here's an example for instance
+3:56
+of an also a species that should be
+3:58
+large it has a mass of 8 basically
+4:00
+multiplication of this axis let's
+4:02
+imagine that this is the body size of a
+4:04
+unit species so you can see that the
+4:06
+area will be 24 the mass 8 so the area
+4:08
+to mass ratio will be 3.
+4:10
+in this case you will have a smaller
+4:12
+species a mass of one and ariel six and
+4:14
+you can see that in this case this
+4:16
+individual smaller this individual that
+4:18
+is smaller has a larger
+4:20
+area to mass ratio
+4:23
+let me just simplify this how how does
+4:25
+this have to do anything with
+4:27
+temperature though so the best example
+4:28
+that i can find that most people can
+4:30
+relate to imagine that you had a big
+4:32
+potato and you want to cook it so you
+4:34
+put the potato on on hot water you will
+4:37
+realize and you leave it there for a
+4:38
+while
+4:39
+and you take it out you could you find
+4:41
+that at times the core of the potato is
+4:43
+not cooked well right that's because
+4:45
+it's big
+4:46
+the area to mass ratio is a small so
+4:49
+basically there is a hard time for
+4:51
+energy to get to the core so if you cut
+4:53
+a potato in half what you do
+4:55
+automatically you have the same mass but
+4:57
+now you increase the area of exposure of
+5:00
+that potato as a result normally you
+5:02
+cook potatoes faster that are smaller
+5:04
+and again the consequence of that is
+5:06
+because there is more area exposed to
+5:07
+the elements that allows them to that
+5:10
+energy to get faster to the core of the
+5:12
+potato here is kind of the same thing
+5:14
+but in reverse in the sense that a
+5:16
+species
+5:17
+needs to maintain energy energy is
+5:19
+something that you don't want to be
+5:21
+wasting so if you are big what happens
+5:23
+is that the energy that is inside your
+5:25
+core is going to have a hard time
+5:26
+escaping to the environment so
+5:28
+places that are cold but you really need
+5:30
+to preserve energy the evolutionary
+5:32
+strategy is for you to get big so that
+5:35
+you can accumulate or maintain that heat
+5:38
+better so you were to have any species a
+5:40
+small a higher latitudes obviously on
+5:43
+those cases those energy species will be
+5:45
+selected against because they will be
+5:47
+losing energy heat so fast that there
+5:49
+will be not enough energy on the places
+5:51
+to sustain
+5:53
+such as mild bodies bodhisattva and
+5:54
+obviously resources being a small
+5:56
+maintenance situation even worse for a
+5:58
+species that are small
+6:01
+so again that's what is called bear
+6:02
+man's rule basically the general pattern
+6:04
+is that you find an increase in body
+6:06
+size with temperatures getting colder
+6:08
+and the likely explanation for that
+6:10
+pattern is the area to mass ratio
+6:13
+although related to the area that you
+6:15
+have exposed to the elements kind of
+6:18
+allow you in relationship to the mass
+6:19
+allows you to dissipate or maintain heat
+6:23
+better
+Allens rule
+6:26
+now another pattern that you will find
+6:29
+in body size is what is called allen's
+6:32
+rule basically what happens in the
+6:34
+allen's room is that the limbs and
+6:36
+appendages get shorter or more compact
+6:39
+in individuals living in colder
+6:40
+temperatures right so you look at the
+6:42
+legs the ears actually other attributes
+6:46
+of the species normally what you see on
+6:48
+those appendages of a species is that
+6:50
+they try to shrink or become smaller at
+6:52
+higher latitudes the reason for that
+6:55
+again is exactly the same explanation
+6:57
+that we have for magnus rule that is
+6:59
+probably related to the need for you to
+7:01
+maintain energy so here is an example
+7:04
+for instance let's imagine that those
+7:05
+are two appendages they have the same
+7:07
+mass
+7:08
+right but here the area i compacted this
+7:11
+one more right so the area is larger
+7:14
+in this one i increase the area by
+7:17
+changing the position of the same cubes
+7:19
+so now the area is 28 and you can see
+7:22
+how there is a change in in
+7:24
+the area to mass ratio and obviously in
+7:27
+this case you want to be optimizing
+7:30
+making this smaller so that you have
+7:32
+less area as opposed to the elements so
+7:34
+that you can maintain and that could
+7:35
+explain why then
+7:36
+the the species try to reduce their
+7:39
+appendages and again it's just a way to
+7:41
+reduce the area that is exposed to the
+7:43
+elements as a way for them to maintain
+7:45
+energy one of the likely explanations
+7:48
+for allen's rule again this
+7:50
+attribute of most species having a
+7:52
+smaller appendages when it gets colder
+7:58
+oh i actually actually i should point
+8:00
+out as well that in
+8:02
+hot temperatures like for instance in a
+8:06
+in the tropics
+8:08
+you actually get the opposite effect
+8:10
+which is appendages becoming larger or
+8:13
+more in having larger area and again
+8:16
+because on those cases what you want to
+8:17
+do is to dissipate that heat in this
+8:20
+case as opposed to higher latitudes
+8:21
+where you want to preserve heat in
+8:23
+colder environments you actually want to
+8:25
+dissipate the heat as well
+Kobs rule
+8:28
+another pattern that you will find in
+8:30
+bodhisatt is what is called code rule
+8:32
+and basically what it suggests is that
+8:35
+lineages these lineages that we're
+8:37
+talking about earlier of these
+8:39
+philogenetic branches of evolution what
+8:41
+happens on those lineages is that the
+8:43
+species tend to get bigger in body size
+8:46
+over those lineages over evolutionary
+8:48
+time so here is an example of all the
+8:50
+horse different
+8:52
+genuses of the horse and you can see
+8:54
+time and you can see how the earlier
+8:56
+genus of that species was smelling body
+8:59
+size but or as time
+9:01
+comes by those in species became larger
+9:04
+that's what is called kob's rule and
+9:06
+again is basically over evolutionary
+9:08
+time species tend to become larger
+9:12
+and there seems to be
+9:14
+different reasons for why that's the
+9:16
+case there is this paper by hon and bent
+9:18
+on entrance and ecology revolution in
+9:20
+2005 that so you guessed that obviously
+9:23
+you are big you're not going to get
+9:24
+eaten as easy but there are also
+9:27
+benefits to mating success and fecundity
+9:30
+in addition of course as to as what i
+9:32
+just mentioned about them having a
+9:33
+higher chance of survival there they
+9:36
+seem to be evolutionary benefits for a
+9:38
+species to get bigger over evolutionary
+9:41
+time
+Island rule
+9:43
+another pattern that you will find in
+9:46
+body size is what is called the island
+9:48
+rule the ida rule is very interesting
+9:50
+and basically what suggests is that
+9:52
+species that get two islands being big
+9:55
+will become small and species that get
+9:57
+to islands being a small will become big
+10:00
+so here is an example for instance do
+10:02
+they have the name of what it is i guess
+10:04
+not but this is a a generalized example
+10:07
+of a species that
+10:10
+have been found on islands are also on
+10:12
+the continents and here what you see is
+10:14
+the ratio of the difference in body size
+10:16
+between the species on those islands and
+10:18
+the species on the continent and what
+10:20
+you find
+10:21
+again is that species that are large on
+10:25
+on the land become bigger on the island
+10:29
+the same species we are talking about
+10:30
+the same species or similar species on
+10:33
+the continent becoming larger on the
+10:35
+islands and species that are larger on
+10:38
+the continent becoming smaller on the
+10:40
+islands the reason for that
+10:43
+well the pattern itself again is that a
+10:45
+species that are large small
+10:47
+will become large
+10:49
+and species that are large will become
+10:51
+smaller all right because the reason for
+10:54
+that again is that maybe
+10:56
+here you had an ecological
+10:58
+release and
+11:01
+over here you have something that is
+11:02
+called resource limitation again when
+11:05
+you get to an island being big
+11:07
+you obviously have a demand for a lot of
+11:08
+energy you are not going to have that
+11:10
+energy
+11:12
+there so you are going to reduce your
+11:13
+body size just like in the case of the
+11:15
+mammoth that was found on granges island
+11:18
+right the species that got there were to
+11:20
+be too big resources were not sufficient
+11:21
+then the spot the species became smaller
+11:24
+in other cases when the species get to
+11:26
+islands being a small obviously there is
+11:28
+a lot of resources the species are going
+11:30
+to optimize their body size those
+11:32
+resources are valuable but then
+11:33
+increasing the body size they have they
+11:35
+have more benefits for the cost as a
+11:37
+result they will increase their voice
+11:39
+size and again
+11:40
+this is something that happens when you
+11:41
+get species that live on the continent
+11:44
+moving to islands and what you find
+11:46
+again is that there is a change in body
+11:48
+size depending on whether species were
+11:49
+large or small to begin with
+Importance of body size
+11:55
+now
+11:57
+as we did with species richness there
+11:59
+was a when i finished that chapter i
+12:01
+explained to you why is it that it's
+12:02
+important for us to study
+12:04
+species richness we're going to be doing
+12:06
+the same thing here to understand why is
+12:08
+it for us important for us to understand
+12:10
+body size we already established
+12:12
+in this lecture that one of the
+12:13
+consequences of you becoming smaller is
+12:15
+that you produce also fewer offspring
+12:17
+with less capacity to survive so that a
+12:19
+lot is a negative consequence of the
+12:21
+species becoming smaller
+12:23
+however it has been found though that
+12:26
+normally what you find is that the
+12:28
+species that are there is a higher risk
+12:30
+of extinction on a species that are
+12:32
+large so anytime that we start killing
+12:34
+the animals that are large that seems to
+12:36
+accelerate the risk of extinction as you
+12:38
+can see here on this paper by ferrero
+12:41
+which is obviously not that good given
+12:42
+the fact that most of the evidence
+12:44
+suggests that humans like to kill the
+12:45
+bigger fish
+12:47
+the other thing that you can see again
+12:50
+is in the race of extinction and what
+12:52
+you find though is that most of the
+12:55
+species that are large seem to be the
+12:57
+ones that are a large race of extinction
+12:59
+and and you can see that in the
+13:01
+evolutionary record for instance this is
+13:03
+a paper by deerson in a science in 2024
+13:06
+in which they look at the body sizes of
+13:07
+species that have been driven to
+13:08
+extinction by humans and
+13:11
+our resident history and what you find
+13:13
+though is the fact that over time we
+13:16
+seem to be left with the species that
+13:18
+are smaller so here you can see the body
+13:20
+size and the number of species in
+13:22
+different time periods of time and you
+13:25
+can see how over time one of the
+13:27
+consequences of humans is that we are
+13:29
+being left with smaller with the subset
+13:31
+of species that have a smaller body size
+13:36
+now another interesting piece of aliens
+13:39
+who highlight the significance of
+13:40
+species changing their body size is that
+13:42
+it has been found that before the
+13:44
+species one of the consequences one of
+13:46
+the attributes that change a lot when a
+13:48
+speech is going a scene or one of those
+13:50
+signals or signs that the species are in
+13:52
+trouble
+13:53
+in the way to extinction is that they
+13:55
+start reducing their body size and this
+13:57
+is a paper in nature by this guy here
+13:59
+that shows for instance a species of
+14:00
+horse that went stain and one of the
+14:02
+things that you can observe on on these
+14:04
+species before it went esteem is that
+14:06
+their body size they climb so again a
+14:09
+very worrisome sign given the fact of
+14:11
+what we see with the frogs for instance
+14:13
+facing climate change and many other
+14:14
+species reducing their body size or fish
+14:17
+in reducing the body size of a species
+Summary
+14:21
+let's summarize the entire class so we
+14:23
+found that body size is determined by
+14:25
+the resources the interactions
+14:28
+ecological interactions like predation
+14:29
+and competition climate and human
+14:31
+treatment evolution like hunting and
+14:33
+fishing and as for the patterns we found
+14:36
+burman's rule which is again the
+14:37
+increasing body size with latitude at
+14:39
+times also the increasing body size with
+14:41
+decreases in temperature the allen's
+14:44
+rule which is basically that the limbs
+14:46
+or other appendages of many species tend
+14:48
+to become smaller and more compacted
+14:50
+most likely as a result as a way to
+14:52
+protect the the heat that they had
+14:55
+there is also the cob's rule which is
+14:57
+basically body size increasing over
+14:59
+evolutionary time and the island rule
+15:02
+which is that species from the
+15:04
+continents that get to islands being big
+15:06
+will become small and species that get
+15:09
+to islands being a small will become
+15:11
+large and that kind of summarizes the
+15:14
+dissection about body size on the
+15:16
+patterns and processes thank you very
+15:18
+much and see you guys in the next
+15:19
+=======
+
+Introduction
+0:05
+right so today we're going to be looking
+0:08
+at the patterns in body size so let's
+0:10
+see how did we get here so we
+0:12
+established that a
+0:14
+five five 4.55
+0:16
+six billion years ago life came to be it
+0:18
+took about a hundred million years for
+0:21
+the moon to come out a billion years
+0:24
+in a standby which nothing was happening
+0:26
+other than maybe what is called the
+0:28
+protocol that is like a plastic bag that
+0:30
+contains molecules that then alive allow
+0:33
+the first forms of life to come out
+0:35
+about 3.5 3.6 billion years ago what is
+0:37
+called the prokaryotes that leads to the
+0:40
+eukaryotes and next thing you know you
+0:41
+had a
+0:43
+8.7 million species that we share the
+0:45
+planet with the species orientate they
+0:48
+disperse occupy what is called the
+0:49
+geographical range as the species
+0:52
+overlap their ranges they create
+0:54
+patterns in species richness and when
+0:56
+they start interacting with the local
+0:58
+environments and with other species then
+1:00
+they start changing their body size as
+1:03
+we established in the last class today
+1:05
+we're going to be looking at some of the
+1:07
+patterns in body size again how
+1:09
+the
+1:10
+the parents in the distribution of body
+1:12
+size in space and time let's let's just
+1:14
+get started again let's just review very
+Review
+1:16
+quickly
+1:18
+how a species get to be the size that it
+1:20
+does we establish that is basically the
+1:22
+trade-off between the cost and the
+1:23
+benefit of the body size in the face of
+1:26
+several ecological and evolutionary in
+1:30
+forces
+1:31
+we established that some of those
+1:33
+factors eco ecological and evolutionary
+1:36
+factors that shape the body size of a
+1:39
+species are resources the ecological
+1:41
+interactions among species like
+1:43
+predation and competition climate and
+1:45
+human activities like hunting and
+1:47
+fishing as well
+1:49
+so obviously you can imagine there is a
+1:51
+huge variability on these driving forces
+1:54
+in a space and then there will be no
+1:56
+surprise that you are going to have a
+1:58
+huge diversity on the patterns in body
+2:00
+size which are the ones that are going
+2:02
+to be looking at today
+2:04
+so the first thing that you need to
+2:06
+understand given this huge diversity of
+2:09
+ecological forces affecting species
+2:11
+differently is that there is not going
+2:12
+to be a unique
+2:14
+way in which
+2:16
+biles influence the body size of a
+2:18
+species and here is an example for
+2:21
+instance of a paper by those guys there
+2:23
+and when they look in which they look at
+2:25
+the species richness of a
+2:28
+lizards and snakes which are both red
+2:31
+tails and you can see that they are very
+2:32
+similar in the pattern there is a high
+2:34
+diversity here and and a huge diversity
+2:37
+here and the diversity decreases as you
+2:40
+increase latitude so the pioneering
+2:42
+species relations is very similar but
+2:43
+when you look at their body sizes of
+2:45
+these two taxonomy groups you find that
+2:47
+they are actually very contrasting
+2:49
+patterns and again there's one evidence
+2:51
+that to suggest that right there that
+2:53
+there is not going to be a single
+2:54
+mechanism that can explain variations in
+2:57
+body size so most likely it's going to
+2:59
+be something that is
+3:00
+specific what makes these patterns on
+3:03
+body size
+3:04
+similar or different among species in
+3:06
+space
+bermans rule
+3:08
+let's start looking at the patterns
+3:09
+though one of the first patterns that
+3:12
+you find about body size in space is
+3:14
+what is called the beckman's rule the
+3:16
+berman's rule suggests that the body
+3:18
+size increases
+3:20
+in colder temperatures the consequence
+3:22
+of this rule here that you have to be
+3:25
+big every time that is cold is that you
+3:27
+find normally species at higher
+3:29
+latitudes having bigger body size but
+3:31
+why
+3:32
+the explanation for this is basically
+3:34
+this what happens is that
+3:37
+when you look at the
+3:39
+the body size of a species against the
+3:41
+temperature of these places normally
+3:43
+what happens is you find that they climb
+3:46
+again in body size as you increase
+3:49
+temperature and the explanation for this
+3:51
+is basically the ratio between area and
+3:54
+mass so here's an example for instance
+3:56
+of an also a species that should be
+3:58
+large it has a mass of 8 basically
+4:00
+multiplication of this axis let's
+4:02
+imagine that this is the body size of a
+4:04
+unit species so you can see that the
+4:06
+area will be 24 the mass 8 so the area
+4:08
+to mass ratio will be 3.
+4:10
+in this case you will have a smaller
+4:12
+species a mass of one and ariel six and
+4:14
+you can see that in this case this
+4:16
+individual smaller this individual that
+4:18
+is smaller has a larger
+4:20
+area to mass ratio
+4:23
+let me just simplify this how how does
+4:25
+this have to do anything with
+4:27
+temperature though so the best example
+4:28
+that i can find that most people can
+4:30
+relate to imagine that you had a big
+4:32
+potato and you want to cook it so you
+4:34
+put the potato on on hot water you will
+4:37
+realize and you leave it there for a
+4:38
+while
+4:39
+and you take it out you could you find
+4:41
+that at times the core of the potato is
+4:43
+not cooked well right that's because
+4:45
+it's big
+4:46
+the area to mass ratio is a small so
+4:49
+basically there is a hard time for
+4:51
+energy to get to the core so if you cut
+4:53
+a potato in half what you do
+4:55
+automatically you have the same mass but
+4:57
+now you increase the area of exposure of
+5:00
+that potato as a result normally you
+5:02
+cook potatoes faster that are smaller
+5:04
+and again the consequence of that is
+5:06
+because there is more area exposed to
+5:07
+the elements that allows them to that
+5:10
+energy to get faster to the core of the
+5:12
+potato here is kind of the same thing
+5:14
+but in reverse in the sense that a
+5:16
+species
+5:17
+needs to maintain energy energy is
+5:19
+something that you don't want to be
+5:21
+wasting so if you are big what happens
+5:23
+is that the energy that is inside your
+5:25
+core is going to have a hard time
+5:26
+escaping to the environment so
+5:28
+places that are cold but you really need
+5:30
+to preserve energy the evolutionary
+5:32
+strategy is for you to get big so that
+5:35
+you can accumulate or maintain that heat
+5:38
+better so you were to have any species a
+5:40
+small a higher latitudes obviously on
+5:43
+those cases those energy species will be
+5:45
+selected against because they will be
+5:47
+losing energy heat so fast that there
+5:49
+will be not enough energy on the places
+5:51
+to sustain
+5:53
+such as mild bodies bodhisattva and
+5:54
+obviously resources being a small
+5:56
+maintenance situation even worse for a
+5:58
+species that are small
+6:01
+so again that's what is called bear
+6:02
+man's rule basically the general pattern
+6:04
+is that you find an increase in body
+6:06
+size with temperatures getting colder
+6:08
+and the likely explanation for that
+6:10
+pattern is the area to mass ratio
+6:13
+although related to the area that you
+6:15
+have exposed to the elements kind of
+6:18
+allow you in relationship to the mass
+6:19
+allows you to dissipate or maintain heat
+6:23
+better
+Allens rule
+6:26
+now another pattern that you will find
+6:29
+in body size is what is called allen's
+6:32
+rule basically what happens in the
+6:34
+allen's room is that the limbs and
+6:36
+appendages get shorter or more compact
+6:39
+in individuals living in colder
+6:40
+temperatures right so you look at the
+6:42
+legs the ears actually other attributes
+6:46
+of the species normally what you see on
+6:48
+those appendages of a species is that
+6:50
+they try to shrink or become smaller at
+6:52
+higher latitudes the reason for that
+6:55
+again is exactly the same explanation
+6:57
+that we have for magnus rule that is
+6:59
+probably related to the need for you to
+7:01
+maintain energy so here is an example
+7:04
+for instance let's imagine that those
+7:05
+are two appendages they have the same
+7:07
+mass
+7:08
+right but here the area i compacted this
+7:11
+one more right so the area is larger
+7:14
+in this one i increase the area by
+7:17
+changing the position of the same cubes
+7:19
+so now the area is 28 and you can see
+7:22
+how there is a change in in
+7:24
+the area to mass ratio and obviously in
+7:27
+this case you want to be optimizing
+7:30
+making this smaller so that you have
+7:32
+less area as opposed to the elements so
+7:34
+that you can maintain and that could
+7:35
+explain why then
+7:36
+the the species try to reduce their
+7:39
+appendages and again it's just a way to
+7:41
+reduce the area that is exposed to the
+7:43
+elements as a way for them to maintain
+7:45
+energy one of the likely explanations
+7:48
+for allen's rule again this
+7:50
+attribute of most species having a
+7:52
+smaller appendages when it gets colder
+7:58
+oh i actually actually i should point
+8:00
+out as well that in
+8:02
+hot temperatures like for instance in a
+8:06
+in the tropics
+8:08
+you actually get the opposite effect
+8:10
+which is appendages becoming larger or
+8:13
+more in having larger area and again
+8:16
+because on those cases what you want to
+8:17
+do is to dissipate that heat in this
+8:20
+case as opposed to higher latitudes
+8:21
+where you want to preserve heat in
+8:23
+colder environments you actually want to
+8:25
+dissipate the heat as well
+Kobs rule
+8:28
+another pattern that you will find in
+8:30
+bodhisatt is what is called code rule
+8:32
+and basically what it suggests is that
+8:35
+lineages these lineages that we're
+8:37
+talking about earlier of these
+8:39
+philogenetic branches of evolution what
+8:41
+happens on those lineages is that the
+8:43
+species tend to get bigger in body size
+8:46
+over those lineages over evolutionary
+8:48
+time so here is an example of all the
+8:50
+horse different
+8:52
+genuses of the horse and you can see
+8:54
+time and you can see how the earlier
+8:56
+genus of that species was smelling body
+8:59
+size but or as time
+9:01
+comes by those in species became larger
+9:04
+that's what is called kob's rule and
+9:06
+again is basically over evolutionary
+9:08
+time species tend to become larger
+9:12
+and there seems to be
+9:14
+different reasons for why that's the
+9:16
+case there is this paper by hon and bent
+9:18
+on entrance and ecology revolution in
+9:20
+2005 that so you guessed that obviously
+9:23
+you are big you're not going to get
+9:24
+eaten as easy but there are also
+9:27
+benefits to mating success and fecundity
+9:30
+in addition of course as to as what i
+9:32
+just mentioned about them having a
+9:33
+higher chance of survival there they
+9:36
+seem to be evolutionary benefits for a
+9:38
+species to get bigger over evolutionary
+9:41
+time
+Island rule
+9:43
+another pattern that you will find in
+9:46
+body size is what is called the island
+9:48
+rule the ida rule is very interesting
+9:50
+and basically what suggests is that
+9:52
+species that get two islands being big
+9:55
+will become small and species that get
+9:57
+to islands being a small will become big
+10:00
+so here is an example for instance do
+10:02
+they have the name of what it is i guess
+10:04
+not but this is a a generalized example
+10:07
+of a species that
+10:10
+have been found on islands are also on
+10:12
+the continents and here what you see is
+10:14
+the ratio of the difference in body size
+10:16
+between the species on those islands and
+10:18
+the species on the continent and what
+10:20
+you find
+10:21
+again is that species that are large on
+10:25
+on the land become bigger on the island
+10:29
+the same species we are talking about
+10:30
+the same species or similar species on
+10:33
+the continent becoming larger on the
+10:35
+islands and species that are larger on
+10:38
+the continent becoming smaller on the
+10:40
+islands the reason for that
+10:43
+well the pattern itself again is that a
+10:45
+species that are large small
+10:47
+will become large
+10:49
+and species that are large will become
+10:51
+smaller all right because the reason for
+10:54
+that again is that maybe
+10:56
+here you had an ecological
+10:58
+release and
+11:01
+over here you have something that is
+11:02
+called resource limitation again when
+11:05
+you get to an island being big
+11:07
+you obviously have a demand for a lot of
+11:08
+energy you are not going to have that
+11:10
+energy
+11:12
+there so you are going to reduce your
+11:13
+body size just like in the case of the
+11:15
+mammoth that was found on granges island
+11:18
+right the species that got there were to
+11:20
+be too big resources were not sufficient
+11:21
+then the spot the species became smaller
+11:24
+in other cases when the species get to
+11:26
+islands being a small obviously there is
+11:28
+a lot of resources the species are going
+11:30
+to optimize their body size those
+11:32
+resources are valuable but then
+11:33
+increasing the body size they have they
+11:35
+have more benefits for the cost as a
+11:37
+result they will increase their voice
+11:39
+size and again
+11:40
+this is something that happens when you
+11:41
+get species that live on the continent
+11:44
+moving to islands and what you find
+11:46
+again is that there is a change in body
+11:48
+size depending on whether species were
+11:49
+large or small to begin with
+Importance of body size
+11:55
+now
+11:57
+as we did with species richness there
+11:59
+was a when i finished that chapter i
+12:01
+explained to you why is it that it's
+12:02
+important for us to study
+12:04
+species richness we're going to be doing
+12:06
+the same thing here to understand why is
+12:08
+it for us important for us to understand
+12:10
+body size we already established
+12:12
+in this lecture that one of the
+12:13
+consequences of you becoming smaller is
+12:15
+that you produce also fewer offspring
+12:17
+with less capacity to survive so that a
+12:19
+lot is a negative consequence of the
+12:21
+species becoming smaller
+12:23
+however it has been found though that
+12:26
+normally what you find is that the
+12:28
+species that are there is a higher risk
+12:30
+of extinction on a species that are
+12:32
+large so anytime that we start killing
+12:34
+the animals that are large that seems to
+12:36
+accelerate the risk of extinction as you
+12:38
+can see here on this paper by ferrero
+12:41
+which is obviously not that good given
+12:42
+the fact that most of the evidence
+12:44
+suggests that humans like to kill the
+12:45
+bigger fish
+12:47
+the other thing that you can see again
+12:50
+is in the race of extinction and what
+12:52
+you find though is that most of the
+12:55
+species that are large seem to be the
+12:57
+ones that are a large race of extinction
+12:59
+and and you can see that in the
+13:01
+evolutionary record for instance this is
+13:03
+a paper by deerson in a science in 2024
+13:06
+in which they look at the body sizes of
+13:07
+species that have been driven to
+13:08
+extinction by humans and
+13:11
+our resident history and what you find
+13:13
+though is the fact that over time we
+13:16
+seem to be left with the species that
+13:18
+are smaller so here you can see the body
+13:20
+size and the number of species in
+13:22
+different time periods of time and you
+13:25
+can see how over time one of the
+13:27
+consequences of humans is that we are
+13:29
+being left with smaller with the subset
+13:31
+of species that have a smaller body size
+13:36
+now another interesting piece of aliens
+13:39
+who highlight the significance of
+13:40
+species changing their body size is that
+13:42
+it has been found that before the
+13:44
+species one of the consequences one of
+13:46
+the attributes that change a lot when a
+13:48
+speech is going a scene or one of those
+13:50
+signals or signs that the species are in
+13:52
+trouble
+13:53
+in the way to extinction is that they
+13:55
+start reducing their body size and this
+13:57
+is a paper in nature by this guy here
+13:59
+that shows for instance a species of
+14:00
+horse that went stain and one of the
+14:02
+things that you can observe on on these
+14:04
+species before it went esteem is that
+14:06
+their body size they climb so again a
+14:09
+very worrisome sign given the fact of
+14:11
+what we see with the frogs for instance
+14:13
+facing climate change and many other
+14:14
+species reducing their body size or fish
+14:17
+in reducing the body size of a species
+Summary
+14:21
+let's summarize the entire class so we
+14:23
+found that body size is determined by
+14:25
+the resources the interactions
+14:28
+ecological interactions like predation
+14:29
+and competition climate and human
+14:31
+treatment evolution like hunting and
+14:33
+fishing and as for the patterns we found
+14:36
+burman's rule which is again the
+14:37
+increasing body size with latitude at
+14:39
+times also the increasing body size with
+14:41
+decreases in temperature the allen's
+14:44
+rule which is basically that the limbs
+14:46
+or other appendages of many species tend
+14:48
+to become smaller and more compacted
+14:50
+most likely as a result as a way to
+14:52
+protect the the heat that they had
+14:55
+there is also the cob's rule which is
+14:57
+basically body size increasing over
+14:59
+evolutionary time and the island rule
+15:02
+which is that species from the
+15:04
+continents that get to islands being big
+15:06
+will become small and species that get
+15:09
+to islands being a small will become
+15:11
+large and that kind of summarizes the
+15:14
+dissection about body size on the
+15:16
+patterns and processes thank you very
+15:18
+much and see you guys in the next
+15:19
+>>>>>>> 13f4ffe9d2e9a16535f71e86959748a90295fbdb
+episode

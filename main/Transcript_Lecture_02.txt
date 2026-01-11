@@ -1,0 +1,1704 @@
+<<<<<<< HEAD
+
+Intro
+0:11
+so today we're going to be looking at a speciation and extinction basically how
+0:16
+species are born and how the species die so at the most basic level we have this
+0:23
+question why species are where they are so there are two possibilities here one is that the species is present you can
+0:29
+see a species right there the other possibility is that the species is not there so how do you explain a species being present in a
+0:36
+given place actually it's pretty simple there are at least two basic potential explanations to explain why a species is
+0:43
+in a given place one is a speciation the species is there because the species was originated there
+0:48
+or the species got there from somewhere else basically the species originated in another place via migration and
+0:54
+dispersal it managed to be on a given place that's how you explain at the most basic level why a species is present
+1:00
+now the only possibility is that the species is not there how do you explain that well one
+1:06
+possibility is that the species was never there to begin with basically there have been some limitations to the
+1:11
+dispersal of species that prevent species of getting places and that might help you explain why species are not in
+1:16
+certain places now the other possibility that you had here is that the species was there but it went extinct
+1:23
+so you see in biogeography we one of the main things that we had is trying to explain why species are where they are
+1:29
+at the most basic level you had you had to explain why a species is there or why the species is not there and when you
+1:35
+link that when you look at the set of possibilities this iteration that is a combination of either a speciation
+1:41
+species originating in a certain place extinction the species just disappearing
+1:46
+or dispersal that helps you explain where species is present or not in a given place
+1:53
+now let's start looking the different components that we just spoke about let's look at a speciation and basically
+1:58
+is the origin of a new species what we are talking about here is that you start from one species and somehow you ended
+2:04
+up having two species how that mechanism happens well scientists have come up with three
+2:11
+different processes in which you go from having one species to having two species okay
+2:18
+so let's look at the first mechanism it's called allopathic speciation in allopatric speciation you have a
+2:24
+original population which is a group of individuals of the same species currently a barrier comes along and
+2:31
+separates that population in two you can think about barriers like for instance you had a valley and then you get a
+2:38
+mountain in between the two of them now the populations get separated you can also think about rivers for instance for
+2:43
+certain species rivers turn into barriers that separate populations on both sides and over time
+2:50
+these populations are separated above trying to adapt to the different environments such that later on if those
+2:56
+two species come together they might not be able to reproduce and that then results in you having two species so
+3:03
+basically what we are talking about here is allopatric speciation which is the emergence of a barrier that separates
+3:09
+populations that over time leads to a species that cannot interfere with each other
+3:14
+the other mechanism is called peripatric speciation in this case you had a
+3:19
+an original population and you have some individuals that are just crazy individuals and they just like to go
+3:25
+other places and basically what these few individuals do is to colonize populations that peripheral to the to
+3:32
+the original population the dispersal here is very limited right only few of them managed to get to
+3:38
+those places and this peripatric speciation over time because of the limited dispersal leads to population
+3:44
+two different species adapting to those places and you you ended up having two species at the end
+3:49
+parapatric speciation is somewhat related pathway to peripatric speciation
+3:55
+with the difference that there is a more constant contact between the populations that are emerging at the periphery and
+4:02
+then you have sympathetic speciation patrick speciation is the the most crazy of all speciations in my opinion because
+4:10
+in this case you go from one species to the other one to two from one to two species while
+4:16
+those well that mechanism happens in the same place so basically what happens in sympathetic speciation is that you have
+4:23
+some mechanism happening in local scales that leads to individuals having some
+4:29
+type of selection or preference that over time turns into different species
+The Beginning of Life
+4:37
+now that is a speciation let's look at the beginning though of this whole thing about how do you go from the planet
+4:44
+being empty to now being colonized by nearly 8.7 million species so let's
+4:49
+start with the from the very beginning though thinking about the time when the planet earth comes to be and that is
+4:54
+calculated to be in the order of 4.6 billion years so our planet earth
+5:01
+was born about 4.6 billion years ago then we get the moon the moon came about
+5:07
+0.1 billion years later so 4.5 billion years ago and basically from the beginning
+5:14
+of the the beginning of time for planet earth to about 3.5 billion years there was
+5:20
+nothing happening we're talking about almost a billion years in the history of our planet that nothing is happening
+5:26
+other than the sinkhole protocol so sometime during this billion years from the beginning of the planet earth
+5:33
+to 3.5 billion years from now you get this thing called protozoa
+5:39
+protocell is basically this is structure that works as a plastic bag and the idea
+5:44
+that the importance of this plastic bag is that it allows for molecules to be
+5:49
+contained and that protocell eventually came to became the the walls of the cell
+5:54
+that led to the the prokaryotes that then led to the eukaryotes that then led
+6:00
+to this huge diversity of life that we had today so for 3.5 billion years
+6:05
+sorry for one billion years since the beginning of the planet earth most likely what was cooking there was
+6:10
+this thing called a protocell that is kind of the first the beginning of of what we can call life and the
+6:17
+significance of this protocell again is that allows to contain molecules that then allow for things to be contained
+6:22
+there where did life emerge all right so
+6:28
+one billion years we had to wait since the union of life this protocell is cooking there and then something came along
+6:34
+that we're gonna be looking in a moment but where did that happen though so there are three potential places where life originated and they are described
+6:41
+on these papers here one is in western australia the other one in norse northern and
+6:46
+in north america as i indicate with those crosses there
+Parspermia
+6:51
+now another possibility of where life originated that i find pretty interesting is that most is possible
+6:57
+that life originated in march you might think this is crazy well it turns out that there is a hypothesis called
+7:02
+parents frame porn panspermia that suggests that life in planet earth might
+7:08
+have originated in march and the way that that goes is that today we have encountered several meteorites this is
+7:15
+one of them that was described back in 1996 and that metaborite that was discovered
+7:21
+here is actually older than planet earth but one of the things that is interesting from this method is that it
+7:27
+contains carbon and magnetite and carbon and magnetite are fundamental in
+7:33
+molecules that are found in life today so the the presence of this magnetite on
+7:39
+on this in meteorite is an indication that potentially life
+7:44
+might have come from mars and it's a well it's a crazy idea there is some
+7:50
+suggestion here to to indicate that maybe the beginnings of life might have
+7:55
+come from mars again mostly is the presence of this element here magnetite that is encountered in very ancestral or
+8:01
+primitive forms of life that we see on earth today the mechanism or pattern that explains
+8:08
+light coming from mars again is called parspermia let's move on now so that's how the
+Extinction
+8:14
+species get originated now let's understand how the species go extends so here if we have the geographical range
+8:20
+later on we're going to be looking into this which is basically the area where the species is present and we look at
+8:26
+the size of that area over time what you find is that the geographical range is going to change originally depending on
+8:32
+the mechanism of a speciation it's going to go then into something that is called an interim phase
+8:38
+basically their geographical range remains constant and then it's gonna start the geographical range is gonna
+8:43
+start declining until the point where the geographical range reached zero and that moment is called
+8:50
+extinction extinction again is when the last individual of a species cease to exist
+8:56
+well conservation it is very interesting and also another topic of biogeography to understand how
+9:03
+does this extinction happen how do you go from a species having a geographical range to then completely disappearing
+9:09
+there are two likely mechanisms in which the species can go extinct one of them
+9:14
+is what is called outward extinction and basically what suggests is that the species goes in from the center of
+9:21
+the geographical range towards the periphery and inward extinction is the opposite
+9:26
+suggesting that the species will esteem from the periphery towards the center i want you to pause this video for a
+9:32
+moment and think which mechanism of mechanism of extinction is most likely
+9:38
+most species do wasting from the center towards the edge or from the edge towards the center
+9:44
+pause the video and think about what is more likely so many of you probably will think that
+9:51
+the most likely mechanism is going to be inward extinction the reason being
+9:57
+that obviously the reason that there is a boundary to the geographical range of a species is because the conditions are
+10:04
+not suitable for the species beyond that boundary if they were suitable the species most likely will go there so
+10:10
+those conditions are already not suitable for the species so you will think that the individuals they are less equipped to survive as a result the ones
+10:17
+that are in the middle are very equipped and those ones will be the last ones to extend that's what most people thought
+10:22
+however there was a guy two guys chanel and lomolino that published a paper in in
+10:28
+nature back in 2000 that suggested that in fact the the way that most species go stain is from the center towards the
+10:34
+periphery that was kind of interesting because for the longest of times
+10:40
+the we all thought that most of the species will go esteemed from the from the periphery towards the center again given
+10:47
+the fact that on the periphery you are going to have the individuals that are facing conditions are not suitable
+10:53
+but it turns out that when they when i tested this it was the opposite most of the species go esteemed from the center
+10:58
+towards the periphery and they use evidence on rodents from australia which is a primitive system they are given the
+11:04
+fact that australia is a continent that can be easily sampled and what they found with those rodents is that these
+11:10
+species that when a stem the last individuals left of the species were found on the periphery
+11:16
+the explanation that they gave in this paper is that what happens is that those those individuals are at the periphery
+11:22
+of the range are actually pretty tough individuals because they are facing such a harsh conditions they are actually
+11:27
+equipped to survive better unsuitable conditions so they are the ones that are less to question
+11:34
+humans had a similar effect as well humans when we go and hunt these species to to
+11:40
+the break up to extinction it turns out that most of the species most of the individuals that we hunt first are the ones in the middle because those
+11:46
+individuals in the middle are bigger and more abundant so we want to get the most for the more portfolio or
+11:53
+hunting so it has been found that humans also enhance this mechanism of extinction by
+11:59
+us destroying or killing the animals that are in the middle because they are bigger and more abundant and living for
+12:05
+less than it was in the periphery i want you to take a moment and think
+12:10
+about why is it important for us to differentiate between our and inward extension why would that make any
+12:16
+difference why would that be significant for us to know this now you come back from the be from the
+12:22
+break the reason why this is important is because if you manage to know how the species go extinct then you can
+12:28
+prioritize locations to protect if the species go esteem outwards then what it suggests is that
+12:34
+the last individual the la the places that you need to protect are the ones at the periphery of the range to ensure
+12:40
+that those populations are capable of being maintained longer time potentially replenishing other places but if it is
+12:46
+inward then you have to perhaps protect the places in the middle and reduce the impulse on the periphery so that's kind
+12:53
+of the reason why is it important for us to understand how species will extend let me give you some facts about
+13:00
+extinction this is something that probably you have learned all since probably primary school
+13:06
+that of all the species the higher existing on the planet 99.9 percent of
+13:11
+them are now extent so despite the fact that we see a lot of species today the number of species that had exist over
+13:18
+time is tons larger now when you another interesting thought
+13:24
+about extinction is that when you look at the historical record of biodiversity
+13:29
+of life in this planet there have been moments in which you have had massive extinction events
+13:35
+right periods of time with a lot of species had gone to stem and scientists
+13:40
+had used something a definition for a mass extinction event as these moments in the history of our planet when over
+13:46
+70 percent of the species had on esteem again a mass extinction event is generally defined as a moment in the
+13:53
+history of the planet when over 70 percent of the species withstand it turns out that when you look at the
+13:59
+historical record that goes back 500 million years there have been five of those extinction events the reasons for
+14:05
+why so many species afghanistan can be generally described as glaciations volcanism methane releases or meteorites
+14:13
+that you guys are probably very familiar with even the dawn of the dinosaurs
+14:19
+an interesting question though if you look at the time record here of the history of life on our planet goes back
+14:26
+500 million years but we know that the planet earth is 4.6 billion years and
+14:31
+the first forms of life came out about 3.5 billion years so basically what we're talking about is that despite the
+14:37
+fact that we know that life goes back 3.6 to 3.5 3.6 billion years we don't know much about
+14:44
+the history of life on our planet for 3 billion years only the last 500 million years we know something about and the
+14:50
+question is why why is the historical record of life so sure
+Plate Tectonics
+14:56
+now one of the explanations for why our understanding of life on the planet
+15:02
+is so so sure only very resin we know about what happened on this planet is plate tectonics basically what what is
+15:09
+happening here is that all of these surface that we had on the planet eventually was underneath the surface um
+15:16
+these plate tectonics tectonics and emails so what we are talking about here
+15:21
+is that everything that you see all the lands that you see today get recycled over
+15:27
+time there is this very famous paper by base here and johnson that calculated the times of recycling of all of the
+15:34
+land that we had in the planet and they discovered while there is some variability in among the places on
+15:39
+average almost all of the places on the planet where you could have had the majority of life get recycled every 300
+15:45
+million years so basically it's possible that there was an evidence on life on many of these
+15:51
+places but if it is older than 300 million years that evidence is already gone so
+15:58
+plate tectonics basically what it does it cannot remove the the biological evidence that it left
+16:04
+from a species and that is one of the explanations for why the historical record of life only goes back 500
+16:09
+million years or so most of it the other reason for why the historical
+16:16
+record is not so because it doesn't go back that far is because the individuals
+16:21
+are capable of leaving the evidence those ones that create a skeleton are actually not very old so
+16:27
+when you look at for instance the cambrian explosion that goes back only 500 million years those are the ones
+16:32
+that start leaving fossils behind and again those individuals are only came about in the history of evolution of the
+16:39
+planet 400 million years ago on that you had the diatoms that came out 200 million years or the forums so again the
+16:45
+species that are capable of living evidence came out relatively late in the history of the planet so it's very
+16:51
+likely that during the trip during the last during the three billion years of the history of the planet that
+16:57
+we don't know much about not many species might have been here to begin with and they probably just didn't have
+17:03
+enough evidence to leave behind so as i point out to you throughout the
+Mass Extinctions
+17:09
+for that period of time for which we had a good record of life or the diversity of life on the
+17:16
+planet we had come to discover that there have been five mass extinction events as i described earlier a mass
+17:22
+extinction are those periods when over 70 percent of the species is going to stem so you can see here this is the the
+17:27
+percentage of extinction this is time and as i explained to you despite the fact that the planet the life of the
+17:33
+planet goes back 3.5 3.6 billion years the best record that we had is 500 million years you look at this record
+17:40
+you find these peaks on extinction and the reason for these picks of
+17:45
+extinctions are very diverse like the first one for instance uh the first mass extinction event they happened about
+17:52
+four four hundred and twenty million years ago and it's probably related to glaciations
+17:57
+that took a lot of the water from the oceans and as a result the oceans reduced the sea level
+18:03
+and many of the species that were used to live on the coastlines when extent there was just no no no no
+18:09
+stratus no habitat for them given the reductions in in sea level that's the second
+18:15
+largest mass extinction event was the first one to happen the second one and it came about about
+18:21
+308 million years ago and that is in the late devonian as possibly that it was related to volcanism
+18:28
+the third one is called the great dime this mass extinction event was brutal these things
+18:35
+wipe out most of the diversity of life on the planet especially in the oceans
+18:41
+the reason for why this make this extinction event was so massive is be believed to be related to volcanoes
+18:47
+somewhere in russia volcanoes start producing a lot of uh greenhouse gases that went and created this runaway
+18:54
+climate change when the planet heat up super fast the warming of the planet then caused
+18:59
+all of this methane that is on the deepest part of the oceans so what's happening there is that over millions of
+19:05
+years all of these sediment rich in organic matter that came from the land went and settled down on the sediments
+19:11
+on the ocean and it was converted by bacteria into methane it got frozen given the pressure and the
+19:17
+low temperatures and basically what we are talking about is this massive concentration of methane
+19:23
+that is frozen in time there now as the air starts warming up these deeper deeper parts of the ocean start warming
+19:29
+up as well and all of this methane that was frozen in ice it started getting melted and start releasing this methane
+19:35
+and that accelerated climate change and basically created a set of change of
+19:41
+reactions that almost wipe out life on this planet this is one of the most concerning
+19:47
+extinction events because today we see something similar with climate change we as
+19:53
+warming up the atmosphere with potentially which potentially could unleash all of these alternative sources
+19:59
+of greenhouse gases that are accumulating accumulated over time in different places on the planet
+20:05
+this event is called the great dime as i indicated to you over 96 percent of the species on the
+20:12
+oceans were when esteemed because of this guy here the forest mass extinction potentially
+20:17
+related to volcanoes as well and the last one that we almost likely know was the dome of the dinosaurs and we know
+20:24
+relatively very well right now that that extinction was triggered by a meteorite so
+20:30
+scientists looking for this meteorite came to find that this met terrorite hit somewhere in the gulf of mexico and
+20:37
+it has been very interesting you study the physics of these impacts it turns out that the significance of the impact was because
+20:43
+it hit the planet in a diagonal matter i don't really remember very well how that influences but it turns out
+20:50
+that the difference between this method and having such a huge effect was related mostly to the inclination in
+20:56
+which it hit the planet today people keep talking about this
+21:02
+huge extension of a species driven by humans and a question that has been posed are we now on a mass extinction
+21:08
+event okay as i explained to you mass extinction is when over 70
+21:13
+or more other species go stain so today we are not in a mass extinction event
+21:18
+however there are several papers pointing out that we are in our way there
+21:23
+so again when when you look at the species that had gone and stained in recent times only about one to two percent of
+21:30
+the species had gone and stained that we had a record for and we're gonna see later on that this is not really a
+21:35
+reliable indicator of how bad things are i'm gonna go to that in a moment however when you look at
+21:41
+what's happening to a species you see that many species are declining and that's the thing that is concerning and
+21:47
+again why we start foreseeing the presence of a mass extinction event on the horizon
+21:54
+given how fast many of these species are declining so the first
+21:59
+paper to document this idea of us being on the verge of a mass extinction event
+22:05
+was by this guy calvin barnoski and what he did here he took different groups of a
+22:10
+taxa and in here you can see the this black line represents what is defined as
+22:15
+a mass extinction event again when 70 or more of the species goes staying here in this specific case he used 75 percent as
+22:22
+a threshold and he indicates here the file then the fight that we know of one two three four and five
+22:27
+but then he sees what is happening today and what you see here are the species that are critically
+22:32
+endangered today those are the species that are the brick of extinction and as you can see if all of these species were
+22:38
+stained which is very likely given the fact that the arms are the brick they still don't reach that threshold of 75
+22:44
+percent the critical part though is when you analyze and the species are endangered or
+22:51
+vulnerable when you analyze species are in danger or vulnerable those are species that are today at the
+22:57
+start of this declining pathway so if you extrapolate the decline of these
+23:02
+species until the point that they question then it's very likely that you analyze all of those species by 2100
+23:09
+all of these species are currently in danger and vulnerable will accumulate to create a
+23:14
+way beyond what is a mass extinction event so again this is one of the pieces
+23:20
+of evidence that you can use to suggest that there is a mass extinction event on the way because again many species are declining
+23:26
+quite dramatically and you analyze the species that are today critically endangered endangered or vulnerable
+23:32
+eventually we are going to make it to that threshold off a mass extinction event
+23:37
+this is another paper that can be used to describe whether we are in a mass extinction event this paper was actually
+23:43
+a paper from my laboratory that we published in the journalist science in 2013 what we did on that paper was this
+23:49
+so here you take the number of species as a percentage so it could be five million eight million who knows doesn't
+23:55
+really matter for the purpose of this analysis and here we had time what we did on this paper was to mark what we
+24:01
+define as a mass extinction event right basically when over 75 percent of the species went stem
+24:08
+so what we did for this paper though was to compile
+24:13
+all the rays of extinctions from many different papers we took a bunch of papers that had reported extinction of
+24:19
+species and those rays of extinctions range from 0.72 percent per year to 0.22
+24:26
+per year and what we did then we took this number of species one percent and we start driving them extend by these
+24:31
+percentages and basically what we did is to calculate these scenarios of at this rate of extensions when are we going to
+24:38
+go to cross this stressful of what we call a mass extinction event and the number came to be sometime in the next century
+24:46
+so this is again another way to analyze the data that allows you to support the idea
+24:51
+that sometime in the next few decades we are going to be crossing a mass extinction event and what i want you to realize is
+24:57
+that in the past those mass extinction events had taken thousands of years to develop we are
+25:02
+talking about 100 200 years in which we actually push the life on the planet to to those
+25:08
+stressful that it has taken millions of years before just for you to realize the significance of what we're doing to our
+25:13
+planet today another thing that we did on this paper was to calculate the number of species
+25:20
+that are being described every year so today we only know about 20 of these species that live in the planet we are
+25:26
+describing on the ray of 8 000 species a year so what it means is that if we continue to describe species at a rate
+25:32
+of 8 000 per year you can see all of these species are still undescribed all of these species
+25:38
+that are going to stain we don't know the names for them so basically what we are
+25:44
+talking that we described on this paper is that many of these species are going to stain without us even knowing their
+25:49
+names without us even even giving them a name that's the ray of which where the
+25:55
+driving species to extinction today here are some examples used for you to
+26:00
+put faces to these numbers of the ray of extinction here we had the tasmanian tiger
+26:06
+this species was used to live in tasmania for four million years this is the area where it was restricted to
+26:12
+unfortunately humans go to that place and there was a conflict between then eating what we eat and in seriously 200
+26:19
+years we wipe out that species from the face of the planet this is the last thing you are left i
+26:25
+want you to look at that guy man this is the last guy of the tasmanian tiger he was kept in a zoo in tasmania there
+26:33
+and he he was kept in captivity and the animal died exactly on september 7 or
+26:38
+1936. a few years later six years earlier in 1930 the while the wild version of these
+26:46
+animals was hanging out somewhere in the field somebody took a gun and shoot the guy so imagine that we had the record of
+26:53
+exactly the last time that we killed the last individual that was in the wild 36 years later
+27:00
+this one guy died in the zoo and when these animals died the whole species
+27:05
+will sting what i want you to look is look at the desperation of that animal man can you imagine you being the last
+27:10
+individual left there is nobody that you can share the planet with you despite the fact that you had owned your right
+27:16
+to be on this planet like every other species and he was asked in just 200 years to wipe out that species
+27:22
+now what is super sad about this species is that the last individual as i
+27:28
+explained to you died in 1936 and in that year the government of
+27:34
+tasmania introduced law to protect the species can you imagine how
+27:39
+like this is like a joke you know the year in which the species goes sustained is when we all get
+27:45
+concerned to protect the species when it's already way too late so that species when it's
+27:50
+laws to protect that species were introduced the year when the last thing we will die
+Western Black Rhino
+27:57
+so here is another species this is a western black rhino it was used to live in africa for 50 million years this is
+28:03
+the part where it was used to live there were time records in which the populations were estimated to be in the
+28:08
+order of a hundred thousand individuals for some reason for some kind of sick reason
+28:15
+at least with the tasmanian tiger it was basically we were the animal was eating what we eat but in this case we just
+28:22
+somehow got an appetite for the horns of this animal that's sick and basically what happened is that in
+28:29
+just 40 years since since we created a trade value for
+28:34
+the homes of this animal the species went extinct and unfortunately we had an actual
+28:39
+scientific record of the time when when the last time that we saw it was in 2006
+28:46
+and it was the clearest thing in the world in 2011.
+Golden Toad
+28:51
+here is another guy that went to steam this is the golden toad though this animal was used to live in south america
+28:58
+for 60 million years can you imagine like being on a place for 65 million years until somebody come along and
+29:04
+destroy your habitat in this case the reason why this guy went to steam
+29:10
+was because of climate change it turns out that there were many
+29:15
+elevations high elevations where the frogs managed to survive from this fungi
+29:22
+that kills them and this fungi couldn't reach higher elevations because it was too cold but as climate change started
+29:28
+increasing the temperature of those higher elevations he expanded the geographical range of these fungi so
+29:34
+basically these stoves run out of space that they could escape the fungi and
+29:39
+eventually in just 30 years the species went again the last time that we saw this a golden
+29:47
+toad was in 1889 and finally we decided to declare the species of sting in 1982
+Caribbean Monk Seal
+29:55
+this is another one this is the caribbean monk seal this is another one that is very interesting so when
+30:00
+christopher columbus got to the caribbean they estimated that the total population of this species was 250 000 individuals
+30:08
+there were tons of these in the world christopher columbus when he gets to the caribbean he grabs his own in his
+30:13
+logbook that there are so many of these animals that they covered completely the beaches and sometimes you have to push
+30:19
+his animals away can you imagine going from that level of density to a species going completely extinct
+30:26
+in this case the reasons why we kill this animal was to feed on their on their meat but also
+30:31
+to use their their their fat to to to so that we can see at night can you imagine
+30:37
+eventually the the entire species was driven to extinction in just 300 years
+30:43
+since the time that it came in upon contact with people to the time that we drove that species to extinction it was
+30:49
+300 years the last time that somebody saw that species was in 1952 and again another
+30:56
+sarcasm i believe here was that people decided to start protecting the law in 1967
+31:02
+and it was declared in 1967 and the species was declared in 2009 i want you to realize these numbers
+31:08
+though this one is even sadder because the species was probably already extinct when we decided to
+31:14
+to create laws to protect the species so that's the tail here of the monsieur
+Species
+31:21
+but there are hundreds of those species this is species when it's in in 1981 here we had 1970 the caspian tiger 1970
+31:30
+here this guy 1989 this one here still in 2000 that one in 2003 ambassador this
+31:38
+one 2004 2008 2011 man i started getting the
+31:43
+goosebumps i have been giving this presentation for so many years and every time that i give this presentation i get
+31:48
+freaking good sponsors man just to realize the craziness of what we are doing to our planet this species in 2011
+31:55
+1941 1900s esteem in 1980 many of these species
+32:01
+that are going to stand even this one's called lucky that at least we took a photograph of them many species are going to stain and we don't even have a
+32:06
+photo nor a name for them 20 000 species could be easily going to stain every year because of what we do
+32:13
+to our planet now unfortunately
+32:19
+describing claiming extinction is very hard for a scientist saying that a
+32:24
+species is a sting is very hard the reason being that as the species start declining
+32:32
+the few individuals that are left become rare so it's possible in fact that with
+32:37
+the last time that we see individuals there might be some time after in which the individuals are against so rare we
+32:42
+don't see them and eventually it might take a while for the species to question from the time that we last in an example
+32:47
+is this guy here the johnson river dolphin it's a beautiful
+32:53
+mammal from the johnson river there's a pretty cool story about this guy and
+33:00
+in china but basically what happens was that the last time that we saw this dolphin was in 2002 yet in 2006
+33:09
+four years later somebody took a video recording of the river and something came out on the surface of the river
+33:15
+that seems to look like a dolphin because of that footage that doesn't necessarily confirm that the dolphin was
+33:22
+still there we failed to declare this species esteem and again even to this day there is
+33:28
+still controversy whether this animal is sustained or not and the reason why
+33:33
+a is controversial for a scientist to put an uh uh to put a date when the species
+33:39
+goes sustained is the fact that we might be wrong in the sense that again when the species decline they
+33:45
+became they become so rare that we don't see them so based on the fact that we
+33:50
+saw them last is not necessarily a good indication that the species is not there despite the fact that
+33:55
+it reflects a reality that the species might be at the brick of extinction
+When do we declare a species rare
+34:00
+so as a result one of the key questions in biogeography is when do we declare a species esteem that is something that
+34:06
+we're constantly struggling with so that people can better appreciate the significance of what we are doing
+34:12
+let me just give you an example on a paper that tried to address this question was a paper by andrew solo and
+34:18
+one of his students looking at the dodo this species was used to live in mauritius island in the indian ocean
+34:25
+the last time that somebody saw this species was in 1662
+34:30
+okay but as i explained what happens when the species is declining is the fact that
+34:36
+they don't become rare so it becomes harder to find them so you might necessarily
+34:41
+the species might still be there despite the fact that you might not see it so what they did they took all of the
+34:47
+sightings of the species up to 1662 and they created a distribution of the time
+34:52
+that it might take for the species to go esteem and basically what they managed to to
+34:57
+calculate was that this species probably wasn't in 1690 so again the last time that we saw it
+35:04
+was in 62 possibly when it's seen 30 years later so what they claim on this paper which
+35:10
+is in the journal nature is that in this case example it took about 30 years from
+35:15
+the time that we last saw a species to the time that it went stain and that again poses a huge
+35:22
+concern for many of the species that today had become so rare that we had no seed and possibly already a steam but in
+35:28
+scientists we got away and according to this paper we gotta wait 30 years for us to be able to finally claim that the
+35:33
+species question at which time it's already too late as we demonstrated with those case examples
+35:39
+so that is one of the concerns of us trying to to to highlight the significance of
+35:46
+the environmental crisis based on extinction is the fact that extinction is very hard to document scientifically
+Probability of Extinction
+35:54
+so rather than saying when a species question there are other metrics that
+36:00
+have been trying to highlight the significance of the all the status of some species one of that
+36:06
+is what is called the probability of extinction which is a paper by nick dolby and in this paper
+36:12
+basically they had a mathematical equation i don't really want us to go into the specifics of it but basically what you do is given the times when the
+36:19
+species has been recorded you can then calculate the probability that the species is
+36:24
+speciesist in this one example for instance of the of the surgeon here they estimated that
+36:30
+this species there is an 85 chance that the species is esteemed again you are interested in the equation it's pretty
+36:36
+straight forward to calculate here i don't want you to pay attention to it other than knowing that there is an alternative way that rather than us in a
+36:43
+species of sting we can rather say a probability that the species stings so when you say that it's a 95 percent
+36:48
+chance of that the species going to stay and that already kind of reveals the that that species is likely facing
+Time of Extinction
+36:56
+another metric is what we what is called the time of extinction this is done by a colleague of mine christine where basically we
+37:02
+published this paper together back in 2010 and some other professors that were qualities on this paper what we did in
+37:08
+this paper what christina did was to look at the declines of species that we
+37:13
+see today and extrapolate that decline to then calculate eventually when does the density of this species reach zero
+37:20
+and from today to the time that the density reached zero then you can calculate that time and you can come up
+37:25
+with an index that is called the time to extinction again another metric that highlights the significance of the
+37:31
+crisis for many species now another interesting question about
+Time of Recovery
+37:38
+geography when you look at the history of ortana is to identify how long it has taken the planet to recover from those
+37:44
+distinctions and there is a very interesting paper here by kerner and well in nature in 2002 so in this paper
+37:49
+they had two interesting plots one looking at the extension and as you see as we described earlier there
+37:56
+have been five mass extinction events one two three four and five but then the
+38:02
+other interesting plot of that paper is the ray of origination on new species obviously when a lot of species go
+38:07
+extinct and the conditions go back to normal there's a lot of space where species can originate and what they did
+38:14
+was to look at the patterns of origination and what they found was this very interesting pattern that for every
+38:19
+peak of extinction there is a peak of origination you can see the case here high extension high
+38:25
+origination high extension high origination high extension high origination so what that suggests is
+38:32
+that the planet heals of all these mass extinction events that have happened in the planet before the
+38:37
+planet has managed to heal and life comes back from this the interesting the
+38:43
+cash though is that it has taken 10 million years on average for the planet to recover from these mass extinction
+38:49
+events and that is another huge indication of how bad it is what we are doing to our planet today which is the
+38:55
+fact that it could take easily 10 million years for the planet to heal from what we are doing to it
+39:02
+i'm going to finish out this class by pointing out something that i find interesting about
+39:09
+what is to come once we start driving so many species a stent and there is this tail based on this tiny island easter
+39:16
+island in the middle of the lower pacific and what happens there is that 300
+39:21
+sometimes sometimes 300 to 1200 years
+39:26
+after jesus was born the polynations colonized that island right they got there
+39:33
+at the time that they get to this island yeah i can't you can imagine this right these guys get there in a in the canoes
+39:38
+get there and there is this beautiful island colonized with 20 21 species of
+39:44
+trees and multiple species of birds and they were the oceans there so
+39:50
+interestingly though for multiple reasons these people start
+39:55
+destroying their landscape okay no criticism there so if any of you is a pollination that
+40:00
+is from the place please don't take offense on this i'm just describing this example in which the people destroy
+40:07
+the biodiversity on those places again for multiple reasons one possibility is the fact that they use a lot of the
+40:13
+trees to build these huge structures that are left today it's possible maybe that they build this thing in a way to
+40:20
+pray to god to help them not to go esteem after they start seeing the end coming
+40:25
+but the matter of the fight was though that they cut down all of the trees and unfortunately they brought a lot of rats
+40:31
+with them and this combination of us cutting the trees and and us having
+40:36
+these pets that eat the seeds that were introduced by us as well led to basically a process in which the
+40:43
+populations that were there were being disappearing faster than they were able to replenish so imagine this thing we
+40:49
+were hitting this species these populations on both ends on one end we
+40:54
+were killing the adults cutting down the trees and on the other end we introduced these rats that were eating the seeds so
+41:00
+these trees and this biodiversity on this island just had no choice
+41:06
+as a result many of these species on that island were stained now what is
+41:11
+interesting is when you look at the number of people on that island the number of people got to be all the
+41:17
+way up to 10 000 people and then it just collapsed super fast right so what it happened
+41:24
+there you this is a very interesting documentary on this in national geographic when they ran out of
+41:30
+a species on land they could they didn't have a wood to build boats so all these fish
+41:37
+that were there they couldn't catch they couldn't go and get them so basically no good no boats no fishing there was no
+41:42
+escape those people could trap on this island ten thousand of them so basically a game that ran out of food and
+41:48
+internationally it ended up eating each other there so there is record of cannibalism happening on this
+41:54
+island again just for you to highlight the significance of what it is as destroying the capacity of the land to
+42:00
+produce basic things like foods exactly what we are doing today but a much larger scale just like a tiny version
+42:09
+again of what we are doing to our planet i just want to finish up the class by saying that extinction is in seriously
+42:17
+=======
+
+Intro
+0:11
+so today we're going to be looking at a speciation and extinction basically how
+0:16
+species are born and how the species die so at the most basic level we have this
+0:23
+question why species are where they are so there are two possibilities here one is that the species is present you can
+0:29
+see a species right there the other possibility is that the species is not there so how do you explain a species being present in a
+0:36
+given place actually it's pretty simple there are at least two basic potential explanations to explain why a species is
+0:43
+in a given place one is a speciation the species is there because the species was originated there
+0:48
+or the species got there from somewhere else basically the species originated in another place via migration and
+0:54
+dispersal it managed to be on a given place that's how you explain at the most basic level why a species is present
+1:00
+now the only possibility is that the species is not there how do you explain that well one
+1:06
+possibility is that the species was never there to begin with basically there have been some limitations to the
+1:11
+dispersal of species that prevent species of getting places and that might help you explain why species are not in
+1:16
+certain places now the other possibility that you had here is that the species was there but it went extinct
+1:23
+so you see in biogeography we one of the main things that we had is trying to explain why species are where they are
+1:29
+at the most basic level you had you had to explain why a species is there or why the species is not there and when you
+1:35
+link that when you look at the set of possibilities this iteration that is a combination of either a speciation
+1:41
+species originating in a certain place extinction the species just disappearing
+1:46
+or dispersal that helps you explain where species is present or not in a given place
+1:53
+now let's start looking the different components that we just spoke about let's look at a speciation and basically
+1:58
+is the origin of a new species what we are talking about here is that you start from one species and somehow you ended
+2:04
+up having two species how that mechanism happens well scientists have come up with three
+2:11
+different processes in which you go from having one species to having two species okay
+2:18
+so let's look at the first mechanism it's called allopathic speciation in allopatric speciation you have a
+2:24
+original population which is a group of individuals of the same species currently a barrier comes along and
+2:31
+separates that population in two you can think about barriers like for instance you had a valley and then you get a
+2:38
+mountain in between the two of them now the populations get separated you can also think about rivers for instance for
+2:43
+certain species rivers turn into barriers that separate populations on both sides and over time
+2:50
+these populations are separated above trying to adapt to the different environments such that later on if those
+2:56
+two species come together they might not be able to reproduce and that then results in you having two species so
+3:03
+basically what we are talking about here is allopatric speciation which is the emergence of a barrier that separates
+3:09
+populations that over time leads to a species that cannot interfere with each other
+3:14
+the other mechanism is called peripatric speciation in this case you had a
+3:19
+an original population and you have some individuals that are just crazy individuals and they just like to go
+3:25
+other places and basically what these few individuals do is to colonize populations that peripheral to the to
+3:32
+the original population the dispersal here is very limited right only few of them managed to get to
+3:38
+those places and this peripatric speciation over time because of the limited dispersal leads to population
+3:44
+two different species adapting to those places and you you ended up having two species at the end
+3:49
+parapatric speciation is somewhat related pathway to peripatric speciation
+3:55
+with the difference that there is a more constant contact between the populations that are emerging at the periphery and
+4:02
+then you have sympathetic speciation patrick speciation is the the most crazy of all speciations in my opinion because
+4:10
+in this case you go from one species to the other one to two from one to two species while
+4:16
+those well that mechanism happens in the same place so basically what happens in sympathetic speciation is that you have
+4:23
+some mechanism happening in local scales that leads to individuals having some
+4:29
+type of selection or preference that over time turns into different species
+The Beginning of Life
+4:37
+now that is a speciation let's look at the beginning though of this whole thing about how do you go from the planet
+4:44
+being empty to now being colonized by nearly 8.7 million species so let's
+4:49
+start with the from the very beginning though thinking about the time when the planet earth comes to be and that is
+4:54
+calculated to be in the order of 4.6 billion years so our planet earth
+5:01
+was born about 4.6 billion years ago then we get the moon the moon came about
+5:07
+0.1 billion years later so 4.5 billion years ago and basically from the beginning
+5:14
+of the the beginning of time for planet earth to about 3.5 billion years there was
+5:20
+nothing happening we're talking about almost a billion years in the history of our planet that nothing is happening
+5:26
+other than the sinkhole protocol so sometime during this billion years from the beginning of the planet earth
+5:33
+to 3.5 billion years from now you get this thing called protozoa
+5:39
+protocell is basically this is structure that works as a plastic bag and the idea
+5:44
+that the importance of this plastic bag is that it allows for molecules to be
+5:49
+contained and that protocell eventually came to became the the walls of the cell
+5:54
+that led to the the prokaryotes that then led to the eukaryotes that then led
+6:00
+to this huge diversity of life that we had today so for 3.5 billion years
+6:05
+sorry for one billion years since the beginning of the planet earth most likely what was cooking there was
+6:10
+this thing called a protocell that is kind of the first the beginning of of what we can call life and the
+6:17
+significance of this protocell again is that allows to contain molecules that then allow for things to be contained
+6:22
+there where did life emerge all right so
+6:28
+one billion years we had to wait since the union of life this protocell is cooking there and then something came along
+6:34
+that we're gonna be looking in a moment but where did that happen though so there are three potential places where life originated and they are described
+6:41
+on these papers here one is in western australia the other one in norse northern and
+6:46
+in north america as i indicate with those crosses there
+Parspermia
+6:51
+now another possibility of where life originated that i find pretty interesting is that most is possible
+6:57
+that life originated in march you might think this is crazy well it turns out that there is a hypothesis called
+7:02
+parents frame porn panspermia that suggests that life in planet earth might
+7:08
+have originated in march and the way that that goes is that today we have encountered several meteorites this is
+7:15
+one of them that was described back in 1996 and that metaborite that was discovered
+7:21
+here is actually older than planet earth but one of the things that is interesting from this method is that it
+7:27
+contains carbon and magnetite and carbon and magnetite are fundamental in
+7:33
+molecules that are found in life today so the the presence of this magnetite on
+7:39
+on this in meteorite is an indication that potentially life
+7:44
+might have come from mars and it's a well it's a crazy idea there is some
+7:50
+suggestion here to to indicate that maybe the beginnings of life might have
+7:55
+come from mars again mostly is the presence of this element here magnetite that is encountered in very ancestral or
+8:01
+primitive forms of life that we see on earth today the mechanism or pattern that explains
+8:08
+light coming from mars again is called parspermia let's move on now so that's how the
+Extinction
+8:14
+species get originated now let's understand how the species go extends so here if we have the geographical range
+8:20
+later on we're going to be looking into this which is basically the area where the species is present and we look at
+8:26
+the size of that area over time what you find is that the geographical range is going to change originally depending on
+8:32
+the mechanism of a speciation it's going to go then into something that is called an interim phase
+8:38
+basically their geographical range remains constant and then it's gonna start the geographical range is gonna
+8:43
+start declining until the point where the geographical range reached zero and that moment is called
+8:50
+extinction extinction again is when the last individual of a species cease to exist
+8:56
+well conservation it is very interesting and also another topic of biogeography to understand how
+9:03
+does this extinction happen how do you go from a species having a geographical range to then completely disappearing
+9:09
+there are two likely mechanisms in which the species can go extinct one of them
+9:14
+is what is called outward extinction and basically what suggests is that the species goes in from the center of
+9:21
+the geographical range towards the periphery and inward extinction is the opposite
+9:26
+suggesting that the species will esteem from the periphery towards the center i want you to pause this video for a
+9:32
+moment and think which mechanism of mechanism of extinction is most likely
+9:38
+most species do wasting from the center towards the edge or from the edge towards the center
+9:44
+pause the video and think about what is more likely so many of you probably will think that
+9:51
+the most likely mechanism is going to be inward extinction the reason being
+9:57
+that obviously the reason that there is a boundary to the geographical range of a species is because the conditions are
+10:04
+not suitable for the species beyond that boundary if they were suitable the species most likely will go there so
+10:10
+those conditions are already not suitable for the species so you will think that the individuals they are less equipped to survive as a result the ones
+10:17
+that are in the middle are very equipped and those ones will be the last ones to extend that's what most people thought
+10:22
+however there was a guy two guys chanel and lomolino that published a paper in in
+10:28
+nature back in 2000 that suggested that in fact the the way that most species go stain is from the center towards the
+10:34
+periphery that was kind of interesting because for the longest of times
+10:40
+the we all thought that most of the species will go esteemed from the from the periphery towards the center again given
+10:47
+the fact that on the periphery you are going to have the individuals that are facing conditions are not suitable
+10:53
+but it turns out that when they when i tested this it was the opposite most of the species go esteemed from the center
+10:58
+towards the periphery and they use evidence on rodents from australia which is a primitive system they are given the
+11:04
+fact that australia is a continent that can be easily sampled and what they found with those rodents is that these
+11:10
+species that when a stem the last individuals left of the species were found on the periphery
+11:16
+the explanation that they gave in this paper is that what happens is that those those individuals are at the periphery
+11:22
+of the range are actually pretty tough individuals because they are facing such a harsh conditions they are actually
+11:27
+equipped to survive better unsuitable conditions so they are the ones that are less to question
+11:34
+humans had a similar effect as well humans when we go and hunt these species to to
+11:40
+the break up to extinction it turns out that most of the species most of the individuals that we hunt first are the ones in the middle because those
+11:46
+individuals in the middle are bigger and more abundant so we want to get the most for the more portfolio or
+11:53
+hunting so it has been found that humans also enhance this mechanism of extinction by
+11:59
+us destroying or killing the animals that are in the middle because they are bigger and more abundant and living for
+12:05
+less than it was in the periphery i want you to take a moment and think
+12:10
+about why is it important for us to differentiate between our and inward extension why would that make any
+12:16
+difference why would that be significant for us to know this now you come back from the be from the
+12:22
+break the reason why this is important is because if you manage to know how the species go extinct then you can
+12:28
+prioritize locations to protect if the species go esteem outwards then what it suggests is that
+12:34
+the last individual the la the places that you need to protect are the ones at the periphery of the range to ensure
+12:40
+that those populations are capable of being maintained longer time potentially replenishing other places but if it is
+12:46
+inward then you have to perhaps protect the places in the middle and reduce the impulse on the periphery so that's kind
+12:53
+of the reason why is it important for us to understand how species will extend let me give you some facts about
+13:00
+extinction this is something that probably you have learned all since probably primary school
+13:06
+that of all the species the higher existing on the planet 99.9 percent of
+13:11
+them are now extent so despite the fact that we see a lot of species today the number of species that had exist over
+13:18
+time is tons larger now when you another interesting thought
+13:24
+about extinction is that when you look at the historical record of biodiversity
+13:29
+of life in this planet there have been moments in which you have had massive extinction events
+13:35
+right periods of time with a lot of species had gone to stem and scientists
+13:40
+had used something a definition for a mass extinction event as these moments in the history of our planet when over
+13:46
+70 percent of the species had on esteem again a mass extinction event is generally defined as a moment in the
+13:53
+history of the planet when over 70 percent of the species withstand it turns out that when you look at the
+13:59
+historical record that goes back 500 million years there have been five of those extinction events the reasons for
+14:05
+why so many species afghanistan can be generally described as glaciations volcanism methane releases or meteorites
+14:13
+that you guys are probably very familiar with even the dawn of the dinosaurs
+14:19
+an interesting question though if you look at the time record here of the history of life on our planet goes back
+14:26
+500 million years but we know that the planet earth is 4.6 billion years and
+14:31
+the first forms of life came out about 3.5 billion years so basically what we're talking about is that despite the
+14:37
+fact that we know that life goes back 3.6 to 3.5 3.6 billion years we don't know much about
+14:44
+the history of life on our planet for 3 billion years only the last 500 million years we know something about and the
+14:50
+question is why why is the historical record of life so sure
+Plate Tectonics
+14:56
+now one of the explanations for why our understanding of life on the planet
+15:02
+is so so sure only very resin we know about what happened on this planet is plate tectonics basically what what is
+15:09
+happening here is that all of these surface that we had on the planet eventually was underneath the surface um
+15:16
+these plate tectonics tectonics and emails so what we are talking about here
+15:21
+is that everything that you see all the lands that you see today get recycled over
+15:27
+time there is this very famous paper by base here and johnson that calculated the times of recycling of all of the
+15:34
+land that we had in the planet and they discovered while there is some variability in among the places on
+15:39
+average almost all of the places on the planet where you could have had the majority of life get recycled every 300
+15:45
+million years so basically it's possible that there was an evidence on life on many of these
+15:51
+places but if it is older than 300 million years that evidence is already gone so
+15:58
+plate tectonics basically what it does it cannot remove the the biological evidence that it left
+16:04
+from a species and that is one of the explanations for why the historical record of life only goes back 500
+16:09
+million years or so most of it the other reason for why the historical
+16:16
+record is not so because it doesn't go back that far is because the individuals
+16:21
+are capable of leaving the evidence those ones that create a skeleton are actually not very old so
+16:27
+when you look at for instance the cambrian explosion that goes back only 500 million years those are the ones
+16:32
+that start leaving fossils behind and again those individuals are only came about in the history of evolution of the
+16:39
+planet 400 million years ago on that you had the diatoms that came out 200 million years or the forums so again the
+16:45
+species that are capable of living evidence came out relatively late in the history of the planet so it's very
+16:51
+likely that during the trip during the last during the three billion years of the history of the planet that
+16:57
+we don't know much about not many species might have been here to begin with and they probably just didn't have
+17:03
+enough evidence to leave behind so as i point out to you throughout the
+Mass Extinctions
+17:09
+for that period of time for which we had a good record of life or the diversity of life on the
+17:16
+planet we had come to discover that there have been five mass extinction events as i described earlier a mass
+17:22
+extinction are those periods when over 70 percent of the species is going to stem so you can see here this is the the
+17:27
+percentage of extinction this is time and as i explained to you despite the fact that the planet the life of the
+17:33
+planet goes back 3.5 3.6 billion years the best record that we had is 500 million years you look at this record
+17:40
+you find these peaks on extinction and the reason for these picks of
+17:45
+extinctions are very diverse like the first one for instance uh the first mass extinction event they happened about
+17:52
+four four hundred and twenty million years ago and it's probably related to glaciations
+17:57
+that took a lot of the water from the oceans and as a result the oceans reduced the sea level
+18:03
+and many of the species that were used to live on the coastlines when extent there was just no no no no
+18:09
+stratus no habitat for them given the reductions in in sea level that's the second
+18:15
+largest mass extinction event was the first one to happen the second one and it came about about
+18:21
+308 million years ago and that is in the late devonian as possibly that it was related to volcanism
+18:28
+the third one is called the great dime this mass extinction event was brutal these things
+18:35
+wipe out most of the diversity of life on the planet especially in the oceans
+18:41
+the reason for why this make this extinction event was so massive is be believed to be related to volcanoes
+18:47
+somewhere in russia volcanoes start producing a lot of uh greenhouse gases that went and created this runaway
+18:54
+climate change when the planet heat up super fast the warming of the planet then caused
+18:59
+all of this methane that is on the deepest part of the oceans so what's happening there is that over millions of
+19:05
+years all of these sediment rich in organic matter that came from the land went and settled down on the sediments
+19:11
+on the ocean and it was converted by bacteria into methane it got frozen given the pressure and the
+19:17
+low temperatures and basically what we are talking about is this massive concentration of methane
+19:23
+that is frozen in time there now as the air starts warming up these deeper deeper parts of the ocean start warming
+19:29
+up as well and all of this methane that was frozen in ice it started getting melted and start releasing this methane
+19:35
+and that accelerated climate change and basically created a set of change of
+19:41
+reactions that almost wipe out life on this planet this is one of the most concerning
+19:47
+extinction events because today we see something similar with climate change we as
+19:53
+warming up the atmosphere with potentially which potentially could unleash all of these alternative sources
+19:59
+of greenhouse gases that are accumulating accumulated over time in different places on the planet
+20:05
+this event is called the great dime as i indicated to you over 96 percent of the species on the
+20:12
+oceans were when esteemed because of this guy here the forest mass extinction potentially
+20:17
+related to volcanoes as well and the last one that we almost likely know was the dome of the dinosaurs and we know
+20:24
+relatively very well right now that that extinction was triggered by a meteorite so
+20:30
+scientists looking for this meteorite came to find that this met terrorite hit somewhere in the gulf of mexico and
+20:37
+it has been very interesting you study the physics of these impacts it turns out that the significance of the impact was because
+20:43
+it hit the planet in a diagonal matter i don't really remember very well how that influences but it turns out
+20:50
+that the difference between this method and having such a huge effect was related mostly to the inclination in
+20:56
+which it hit the planet today people keep talking about this
+21:02
+huge extension of a species driven by humans and a question that has been posed are we now on a mass extinction
+21:08
+event okay as i explained to you mass extinction is when over 70
+21:13
+or more other species go stain so today we are not in a mass extinction event
+21:18
+however there are several papers pointing out that we are in our way there
+21:23
+so again when when you look at the species that had gone and stained in recent times only about one to two percent of
+21:30
+the species had gone and stained that we had a record for and we're gonna see later on that this is not really a
+21:35
+reliable indicator of how bad things are i'm gonna go to that in a moment however when you look at
+21:41
+what's happening to a species you see that many species are declining and that's the thing that is concerning and
+21:47
+again why we start foreseeing the presence of a mass extinction event on the horizon
+21:54
+given how fast many of these species are declining so the first
+21:59
+paper to document this idea of us being on the verge of a mass extinction event
+22:05
+was by this guy calvin barnoski and what he did here he took different groups of a
+22:10
+taxa and in here you can see the this black line represents what is defined as
+22:15
+a mass extinction event again when 70 or more of the species goes staying here in this specific case he used 75 percent as
+22:22
+a threshold and he indicates here the file then the fight that we know of one two three four and five
+22:27
+but then he sees what is happening today and what you see here are the species that are critically
+22:32
+endangered today those are the species that are the brick of extinction and as you can see if all of these species were
+22:38
+stained which is very likely given the fact that the arms are the brick they still don't reach that threshold of 75
+22:44
+percent the critical part though is when you analyze and the species are endangered or
+22:51
+vulnerable when you analyze species are in danger or vulnerable those are species that are today at the
+22:57
+start of this declining pathway so if you extrapolate the decline of these
+23:02
+species until the point that they question then it's very likely that you analyze all of those species by 2100
+23:09
+all of these species are currently in danger and vulnerable will accumulate to create a
+23:14
+way beyond what is a mass extinction event so again this is one of the pieces
+23:20
+of evidence that you can use to suggest that there is a mass extinction event on the way because again many species are declining
+23:26
+quite dramatically and you analyze the species that are today critically endangered endangered or vulnerable
+23:32
+eventually we are going to make it to that threshold off a mass extinction event
+23:37
+this is another paper that can be used to describe whether we are in a mass extinction event this paper was actually
+23:43
+a paper from my laboratory that we published in the journalist science in 2013 what we did on that paper was this
+23:49
+so here you take the number of species as a percentage so it could be five million eight million who knows doesn't
+23:55
+really matter for the purpose of this analysis and here we had time what we did on this paper was to mark what we
+24:01
+define as a mass extinction event right basically when over 75 percent of the species went stem
+24:08
+so what we did for this paper though was to compile
+24:13
+all the rays of extinctions from many different papers we took a bunch of papers that had reported extinction of
+24:19
+species and those rays of extinctions range from 0.72 percent per year to 0.22
+24:26
+per year and what we did then we took this number of species one percent and we start driving them extend by these
+24:31
+percentages and basically what we did is to calculate these scenarios of at this rate of extensions when are we going to
+24:38
+go to cross this stressful of what we call a mass extinction event and the number came to be sometime in the next century
+24:46
+so this is again another way to analyze the data that allows you to support the idea
+24:51
+that sometime in the next few decades we are going to be crossing a mass extinction event and what i want you to realize is
+24:57
+that in the past those mass extinction events had taken thousands of years to develop we are
+25:02
+talking about 100 200 years in which we actually push the life on the planet to to those
+25:08
+stressful that it has taken millions of years before just for you to realize the significance of what we're doing to our
+25:13
+planet today another thing that we did on this paper was to calculate the number of species
+25:20
+that are being described every year so today we only know about 20 of these species that live in the planet we are
+25:26
+describing on the ray of 8 000 species a year so what it means is that if we continue to describe species at a rate
+25:32
+of 8 000 per year you can see all of these species are still undescribed all of these species
+25:38
+that are going to stain we don't know the names for them so basically what we are
+25:44
+talking that we described on this paper is that many of these species are going to stain without us even knowing their
+25:49
+names without us even even giving them a name that's the ray of which where the
+25:55
+driving species to extinction today here are some examples used for you to
+26:00
+put faces to these numbers of the ray of extinction here we had the tasmanian tiger
+26:06
+this species was used to live in tasmania for four million years this is the area where it was restricted to
+26:12
+unfortunately humans go to that place and there was a conflict between then eating what we eat and in seriously 200
+26:19
+years we wipe out that species from the face of the planet this is the last thing you are left i
+26:25
+want you to look at that guy man this is the last guy of the tasmanian tiger he was kept in a zoo in tasmania there
+26:33
+and he he was kept in captivity and the animal died exactly on september 7 or
+26:38
+1936. a few years later six years earlier in 1930 the while the wild version of these
+26:46
+animals was hanging out somewhere in the field somebody took a gun and shoot the guy so imagine that we had the record of
+26:53
+exactly the last time that we killed the last individual that was in the wild 36 years later
+27:00
+this one guy died in the zoo and when these animals died the whole species
+27:05
+will sting what i want you to look is look at the desperation of that animal man can you imagine you being the last
+27:10
+individual left there is nobody that you can share the planet with you despite the fact that you had owned your right
+27:16
+to be on this planet like every other species and he was asked in just 200 years to wipe out that species
+27:22
+now what is super sad about this species is that the last individual as i
+27:28
+explained to you died in 1936 and in that year the government of
+27:34
+tasmania introduced law to protect the species can you imagine how
+27:39
+like this is like a joke you know the year in which the species goes sustained is when we all get
+27:45
+concerned to protect the species when it's already way too late so that species when it's
+27:50
+laws to protect that species were introduced the year when the last thing we will die
+Western Black Rhino
+27:57
+so here is another species this is a western black rhino it was used to live in africa for 50 million years this is
+28:03
+the part where it was used to live there were time records in which the populations were estimated to be in the
+28:08
+order of a hundred thousand individuals for some reason for some kind of sick reason
+28:15
+at least with the tasmanian tiger it was basically we were the animal was eating what we eat but in this case we just
+28:22
+somehow got an appetite for the horns of this animal that's sick and basically what happened is that in
+28:29
+just 40 years since since we created a trade value for
+28:34
+the homes of this animal the species went extinct and unfortunately we had an actual
+28:39
+scientific record of the time when when the last time that we saw it was in 2006
+28:46
+and it was the clearest thing in the world in 2011.
+Golden Toad
+28:51
+here is another guy that went to steam this is the golden toad though this animal was used to live in south america
+28:58
+for 60 million years can you imagine like being on a place for 65 million years until somebody come along and
+29:04
+destroy your habitat in this case the reason why this guy went to steam
+29:10
+was because of climate change it turns out that there were many
+29:15
+elevations high elevations where the frogs managed to survive from this fungi
+29:22
+that kills them and this fungi couldn't reach higher elevations because it was too cold but as climate change started
+29:28
+increasing the temperature of those higher elevations he expanded the geographical range of these fungi so
+29:34
+basically these stoves run out of space that they could escape the fungi and
+29:39
+eventually in just 30 years the species went again the last time that we saw this a golden
+29:47
+toad was in 1889 and finally we decided to declare the species of sting in 1982
+Caribbean Monk Seal
+29:55
+this is another one this is the caribbean monk seal this is another one that is very interesting so when
+30:00
+christopher columbus got to the caribbean they estimated that the total population of this species was 250 000 individuals
+30:08
+there were tons of these in the world christopher columbus when he gets to the caribbean he grabs his own in his
+30:13
+logbook that there are so many of these animals that they covered completely the beaches and sometimes you have to push
+30:19
+his animals away can you imagine going from that level of density to a species going completely extinct
+30:26
+in this case the reasons why we kill this animal was to feed on their on their meat but also
+30:31
+to use their their their fat to to to so that we can see at night can you imagine
+30:37
+eventually the the entire species was driven to extinction in just 300 years
+30:43
+since the time that it came in upon contact with people to the time that we drove that species to extinction it was
+30:49
+300 years the last time that somebody saw that species was in 1952 and again another
+30:56
+sarcasm i believe here was that people decided to start protecting the law in 1967
+31:02
+and it was declared in 1967 and the species was declared in 2009 i want you to realize these numbers
+31:08
+though this one is even sadder because the species was probably already extinct when we decided to
+31:14
+to create laws to protect the species so that's the tail here of the monsieur
+Species
+31:21
+but there are hundreds of those species this is species when it's in in 1981 here we had 1970 the caspian tiger 1970
+31:30
+here this guy 1989 this one here still in 2000 that one in 2003 ambassador this
+31:38
+one 2004 2008 2011 man i started getting the
+31:43
+goosebumps i have been giving this presentation for so many years and every time that i give this presentation i get
+31:48
+freaking good sponsors man just to realize the craziness of what we are doing to our planet this species in 2011
+31:55
+1941 1900s esteem in 1980 many of these species
+32:01
+that are going to stand even this one's called lucky that at least we took a photograph of them many species are going to stain and we don't even have a
+32:06
+photo nor a name for them 20 000 species could be easily going to stain every year because of what we do
+32:13
+to our planet now unfortunately
+32:19
+describing claiming extinction is very hard for a scientist saying that a
+32:24
+species is a sting is very hard the reason being that as the species start declining
+32:32
+the few individuals that are left become rare so it's possible in fact that with
+32:37
+the last time that we see individuals there might be some time after in which the individuals are against so rare we
+32:42
+don't see them and eventually it might take a while for the species to question from the time that we last in an example
+32:47
+is this guy here the johnson river dolphin it's a beautiful
+32:53
+mammal from the johnson river there's a pretty cool story about this guy and
+33:00
+in china but basically what happens was that the last time that we saw this dolphin was in 2002 yet in 2006
+33:09
+four years later somebody took a video recording of the river and something came out on the surface of the river
+33:15
+that seems to look like a dolphin because of that footage that doesn't necessarily confirm that the dolphin was
+33:22
+still there we failed to declare this species esteem and again even to this day there is
+33:28
+still controversy whether this animal is sustained or not and the reason why
+33:33
+a is controversial for a scientist to put an uh uh to put a date when the species
+33:39
+goes sustained is the fact that we might be wrong in the sense that again when the species decline they
+33:45
+became they become so rare that we don't see them so based on the fact that we
+33:50
+saw them last is not necessarily a good indication that the species is not there despite the fact that
+33:55
+it reflects a reality that the species might be at the brick of extinction
+When do we declare a species rare
+34:00
+so as a result one of the key questions in biogeography is when do we declare a species esteem that is something that
+34:06
+we're constantly struggling with so that people can better appreciate the significance of what we are doing
+34:12
+let me just give you an example on a paper that tried to address this question was a paper by andrew solo and
+34:18
+one of his students looking at the dodo this species was used to live in mauritius island in the indian ocean
+34:25
+the last time that somebody saw this species was in 1662
+34:30
+okay but as i explained what happens when the species is declining is the fact that
+34:36
+they don't become rare so it becomes harder to find them so you might necessarily
+34:41
+the species might still be there despite the fact that you might not see it so what they did they took all of the
+34:47
+sightings of the species up to 1662 and they created a distribution of the time
+34:52
+that it might take for the species to go esteem and basically what they managed to to
+34:57
+calculate was that this species probably wasn't in 1690 so again the last time that we saw it
+35:04
+was in 62 possibly when it's seen 30 years later so what they claim on this paper which
+35:10
+is in the journal nature is that in this case example it took about 30 years from
+35:15
+the time that we last saw a species to the time that it went stain and that again poses a huge
+35:22
+concern for many of the species that today had become so rare that we had no seed and possibly already a steam but in
+35:28
+scientists we got away and according to this paper we gotta wait 30 years for us to be able to finally claim that the
+35:33
+species question at which time it's already too late as we demonstrated with those case examples
+35:39
+so that is one of the concerns of us trying to to to highlight the significance of
+35:46
+the environmental crisis based on extinction is the fact that extinction is very hard to document scientifically
+Probability of Extinction
+35:54
+so rather than saying when a species question there are other metrics that
+36:00
+have been trying to highlight the significance of the all the status of some species one of that
+36:06
+is what is called the probability of extinction which is a paper by nick dolby and in this paper
+36:12
+basically they had a mathematical equation i don't really want us to go into the specifics of it but basically what you do is given the times when the
+36:19
+species has been recorded you can then calculate the probability that the species is
+36:24
+speciesist in this one example for instance of the of the surgeon here they estimated that
+36:30
+this species there is an 85 chance that the species is esteemed again you are interested in the equation it's pretty
+36:36
+straight forward to calculate here i don't want you to pay attention to it other than knowing that there is an alternative way that rather than us in a
+36:43
+species of sting we can rather say a probability that the species stings so when you say that it's a 95 percent
+36:48
+chance of that the species going to stay and that already kind of reveals the that that species is likely facing
+Time of Extinction
+36:56
+another metric is what we what is called the time of extinction this is done by a colleague of mine christine where basically we
+37:02
+published this paper together back in 2010 and some other professors that were qualities on this paper what we did in
+37:08
+this paper what christina did was to look at the declines of species that we
+37:13
+see today and extrapolate that decline to then calculate eventually when does the density of this species reach zero
+37:20
+and from today to the time that the density reached zero then you can calculate that time and you can come up
+37:25
+with an index that is called the time to extinction again another metric that highlights the significance of the
+37:31
+crisis for many species now another interesting question about
+Time of Recovery
+37:38
+geography when you look at the history of ortana is to identify how long it has taken the planet to recover from those
+37:44
+distinctions and there is a very interesting paper here by kerner and well in nature in 2002 so in this paper
+37:49
+they had two interesting plots one looking at the extension and as you see as we described earlier there
+37:56
+have been five mass extinction events one two three four and five but then the
+38:02
+other interesting plot of that paper is the ray of origination on new species obviously when a lot of species go
+38:07
+extinct and the conditions go back to normal there's a lot of space where species can originate and what they did
+38:14
+was to look at the patterns of origination and what they found was this very interesting pattern that for every
+38:19
+peak of extinction there is a peak of origination you can see the case here high extension high
+38:25
+origination high extension high origination high extension high origination so what that suggests is
+38:32
+that the planet heals of all these mass extinction events that have happened in the planet before the
+38:37
+planet has managed to heal and life comes back from this the interesting the
+38:43
+cash though is that it has taken 10 million years on average for the planet to recover from these mass extinction
+38:49
+events and that is another huge indication of how bad it is what we are doing to our planet today which is the
+38:55
+fact that it could take easily 10 million years for the planet to heal from what we are doing to it
+39:02
+i'm going to finish out this class by pointing out something that i find interesting about
+39:09
+what is to come once we start driving so many species a stent and there is this tail based on this tiny island easter
+39:16
+island in the middle of the lower pacific and what happens there is that 300
+39:21
+sometimes sometimes 300 to 1200 years
+39:26
+after jesus was born the polynations colonized that island right they got there
+39:33
+at the time that they get to this island yeah i can't you can imagine this right these guys get there in a in the canoes
+39:38
+get there and there is this beautiful island colonized with 20 21 species of
+39:44
+trees and multiple species of birds and they were the oceans there so
+39:50
+interestingly though for multiple reasons these people start
+39:55
+destroying their landscape okay no criticism there so if any of you is a pollination that
+40:00
+is from the place please don't take offense on this i'm just describing this example in which the people destroy
+40:07
+the biodiversity on those places again for multiple reasons one possibility is the fact that they use a lot of the
+40:13
+trees to build these huge structures that are left today it's possible maybe that they build this thing in a way to
+40:20
+pray to god to help them not to go esteem after they start seeing the end coming
+40:25
+but the matter of the fight was though that they cut down all of the trees and unfortunately they brought a lot of rats
+40:31
+with them and this combination of us cutting the trees and and us having
+40:36
+these pets that eat the seeds that were introduced by us as well led to basically a process in which the
+40:43
+populations that were there were being disappearing faster than they were able to replenish so imagine this thing we
+40:49
+were hitting this species these populations on both ends on one end we
+40:54
+were killing the adults cutting down the trees and on the other end we introduced these rats that were eating the seeds so
+41:00
+these trees and this biodiversity on this island just had no choice
+41:06
+as a result many of these species on that island were stained now what is
+41:11
+interesting is when you look at the number of people on that island the number of people got to be all the
+41:17
+way up to 10 000 people and then it just collapsed super fast right so what it happened
+41:24
+there you this is a very interesting documentary on this in national geographic when they ran out of
+41:30
+a species on land they could they didn't have a wood to build boats so all these fish
+41:37
+that were there they couldn't catch they couldn't go and get them so basically no good no boats no fishing there was no
+41:42
+escape those people could trap on this island ten thousand of them so basically a game that ran out of food and
+41:48
+internationally it ended up eating each other there so there is record of cannibalism happening on this
+41:54
+island again just for you to highlight the significance of what it is as destroying the capacity of the land to
+42:00
+produce basic things like foods exactly what we are doing today but a much larger scale just like a tiny version
+42:09
+again of what we are doing to our planet i just want to finish up the class by saying that extinction is in seriously
+42:17
+>>>>>>> 13f4ffe9d2e9a16535f71e86959748a90295fbdb
+seriously forever and that's the end of this episode and see you next class

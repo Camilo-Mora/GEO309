@@ -1,0 +1,2604 @@
+<<<<<<< HEAD
+
+0:03
+all right so now we're going to be
+0:05
+moving to understanding the processes of
+0:08
+species richness so let me just
+0:09
+summarize
+0:10
+everything up to this moment we have
+0:12
+described that there are very unique
+0:13
+characteristics that make life possible
+0:15
+on this planet once those
+0:17
+characteristics allow for life to exist
+0:20
+life kind of
+0:22
+diversified quite dramatically
+0:24
+there have been moments in the history
+0:26
+of our planet where there have been mass
+0:27
+extinction events
+0:29
+today we are not in such a thing but
+0:31
+we're in our way there but along this
+0:33
+process of species originating and going
+0:35
+extinct they reach places
+0:39
+and normally the places where they are
+0:42
+where the similarity
+0:43
+is very high in specific region is what
+0:45
+is called by geographical region and
+0:47
+those are normally defined by boundaries
+0:49
+on the distribution of a species and
+0:52
+those boundaries where the species are
+0:54
+found is what is called the geographical
+0:56
+range and it's the overlap of those
+0:58
+geographical ranges that allow you then
+1:00
+to come home any species that are not
+1:01
+given place that then leaves you to the
+1:03
+pattern of species richness
+1:05
+in the last class we look at how those
+1:08
+patterns look like from the global scale
+1:10
+thinking that there could be 8.7 million
+1:12
+species but only 1.5 million had a name
+1:14
+to where are those species in the world
+1:16
+most of the evidence points to the fact
+1:18
+that most of the species are likely
+1:19
+found in the tropics although the
+1:21
+pattern is general is not universal
+1:24
+meaning that there are some exceptions
+1:25
+to that and there are still limitations
+1:28
+though in the data on how those global
+1:29
+patterns are built and we described
+1:31
+those limitations in the last class
+1:32
+today we are moving to explaining those
+1:35
+processes again we assume that
+1:36
+everything is correct what are the
+1:38
+processes that have been suggested to
+1:39
+explain why most of the species are in
+1:41
+certain places
+1:45
+so
+1:45
+again if we assume that everything is
+1:47
+correct which we know is not but we
+1:49
+gotta
+1:50
+keep moving given the data that we had
+1:52
+the general idea or conclusion is that
+1:55
+there is a generality to the panel of
+1:56
+special reasons
+1:58
+the species the parent special richness
+2:01
+which is for the number of species to
+2:02
+pick in the tropics here is an example
+2:05
+that we did for fish but as we leak
+2:08
+point out his paper that pattern of a
+2:10
+negative relationship between latitude
+2:12
+increasing and the number of species
+2:14
+declining is found on many taxonomic
+2:17
+groups that we know of and again what is
+2:19
+general is not universal but is
+2:21
+relatively well understood that that's
+2:22
+the way that the pattern in special
+2:24
+relationships looks like most of the
+2:25
+species being in the tropics
+2:28
+and lower at higher latitudes here is
+2:30
+the pattern in two dimensions this is a
+2:34
+mammals this is the diversity of mammals
+2:36
+and you can see that the diversity of
+2:38
+mammals again just like any other
+2:40
+attacks or moreso attacks is higher at
+2:42
+the
+2:42
+tropics and it declines towards higher
+2:44
+latitudes but today we're going to be
+2:46
+talking about the patterns
+2:48
+the processes to this pattern what is
+2:50
+driving this pattern when it goes down
+2:52
+to the process to explain the pattern
+2:55
+there is a very good paper by willie
+2:57
+that talk all of the individual papers
+2:58
+that have put on explanation and he came
+3:00
+out with this massive table of all the
+3:03
+explanations for this pattern and in
+3:05
+that paper
+3:06
+he documented that there could be up to
+3:08
+32 different explanations for this
+3:10
+pattern
+3:12
+so obviously the number of explanations
+3:14
+kind of exemplifies the diversity of
+3:16
+human thinking but it creates a huge
+3:18
+problem for really understanding why
+3:20
+biodiversity is the way it is
+3:22
+let's look at
+3:24
+the challenges that having so many
+3:27
+hypotheses creates the first challenge
+3:29
+is this issue of multiculinarity as i
+3:31
+point out to you earlier
+3:32
+multicollinearity is basically when you
+3:34
+have two predictors that for some reason
+3:36
+are related to each other like for
+3:38
+instance it could be precipitation and
+3:41
+moisture
+3:42
+but then you had a dependent bible could
+3:44
+be a specie richness when you try to
+3:46
+explain how much variance predictor one
+3:48
+explains of that
+3:50
+independent variable you find that
+3:52
+predictor one is gonna explain some
+3:53
+variance that has to be explained also
+3:56
+by predictor two given the fact that
+3:57
+predictor one and predictor to relate to
+3:59
+each other this area of overlap
+4:02
+when the variance of one predictor can
+4:04
+also be explained by another predictor
+4:05
+given that those two predictors are
+4:06
+related is what is called
+4:07
+multicollinearity
+4:10
+now
+4:11
+how significant is multicollinearity
+4:13
+this is a paper that we published back
+4:14
+in the day where we tried to identify
+4:16
+the significance of this issue of
+4:18
+multiculinarity here we had
+4:20
+different hypotheses that would for
+4:22
+instance be used to explain the
+4:24
+diversity of fish in the oceans we had
+4:26
+temperatures salinity variability and
+4:28
+temperature productivity again these are
+4:30
+biological they relate to environment
+4:32
+and the reasoning there is that
+4:33
+environment is an important factor
+4:34
+determining how many species get to be
+4:36
+on a given place we also have
+4:38
+physiographic factors like the number of
+4:40
+islands and the coastline length we have
+4:42
+biogenic factors like the amount of
+4:44
+coral reefs that provides strata for
+4:46
+fish we had anthropogenic factors as
+4:48
+well thinking that maybe humans kind of
+4:50
+increase or decrease the number of
+4:51
+richness and there are other patterns
+4:53
+and new models so back here
+4:55
+we try to to provide a set of
+4:57
+explanations that have been proposed for
+5:00
+the panel of special reasons and we
+5:02
+tested these explanations on the fishes
+5:04
+of the eastern pacific because we had a
+5:06
+very good database very complete ross
+5:07
+robertson he's not young anymore but
+5:10
+throughout his life what he did he
+5:12
+traveled all of the insta-pacific
+5:13
+counting how many species are there so
+5:15
+it's one of the one of those regions in
+5:16
+the world that thanks to him we know
+5:19
+very well how many species are on
+5:21
+different places so we make use of that
+5:22
+beautiful database that he put together
+5:24
+to test all of these hypotheses so what
+5:26
+we plan what we found was this when you
+5:28
+look at the effect of temperature
+5:30
+temperature explains 81 of the variants
+5:33
+on a special region of fish a
+5:35
+variability explains 21 the number of
+5:37
+islands explains four percent the area
+5:39
+of coral reefs explain 15 percent the
+5:41
+area of coastal development 25 percent
+5:44
+the wrap-up for effect 64 percent the
+5:46
+middle of a fed 90
+5:48
+if you were to add up all of the
+5:49
+variance that is explained by these
+5:51
+variables you find that combined they
+5:53
+explain 359 percent of the variance but
+5:56
+you only have 100 of the variance that
+5:58
+you can realistically explain that then
+6:00
+tells you the degree of overestimation
+6:03
+that is being caused by the
+6:05
+multicollinearity between these bibles
+6:07
+and again
+6:10
+consequence of this then is that we can
+6:12
+just not really tell
+6:14
+who am on all of these bibles are really
+6:16
+the ones that are driving the species
+6:18
+racism and all of that again is because
+6:20
+there is a huge diversity of bibles that
+6:22
+unfortunately are multicollinear to each
+6:23
+other
+6:25
+now even in cases where we seem to know
+6:29
+only a unique variable
+6:30
+related to a species richness how that
+6:33
+bible influences
+6:35
+the pattern is something that is still
+6:37
+unclear that's what is called the
+6:38
+mechanism let me just give you an
+6:39
+example here here there is a diversity
+6:42
+of diversity of everything that is in
+6:45
+the ocean in the indian and pacific
+6:46
+ocean one of the things that you find
+6:48
+in these two oceans is that there is an
+6:50
+incredible diversity of species in this
+6:52
+region called the ipr in the pacific
+6:55
+region and
+6:57
+the question is okay we already know
+6:59
+that there is a high diversity of
+7:00
+species there why so there are three
+7:02
+contrasting hypotheses to explain this
+7:05
+one is what is called the center of
+7:06
+origination when you look at the number
+7:08
+of islands on this place there are
+7:10
+thousands of islands located here so
+7:12
+these islands are actually places where
+7:14
+species can
+7:15
+originate there because they get to be
+7:17
+isolated so the idea of the origination
+7:20
+is that the reason why you see gradients
+7:22
+of species reactions is because a lot of
+7:23
+species originate there and they move
+7:25
+towards higher towards towards in more
+7:28
+remote places and then that creates a
+7:29
+gradient from a lot of species here
+7:31
+towards fewer species on the very ferry
+7:35
+the other mechanism is what is called
+7:37
+the center of overlap this idea suggests
+7:39
+that there are very clear
+7:40
+biogeographical regions on all of these
+7:42
+two oceans and it's the overlap of those
+7:45
+regions in that region of the ipr that
+7:47
+leads to a lot of species
+7:50
+being found on this region it's nothing
+7:51
+special about the region or the fact
+7:53
+that that's the place where most of the
+7:55
+biodiversity of other regions overlap
+7:57
+and that will then lead you to having a
+7:59
+lot of species there
+8:00
+the mechanism
+8:03
+again is that again i'm just
+8:05
+simplifying this case origination is
+8:07
+happening everywhere and it's just the
+8:08
+the movement of species towards that
+8:10
+place in the ipr that leads to having a
+8:13
+lot of species in the ipr
+8:14
+the other idea is what is called the
+8:16
+center of accumulation this idea
+8:18
+suggests that these red points here
+8:20
+indicate areas where species are
+8:22
+originating and they are originating all
+8:24
+around the indian and pacific ocean but
+8:26
+when you look at the currents of this
+8:28
+region you find that in this region the
+8:31
+in the pacific side the currents
+8:32
+normally flow towards the ipr and in the
+8:35
+indian ocean the currents normally flow
+8:37
+towards the ipr as well so it's
+8:39
+basically this convergence of currents
+8:43
+in in this region that then leads to the
+8:45
+species
+8:46
+that were originated on those places
+8:48
+converging in the
+8:50
+indo-pacific and this is what is called
+8:51
+the center of accumulation so here is an
+8:54
+example where you have three contrasting
+8:56
+mechanisms to explain a pattern of why
+8:58
+there are so many species in the ipr
+9:02
+let me give you another example
+9:04
+i want you to think about this
+9:05
+relationship
+9:06
+relationship here between biodiversity
+9:08
+and the number of people i don't want to
+9:10
+show you this just yet i want you to
+9:12
+pass this video and think about how this
+9:14
+correlation is we have already talked
+9:15
+about
+9:17
+people normally being no good for the
+9:18
+biodiversity with that being said then
+9:20
+how would you expect to be the
+9:22
+correlation between the number of
+9:23
+species and the number of people pause
+9:25
+this video and let's get back at the end
+9:27
+of your break
+9:29
+so i hope that you will have say given
+9:31
+that that we know that people is not
+9:33
+good for biodiversity that you willing
+9:36
+you will find that the biodiversity
+9:39
+declines as the number of people
+9:40
+increases i hope that you guys kind of
+9:42
+reasoning there that if you didn't know
+9:45
+the the data beforehand and again
+9:48
+because it makes sense right that it has
+9:50
+negative impacts on biodiversity as we
+9:52
+increase the number of people
+9:53
+biodiversity declines
+9:56
+again just for you to to realize that in
+9:58
+a science everything is to be tested and
+10:00
+proof
+10:01
+when scientists went and tested the
+10:02
+hypotheses what they found was that it
+10:04
+was kind of the opposite as you increase
+10:07
+the number of people to increase the
+10:08
+number of species isn't that remarkable
+10:10
+this is a paper that was published by
+10:12
+banford and another one by araujo they
+10:14
+analyzed this pattern on the
+10:16
+relationship between richness and
+10:18
+biodiversity in europe and in africa and
+10:20
+they analyze it for plants birds mammals
+10:22
+snakes and amphibians and everywhere
+10:24
+they look there was a positive
+10:25
+relationship here so the more people
+10:28
+there is the more species they are again
+10:30
+that was kind of contrasting given what
+10:32
+we thought humans do to people so that
+10:34
+obviously then creates an interesting
+10:36
+question which is why
+10:38
+why we know that people is negative have
+10:41
+mostly negative effects on biodiversity
+10:43
+why is it that there are more species
+10:44
+where there are more people
+10:46
+so there are multiple explanations for
+10:48
+this and there is a professor called
+10:50
+kevin gaston from the uk i had a couple
+10:53
+papers that have published within super
+10:54
+nice guy to work with and he's like like
+10:57
+a like a like a
+10:59
+rock star in science especially on
+11:01
+biogeography he has a very nice paper
+11:03
+when he analyzed the likely explanations
+11:05
+for this pattern
+11:08
+the first one is the fact that he
+11:10
+speculates that maybe people and
+11:13
+richness respond the same
+11:15
+to to the environment just like at some
+11:17
+kind some case of multicollinearity
+11:19
+where species regions for instance
+11:21
+relate positively with temperature and
+11:23
+so are we so that that further the
+11:26
+species richness and us correlate with
+11:27
+the environment then
+11:29
+forces to be correlated with racism but
+11:31
+it's not that we are impacting racism so
+11:33
+that's one of the hypotheses
+11:36
+the other explanation that is proposed
+11:38
+has been proposed is that by us
+11:41
+introducing new species and species that
+11:44
+are there being impacted and having a
+11:46
+hard time to go esteem
+11:48
+then what that does is that we actually
+11:49
+work as a way to increase the number of
+11:51
+species so that basically humans are
+11:53
+creating a net gain of a species in
+11:55
+certain places
+11:58
+the other hypothesis is what is called
+12:00
+the climate stability hypothesis
+12:02
+basically what suggests here is that
+12:04
+this similarity that we see today is a
+12:06
+legacy of plasma glaciation so back in
+12:08
+the day when there were placiations
+12:10
+obviously everything from species to
+12:12
+humans were restricted mostly to a few
+12:14
+places of pockets where the number of
+12:17
+species and people were very high
+12:19
+as the glaciation went away the the
+12:22
+diversity of species and people start
+12:24
+spraying from those places and that then
+12:26
+forces the number of species to
+12:28
+correlate with people again not know
+12:30
+that we pan biodiversity but rather than
+12:32
+the two of us come from the same places
+12:36
+the final explanation is what is called
+12:38
+the disturbance meat disturbance
+12:40
+hypothesis so the idea here is that when
+12:43
+humans by us having negative impact on
+12:45
+biodiversity what we can do is to knock
+12:47
+out a species that become dominant and
+12:51
+by us knocking down species that become
+12:53
+nominated we allow a species that are
+12:55
+weak to prosper in those places so the
+12:58
+idea here is that when we humans go and
+13:00
+we start disturbing disturbing
+13:01
+ecosystems we allow some kind of
+13:03
+coexistence between species that be that
+13:05
+would be very competitive and in the
+13:07
+species where they're they're to be left
+13:09
+alone the species that is dominant will
+13:11
+go esteem and the species that is sorry
+13:12
+will be the species that is dominant
+13:14
+will go to to dominate and the one that
+13:16
+is weak will go to extinct but by us
+13:18
+being on those places we kind of knock
+13:20
+out the species are dominant allowing
+13:21
+those two species to coexist so those
+13:23
+are the four different hypotheses that
+13:26
+have been suggested to explain this
+13:27
+correlation and again i'm using this as
+13:29
+evidence to suggest that what we might
+13:31
+find at times very strong relationships
+13:34
+between the pattern and a variable that
+13:36
+doesn't mean that we know very well how
+13:39
+is it that the variable leads to that
+13:41
+pattern
+13:42
+here is another example again where the
+13:44
+mechanism is not very well known which
+13:46
+is the relationship between
+13:48
+the number of species and temperature
+13:50
+obviously
+13:51
+we get certain amount of energy the
+13:54
+blast or planet and that energy is going
+13:55
+to be more abundant in tropical areas
+13:57
+and that amount of energy is going to be
+13:59
+fewer at the north and south pole and
+14:01
+the distribution of energy on our planet
+14:04
+them is speculated to influence not only
+14:06
+temperature but then as a result the
+14:08
+number of species
+14:10
+and indeed many papers had documented
+14:13
+this relationship this is a paper by my
+14:15
+friend titansaur from the house
+14:17
+university in this paper he correlated
+14:20
+the number of species in the planet
+14:21
+against temperature in the oceans and
+14:23
+you can see that there is always a
+14:24
+positive correlation no matter how you
+14:26
+cut the data right so
+14:29
+almost always
+14:30
+every time that there is an increase in
+14:31
+temperature places that are hotter
+14:33
+normally have more species so that's
+14:36
+again a pattern that is highly related
+14:39
+to a variable but then what is the
+14:40
+mechanism
+14:42
+there is a paper by corey in ecology
+14:44
+letters when he goes through houses that
+14:46
+this temperature can make
+14:48
+species be more abundant
+14:51
+right
+14:51
+abundant i mean in terms of number of
+14:53
+species there so he suggested three
+14:56
+explanations for it the first one is
+14:58
+what is called the more individual
+15:00
+hypothesis so temperature by it being
+15:03
+related to a larger amount of energy
+15:05
+that comes directly from the sun then
+15:06
+allows to have more individuals and
+15:08
+obviously they are more individual there
+15:09
+could be potentially more chances for
+15:11
+reproduction that then lead to having
+15:13
+you more species
+15:16
+the other one is what is called the
+15:17
+physiological tolerance hypothesis this
+15:19
+hypothesis suggests that what happens is
+15:21
+that
+15:23
+generating the evolutionary capacity to
+15:25
+live on cold places is very hard while
+15:28
+it's relatively easy for most species to
+15:29
+be able to tolerate warm temperatures
+15:32
+surviving colder temperatures is a
+15:34
+physiological adaptation that is very
+15:36
+rare so this the similarity in the
+15:38
+capacities of a species to cope with
+15:40
+temperature
+15:41
+allows a lot of species to be found in
+15:43
+the tropics where most species can
+15:44
+survive and very few species can survive
+15:47
+at high latitudes again issues because
+15:49
+they lack the capacity the physiological
+15:51
+capacity to tolerate those colder
+15:53
+temperatures that's against what is
+15:54
+called the physiological tolerance
+15:56
+hypothesis which is that most of the
+15:59
+species canceled by warm but not cold
+16:01
+conditions
+16:03
+the other explanation for the
+16:05
+relationship between richness and
+16:07
+temperature is what is called the
+16:08
+speciation rate hypothesis and what it
+16:10
+suggests here is that when you increase
+16:13
+temperature there is normally a
+16:16
+faster evolutionary rate for some reason
+16:18
+a lot of species like to have sex when
+16:20
+it gets hot and that increases the
+16:22
+chances of introducing mutations that
+16:24
+then turn into more species and that has
+16:26
+been tested on multiple
+16:29
+species and like insects mostly where
+16:31
+you can just crack up the temperature a
+16:33
+little bit and see how those species
+16:35
+reproduce you they have found the same
+16:37
+similar things in bacteria as well again
+16:39
+case examples where any time that you
+16:41
+increase in the temperature you increase
+16:44
+reproduction and as a result you
+16:45
+increase the chances of introducing
+16:46
+mutations that will then turn into
+16:48
+different species and again here is
+16:50
+another example where there is a very
+16:52
+clear relationship between apparent
+16:54
+which is the number the number of
+16:55
+species available which is temperature
+16:58
+but we have very unclear about how you
+17:00
+see the temperature causes the richness
+17:05
+so that finishes the lecture today the
+17:07
+class
+17:08
+on as it relates to patterns and
+17:11
+processes i want to finish up this class
+17:13
+though by talking about the significance
+17:15
+of us it better identifying this pattern
+17:17
+of special richness for the purpose of
+17:19
+conservation so there are at least two
+17:21
+or three different uh important aspects
+17:24
+of us knowing these patterns of species
+17:26
+risk the first one is that it allows you
+17:28
+to identify areas that need to be
+17:30
+protected those those are what are
+17:31
+called hot spots hotspots are places in
+17:34
+the world
+17:35
+that have the high diversity of species
+17:38
+right and those it turns out that those
+17:40
+places are not very abundant and then
+17:42
+the idea here is that you can use the
+17:44
+pattern of species richness to then
+17:46
+outline the boundaries of those hot
+17:48
+spots for them to be protected there are
+17:50
+two efforts that have been done to do
+17:52
+this one is the paper by myers that
+17:54
+analyzed biodiversity hospitals on land
+17:57
+and you can see them here in red those
+17:59
+are the places with the highest
+18:00
+diversity of species anywhere in the
+18:02
+world and these are the species owned in
+18:05
+the ocean this is a paper by calvin
+18:06
+roberts and he outlined the biodiversity
+18:09
+hotspots in the oceans so again that's
+18:12
+one attribute that is very important
+18:14
+about us knowing the parents in species
+18:16
+regions better which is to identify
+18:18
+these boundaries where the species are
+18:20
+found
+18:22
+the other important attributes of a
+18:23
+species richness for conservation is
+18:25
+that they allow us to identify what are
+18:27
+the risks for biodiversity so here's an
+18:29
+example for instance of a paper by
+18:32
+cincota
+18:34
+in which he analyzed
+18:35
+the hospitals of biodiversity against
+18:37
+the number of people and he correlated
+18:39
+those two things and what he
+18:41
+demonstrated here is that most of the
+18:43
+people in the world are actually living
+18:45
+on those hot spots again most likely
+18:47
+because of their fact that biodiversity
+18:49
+relates with the number of people as a
+18:51
+result where there is the most diversity
+18:53
+in the world is where you have the most
+18:54
+people and he documented that on this
+18:56
+figure here
+18:57
+so in this figure are every one of the
+19:00
+25 hotspots in the world that have been
+19:03
+identified before by myers again those
+19:05
+are the places with the highest
+19:06
+diversity of species in the world those
+19:08
+are the places that you think need to be
+19:10
+protected need to be removed from any
+19:11
+human stressor but when you look at the
+19:13
+number of people on those hotspots what
+19:15
+you find
+19:16
+is that
+19:17
+on average the global average density of
+19:20
+people is 42 but inside those hotspots
+19:22
+the average density of people is 73
+19:24
+people so you have almost twice the
+19:26
+number of people living on those hot
+19:28
+spots so you can imagine if we know that
+19:30
+humans have different consequences are
+19:31
+normally negative to the species that
+19:34
+live on those places but we are talking
+19:36
+based on these analysis of us knowing
+19:37
+where the species are is that we can
+19:39
+show that the human impulse could be
+19:41
+potentially double
+19:43
+the impacts on those places where the
+19:45
+highest diversity and again that's one
+19:46
+of the important attributes of us better
+19:48
+knowing these patterns of species
+19:50
+richness here's another example that was
+19:53
+done by director on his paper in nature
+19:55
+where he analyzed the same deal but on
+19:57
+the oceans and here you can see the
+19:59
+diversity of all taxa in the world and
+20:02
+in black are those polygons that had the
+20:04
+highest diversity of species he
+20:06
+correlated that against the human
+20:08
+footprint in the ocean which is again a
+20:09
+cumulative index of the magnitude of
+20:12
+different impacts that happen on every
+20:14
+single pixel in the world and what he
+20:16
+managed to show on this paper is that
+20:18
+almost all of the pixels in the world
+20:21
+are under areas that have high human
+20:24
+impacts and again it's another
+20:26
+interesting
+20:28
+benefit of us but in knowing these
+20:30
+better these patterns of a special
+20:31
+reason which is not only to know what
+20:33
+areas need to be protected by what areas
+20:35
+are at most risk of human of humans let
+20:38
+me summarize the two lectures as they
+20:40
+relate to species richness
+20:42
+so we don't know really how many species
+20:44
+are there in the world but what we know
+20:46
+is that they are about 1.5 million
+20:48
+species that have a name and there could
+20:49
+be easily up to 8.7 million species
+20:52
+where are those species in the world
+20:54
+well the reality is that we don't know
+20:56
+very well we have problems on the way
+20:58
+the data is standardized some patterns
+21:00
+can be overestimated depending on where
+21:02
+we use geographical ranges or there
+21:05
+could be a lack of considerable data to
+21:07
+build patterns based on census data and
+21:10
+that unfortunately
+21:12
+leads to a
+21:14
+patterns that are weak and
+21:17
+not only the parents are not reliable
+21:19
+100
+21:20
+what are the processes to those parents
+21:22
+is also something that we know we don't
+21:24
+know very well
+21:26
+and again as i explained to you there
+21:27
+could be multiple statistical issues as
+21:30
+they relate to multicollinearity and the
+21:31
+fact that we had tons of bibles that
+21:33
+would explain these patterns
+21:35
+and again not only though we don't know
+21:37
+very well the parents the processes are
+21:39
+not very well known and unfortunately
+21:41
+that's very sad because unfortunately
+21:43
+this information about the patterns and
+21:46
+processes of biodiversity are
+21:47
+fundamental if we want to better protect
+21:49
+those species and that finishes the
+21:51
+class for today for this episode see you
+21:53
+=======
+
+0:03
+all right so now we're going to be
+0:05
+moving to understanding the processes of
+0:08
+species richness so let me just
+0:09
+summarize
+0:10
+everything up to this moment we have
+0:12
+described that there are very unique
+0:13
+characteristics that make life possible
+0:15
+on this planet once those
+0:17
+characteristics allow for life to exist
+0:20
+life kind of
+0:22
+diversified quite dramatically
+0:24
+there have been moments in the history
+0:26
+of our planet where there have been mass
+0:27
+extinction events
+0:29
+today we are not in such a thing but
+0:31
+we're in our way there but along this
+0:33
+process of species originating and going
+0:35
+extinct they reach places
+0:39
+and normally the places where they are
+0:42
+where the similarity
+0:43
+is very high in specific region is what
+0:45
+is called by geographical region and
+0:47
+those are normally defined by boundaries
+0:49
+on the distribution of a species and
+0:52
+those boundaries where the species are
+0:54
+found is what is called the geographical
+0:56
+range and it's the overlap of those
+0:58
+geographical ranges that allow you then
+1:00
+to come home any species that are not
+1:01
+given place that then leaves you to the
+1:03
+pattern of species richness
+1:05
+in the last class we look at how those
+1:08
+patterns look like from the global scale
+1:10
+thinking that there could be 8.7 million
+1:12
+species but only 1.5 million had a name
+1:14
+to where are those species in the world
+1:16
+most of the evidence points to the fact
+1:18
+that most of the species are likely
+1:19
+found in the tropics although the
+1:21
+pattern is general is not universal
+1:24
+meaning that there are some exceptions
+1:25
+to that and there are still limitations
+1:28
+though in the data on how those global
+1:29
+patterns are built and we described
+1:31
+those limitations in the last class
+1:32
+today we are moving to explaining those
+1:35
+processes again we assume that
+1:36
+everything is correct what are the
+1:38
+processes that have been suggested to
+1:39
+explain why most of the species are in
+1:41
+certain places
+1:45
+so
+1:45
+again if we assume that everything is
+1:47
+correct which we know is not but we
+1:49
+gotta
+1:50
+keep moving given the data that we had
+1:52
+the general idea or conclusion is that
+1:55
+there is a generality to the panel of
+1:56
+special reasons
+1:58
+the species the parent special richness
+2:01
+which is for the number of species to
+2:02
+pick in the tropics here is an example
+2:05
+that we did for fish but as we leak
+2:08
+point out his paper that pattern of a
+2:10
+negative relationship between latitude
+2:12
+increasing and the number of species
+2:14
+declining is found on many taxonomic
+2:17
+groups that we know of and again what is
+2:19
+general is not universal but is
+2:21
+relatively well understood that that's
+2:22
+the way that the pattern in special
+2:24
+relationships looks like most of the
+2:25
+species being in the tropics
+2:28
+and lower at higher latitudes here is
+2:30
+the pattern in two dimensions this is a
+2:34
+mammals this is the diversity of mammals
+2:36
+and you can see that the diversity of
+2:38
+mammals again just like any other
+2:40
+attacks or moreso attacks is higher at
+2:42
+the
+2:42
+tropics and it declines towards higher
+2:44
+latitudes but today we're going to be
+2:46
+talking about the patterns
+2:48
+the processes to this pattern what is
+2:50
+driving this pattern when it goes down
+2:52
+to the process to explain the pattern
+2:55
+there is a very good paper by willie
+2:57
+that talk all of the individual papers
+2:58
+that have put on explanation and he came
+3:00
+out with this massive table of all the
+3:03
+explanations for this pattern and in
+3:05
+that paper
+3:06
+he documented that there could be up to
+3:08
+32 different explanations for this
+3:10
+pattern
+3:12
+so obviously the number of explanations
+3:14
+kind of exemplifies the diversity of
+3:16
+human thinking but it creates a huge
+3:18
+problem for really understanding why
+3:20
+biodiversity is the way it is
+3:22
+let's look at
+3:24
+the challenges that having so many
+3:27
+hypotheses creates the first challenge
+3:29
+is this issue of multiculinarity as i
+3:31
+point out to you earlier
+3:32
+multicollinearity is basically when you
+3:34
+have two predictors that for some reason
+3:36
+are related to each other like for
+3:38
+instance it could be precipitation and
+3:41
+moisture
+3:42
+but then you had a dependent bible could
+3:44
+be a specie richness when you try to
+3:46
+explain how much variance predictor one
+3:48
+explains of that
+3:50
+independent variable you find that
+3:52
+predictor one is gonna explain some
+3:53
+variance that has to be explained also
+3:56
+by predictor two given the fact that
+3:57
+predictor one and predictor to relate to
+3:59
+each other this area of overlap
+4:02
+when the variance of one predictor can
+4:04
+also be explained by another predictor
+4:05
+given that those two predictors are
+4:06
+related is what is called
+4:07
+multicollinearity
+4:10
+now
+4:11
+how significant is multicollinearity
+4:13
+this is a paper that we published back
+4:14
+in the day where we tried to identify
+4:16
+the significance of this issue of
+4:18
+multiculinarity here we had
+4:20
+different hypotheses that would for
+4:22
+instance be used to explain the
+4:24
+diversity of fish in the oceans we had
+4:26
+temperatures salinity variability and
+4:28
+temperature productivity again these are
+4:30
+biological they relate to environment
+4:32
+and the reasoning there is that
+4:33
+environment is an important factor
+4:34
+determining how many species get to be
+4:36
+on a given place we also have
+4:38
+physiographic factors like the number of
+4:40
+islands and the coastline length we have
+4:42
+biogenic factors like the amount of
+4:44
+coral reefs that provides strata for
+4:46
+fish we had anthropogenic factors as
+4:48
+well thinking that maybe humans kind of
+4:50
+increase or decrease the number of
+4:51
+richness and there are other patterns
+4:53
+and new models so back here
+4:55
+we try to to provide a set of
+4:57
+explanations that have been proposed for
+5:00
+the panel of special reasons and we
+5:02
+tested these explanations on the fishes
+5:04
+of the eastern pacific because we had a
+5:06
+very good database very complete ross
+5:07
+robertson he's not young anymore but
+5:10
+throughout his life what he did he
+5:12
+traveled all of the insta-pacific
+5:13
+counting how many species are there so
+5:15
+it's one of the one of those regions in
+5:16
+the world that thanks to him we know
+5:19
+very well how many species are on
+5:21
+different places so we make use of that
+5:22
+beautiful database that he put together
+5:24
+to test all of these hypotheses so what
+5:26
+we plan what we found was this when you
+5:28
+look at the effect of temperature
+5:30
+temperature explains 81 of the variants
+5:33
+on a special region of fish a
+5:35
+variability explains 21 the number of
+5:37
+islands explains four percent the area
+5:39
+of coral reefs explain 15 percent the
+5:41
+area of coastal development 25 percent
+5:44
+the wrap-up for effect 64 percent the
+5:46
+middle of a fed 90
+5:48
+if you were to add up all of the
+5:49
+variance that is explained by these
+5:51
+variables you find that combined they
+5:53
+explain 359 percent of the variance but
+5:56
+you only have 100 of the variance that
+5:58
+you can realistically explain that then
+6:00
+tells you the degree of overestimation
+6:03
+that is being caused by the
+6:05
+multicollinearity between these bibles
+6:07
+and again
+6:10
+consequence of this then is that we can
+6:12
+just not really tell
+6:14
+who am on all of these bibles are really
+6:16
+the ones that are driving the species
+6:18
+racism and all of that again is because
+6:20
+there is a huge diversity of bibles that
+6:22
+unfortunately are multicollinear to each
+6:23
+other
+6:25
+now even in cases where we seem to know
+6:29
+only a unique variable
+6:30
+related to a species richness how that
+6:33
+bible influences
+6:35
+the pattern is something that is still
+6:37
+unclear that's what is called the
+6:38
+mechanism let me just give you an
+6:39
+example here here there is a diversity
+6:42
+of diversity of everything that is in
+6:45
+the ocean in the indian and pacific
+6:46
+ocean one of the things that you find
+6:48
+in these two oceans is that there is an
+6:50
+incredible diversity of species in this
+6:52
+region called the ipr in the pacific
+6:55
+region and
+6:57
+the question is okay we already know
+6:59
+that there is a high diversity of
+7:00
+species there why so there are three
+7:02
+contrasting hypotheses to explain this
+7:05
+one is what is called the center of
+7:06
+origination when you look at the number
+7:08
+of islands on this place there are
+7:10
+thousands of islands located here so
+7:12
+these islands are actually places where
+7:14
+species can
+7:15
+originate there because they get to be
+7:17
+isolated so the idea of the origination
+7:20
+is that the reason why you see gradients
+7:22
+of species reactions is because a lot of
+7:23
+species originate there and they move
+7:25
+towards higher towards towards in more
+7:28
+remote places and then that creates a
+7:29
+gradient from a lot of species here
+7:31
+towards fewer species on the very ferry
+7:35
+the other mechanism is what is called
+7:37
+the center of overlap this idea suggests
+7:39
+that there are very clear
+7:40
+biogeographical regions on all of these
+7:42
+two oceans and it's the overlap of those
+7:45
+regions in that region of the ipr that
+7:47
+leads to a lot of species
+7:50
+being found on this region it's nothing
+7:51
+special about the region or the fact
+7:53
+that that's the place where most of the
+7:55
+biodiversity of other regions overlap
+7:57
+and that will then lead you to having a
+7:59
+lot of species there
+8:00
+the mechanism
+8:03
+again is that again i'm just
+8:05
+simplifying this case origination is
+8:07
+happening everywhere and it's just the
+8:08
+the movement of species towards that
+8:10
+place in the ipr that leads to having a
+8:13
+lot of species in the ipr
+8:14
+the other idea is what is called the
+8:16
+center of accumulation this idea
+8:18
+suggests that these red points here
+8:20
+indicate areas where species are
+8:22
+originating and they are originating all
+8:24
+around the indian and pacific ocean but
+8:26
+when you look at the currents of this
+8:28
+region you find that in this region the
+8:31
+in the pacific side the currents
+8:32
+normally flow towards the ipr and in the
+8:35
+indian ocean the currents normally flow
+8:37
+towards the ipr as well so it's
+8:39
+basically this convergence of currents
+8:43
+in in this region that then leads to the
+8:45
+species
+8:46
+that were originated on those places
+8:48
+converging in the
+8:50
+indo-pacific and this is what is called
+8:51
+the center of accumulation so here is an
+8:54
+example where you have three contrasting
+8:56
+mechanisms to explain a pattern of why
+8:58
+there are so many species in the ipr
+9:02
+let me give you another example
+9:04
+i want you to think about this
+9:05
+relationship
+9:06
+relationship here between biodiversity
+9:08
+and the number of people i don't want to
+9:10
+show you this just yet i want you to
+9:12
+pass this video and think about how this
+9:14
+correlation is we have already talked
+9:15
+about
+9:17
+people normally being no good for the
+9:18
+biodiversity with that being said then
+9:20
+how would you expect to be the
+9:22
+correlation between the number of
+9:23
+species and the number of people pause
+9:25
+this video and let's get back at the end
+9:27
+of your break
+9:29
+so i hope that you will have say given
+9:31
+that that we know that people is not
+9:33
+good for biodiversity that you willing
+9:36
+you will find that the biodiversity
+9:39
+declines as the number of people
+9:40
+increases i hope that you guys kind of
+9:42
+reasoning there that if you didn't know
+9:45
+the the data beforehand and again
+9:48
+because it makes sense right that it has
+9:50
+negative impacts on biodiversity as we
+9:52
+increase the number of people
+9:53
+biodiversity declines
+9:56
+again just for you to to realize that in
+9:58
+a science everything is to be tested and
+10:00
+proof
+10:01
+when scientists went and tested the
+10:02
+hypotheses what they found was that it
+10:04
+was kind of the opposite as you increase
+10:07
+the number of people to increase the
+10:08
+number of species isn't that remarkable
+10:10
+this is a paper that was published by
+10:12
+banford and another one by araujo they
+10:14
+analyzed this pattern on the
+10:16
+relationship between richness and
+10:18
+biodiversity in europe and in africa and
+10:20
+they analyze it for plants birds mammals
+10:22
+snakes and amphibians and everywhere
+10:24
+they look there was a positive
+10:25
+relationship here so the more people
+10:28
+there is the more species they are again
+10:30
+that was kind of contrasting given what
+10:32
+we thought humans do to people so that
+10:34
+obviously then creates an interesting
+10:36
+question which is why
+10:38
+why we know that people is negative have
+10:41
+mostly negative effects on biodiversity
+10:43
+why is it that there are more species
+10:44
+where there are more people
+10:46
+so there are multiple explanations for
+10:48
+this and there is a professor called
+10:50
+kevin gaston from the uk i had a couple
+10:53
+papers that have published within super
+10:54
+nice guy to work with and he's like like
+10:57
+a like a like a
+10:59
+rock star in science especially on
+11:01
+biogeography he has a very nice paper
+11:03
+when he analyzed the likely explanations
+11:05
+for this pattern
+11:08
+the first one is the fact that he
+11:10
+speculates that maybe people and
+11:13
+richness respond the same
+11:15
+to to the environment just like at some
+11:17
+kind some case of multicollinearity
+11:19
+where species regions for instance
+11:21
+relate positively with temperature and
+11:23
+so are we so that that further the
+11:26
+species richness and us correlate with
+11:27
+the environment then
+11:29
+forces to be correlated with racism but
+11:31
+it's not that we are impacting racism so
+11:33
+that's one of the hypotheses
+11:36
+the other explanation that is proposed
+11:38
+has been proposed is that by us
+11:41
+introducing new species and species that
+11:44
+are there being impacted and having a
+11:46
+hard time to go esteem
+11:48
+then what that does is that we actually
+11:49
+work as a way to increase the number of
+11:51
+species so that basically humans are
+11:53
+creating a net gain of a species in
+11:55
+certain places
+11:58
+the other hypothesis is what is called
+12:00
+the climate stability hypothesis
+12:02
+basically what suggests here is that
+12:04
+this similarity that we see today is a
+12:06
+legacy of plasma glaciation so back in
+12:08
+the day when there were placiations
+12:10
+obviously everything from species to
+12:12
+humans were restricted mostly to a few
+12:14
+places of pockets where the number of
+12:17
+species and people were very high
+12:19
+as the glaciation went away the the
+12:22
+diversity of species and people start
+12:24
+spraying from those places and that then
+12:26
+forces the number of species to
+12:28
+correlate with people again not know
+12:30
+that we pan biodiversity but rather than
+12:32
+the two of us come from the same places
+12:36
+the final explanation is what is called
+12:38
+the disturbance meat disturbance
+12:40
+hypothesis so the idea here is that when
+12:43
+humans by us having negative impact on
+12:45
+biodiversity what we can do is to knock
+12:47
+out a species that become dominant and
+12:51
+by us knocking down species that become
+12:53
+nominated we allow a species that are
+12:55
+weak to prosper in those places so the
+12:58
+idea here is that when we humans go and
+13:00
+we start disturbing disturbing
+13:01
+ecosystems we allow some kind of
+13:03
+coexistence between species that be that
+13:05
+would be very competitive and in the
+13:07
+species where they're they're to be left
+13:09
+alone the species that is dominant will
+13:11
+go esteem and the species that is sorry
+13:12
+will be the species that is dominant
+13:14
+will go to to dominate and the one that
+13:16
+is weak will go to extinct but by us
+13:18
+being on those places we kind of knock
+13:20
+out the species are dominant allowing
+13:21
+those two species to coexist so those
+13:23
+are the four different hypotheses that
+13:26
+have been suggested to explain this
+13:27
+correlation and again i'm using this as
+13:29
+evidence to suggest that what we might
+13:31
+find at times very strong relationships
+13:34
+between the pattern and a variable that
+13:36
+doesn't mean that we know very well how
+13:39
+is it that the variable leads to that
+13:41
+pattern
+13:42
+here is another example again where the
+13:44
+mechanism is not very well known which
+13:46
+is the relationship between
+13:48
+the number of species and temperature
+13:50
+obviously
+13:51
+we get certain amount of energy the
+13:54
+blast or planet and that energy is going
+13:55
+to be more abundant in tropical areas
+13:57
+and that amount of energy is going to be
+13:59
+fewer at the north and south pole and
+14:01
+the distribution of energy on our planet
+14:04
+them is speculated to influence not only
+14:06
+temperature but then as a result the
+14:08
+number of species
+14:10
+and indeed many papers had documented
+14:13
+this relationship this is a paper by my
+14:15
+friend titansaur from the house
+14:17
+university in this paper he correlated
+14:20
+the number of species in the planet
+14:21
+against temperature in the oceans and
+14:23
+you can see that there is always a
+14:24
+positive correlation no matter how you
+14:26
+cut the data right so
+14:29
+almost always
+14:30
+every time that there is an increase in
+14:31
+temperature places that are hotter
+14:33
+normally have more species so that's
+14:36
+again a pattern that is highly related
+14:39
+to a variable but then what is the
+14:40
+mechanism
+14:42
+there is a paper by corey in ecology
+14:44
+letters when he goes through houses that
+14:46
+this temperature can make
+14:48
+species be more abundant
+14:51
+right
+14:51
+abundant i mean in terms of number of
+14:53
+species there so he suggested three
+14:56
+explanations for it the first one is
+14:58
+what is called the more individual
+15:00
+hypothesis so temperature by it being
+15:03
+related to a larger amount of energy
+15:05
+that comes directly from the sun then
+15:06
+allows to have more individuals and
+15:08
+obviously they are more individual there
+15:09
+could be potentially more chances for
+15:11
+reproduction that then lead to having
+15:13
+you more species
+15:16
+the other one is what is called the
+15:17
+physiological tolerance hypothesis this
+15:19
+hypothesis suggests that what happens is
+15:21
+that
+15:23
+generating the evolutionary capacity to
+15:25
+live on cold places is very hard while
+15:28
+it's relatively easy for most species to
+15:29
+be able to tolerate warm temperatures
+15:32
+surviving colder temperatures is a
+15:34
+physiological adaptation that is very
+15:36
+rare so this the similarity in the
+15:38
+capacities of a species to cope with
+15:40
+temperature
+15:41
+allows a lot of species to be found in
+15:43
+the tropics where most species can
+15:44
+survive and very few species can survive
+15:47
+at high latitudes again issues because
+15:49
+they lack the capacity the physiological
+15:51
+capacity to tolerate those colder
+15:53
+temperatures that's against what is
+15:54
+called the physiological tolerance
+15:56
+hypothesis which is that most of the
+15:59
+species canceled by warm but not cold
+16:01
+conditions
+16:03
+the other explanation for the
+16:05
+relationship between richness and
+16:07
+temperature is what is called the
+16:08
+speciation rate hypothesis and what it
+16:10
+suggests here is that when you increase
+16:13
+temperature there is normally a
+16:16
+faster evolutionary rate for some reason
+16:18
+a lot of species like to have sex when
+16:20
+it gets hot and that increases the
+16:22
+chances of introducing mutations that
+16:24
+then turn into more species and that has
+16:26
+been tested on multiple
+16:29
+species and like insects mostly where
+16:31
+you can just crack up the temperature a
+16:33
+little bit and see how those species
+16:35
+reproduce you they have found the same
+16:37
+similar things in bacteria as well again
+16:39
+case examples where any time that you
+16:41
+increase in the temperature you increase
+16:44
+reproduction and as a result you
+16:45
+increase the chances of introducing
+16:46
+mutations that will then turn into
+16:48
+different species and again here is
+16:50
+another example where there is a very
+16:52
+clear relationship between apparent
+16:54
+which is the number the number of
+16:55
+species available which is temperature
+16:58
+but we have very unclear about how you
+17:00
+see the temperature causes the richness
+17:05
+so that finishes the lecture today the
+17:07
+class
+17:08
+on as it relates to patterns and
+17:11
+processes i want to finish up this class
+17:13
+though by talking about the significance
+17:15
+of us it better identifying this pattern
+17:17
+of special richness for the purpose of
+17:19
+conservation so there are at least two
+17:21
+or three different uh important aspects
+17:24
+of us knowing these patterns of species
+17:26
+risk the first one is that it allows you
+17:28
+to identify areas that need to be
+17:30
+protected those those are what are
+17:31
+called hot spots hotspots are places in
+17:34
+the world
+17:35
+that have the high diversity of species
+17:38
+right and those it turns out that those
+17:40
+places are not very abundant and then
+17:42
+the idea here is that you can use the
+17:44
+pattern of species richness to then
+17:46
+outline the boundaries of those hot
+17:48
+spots for them to be protected there are
+17:50
+two efforts that have been done to do
+17:52
+this one is the paper by myers that
+17:54
+analyzed biodiversity hospitals on land
+17:57
+and you can see them here in red those
+17:59
+are the places with the highest
+18:00
+diversity of species anywhere in the
+18:02
+world and these are the species owned in
+18:05
+the ocean this is a paper by calvin
+18:06
+roberts and he outlined the biodiversity
+18:09
+hotspots in the oceans so again that's
+18:12
+one attribute that is very important
+18:14
+about us knowing the parents in species
+18:16
+regions better which is to identify
+18:18
+these boundaries where the species are
+18:20
+found
+18:22
+the other important attributes of a
+18:23
+species richness for conservation is
+18:25
+that they allow us to identify what are
+18:27
+the risks for biodiversity so here's an
+18:29
+example for instance of a paper by
+18:32
+cincota
+18:34
+in which he analyzed
+18:35
+the hospitals of biodiversity against
+18:37
+the number of people and he correlated
+18:39
+those two things and what he
+18:41
+demonstrated here is that most of the
+18:43
+people in the world are actually living
+18:45
+on those hot spots again most likely
+18:47
+because of their fact that biodiversity
+18:49
+relates with the number of people as a
+18:51
+result where there is the most diversity
+18:53
+in the world is where you have the most
+18:54
+people and he documented that on this
+18:56
+figure here
+18:57
+so in this figure are every one of the
+19:00
+25 hotspots in the world that have been
+19:03
+identified before by myers again those
+19:05
+are the places with the highest
+19:06
+diversity of species in the world those
+19:08
+are the places that you think need to be
+19:10
+protected need to be removed from any
+19:11
+human stressor but when you look at the
+19:13
+number of people on those hotspots what
+19:15
+you find
+19:16
+is that
+19:17
+on average the global average density of
+19:20
+people is 42 but inside those hotspots
+19:22
+the average density of people is 73
+19:24
+people so you have almost twice the
+19:26
+number of people living on those hot
+19:28
+spots so you can imagine if we know that
+19:30
+humans have different consequences are
+19:31
+normally negative to the species that
+19:34
+live on those places but we are talking
+19:36
+based on these analysis of us knowing
+19:37
+where the species are is that we can
+19:39
+show that the human impulse could be
+19:41
+potentially double
+19:43
+the impacts on those places where the
+19:45
+highest diversity and again that's one
+19:46
+of the important attributes of us better
+19:48
+knowing these patterns of species
+19:50
+richness here's another example that was
+19:53
+done by director on his paper in nature
+19:55
+where he analyzed the same deal but on
+19:57
+the oceans and here you can see the
+19:59
+diversity of all taxa in the world and
+20:02
+in black are those polygons that had the
+20:04
+highest diversity of species he
+20:06
+correlated that against the human
+20:08
+footprint in the ocean which is again a
+20:09
+cumulative index of the magnitude of
+20:12
+different impacts that happen on every
+20:14
+single pixel in the world and what he
+20:16
+managed to show on this paper is that
+20:18
+almost all of the pixels in the world
+20:21
+are under areas that have high human
+20:24
+impacts and again it's another
+20:26
+interesting
+20:28
+benefit of us but in knowing these
+20:30
+better these patterns of a special
+20:31
+reason which is not only to know what
+20:33
+areas need to be protected by what areas
+20:35
+are at most risk of human of humans let
+20:38
+me summarize the two lectures as they
+20:40
+relate to species richness
+20:42
+so we don't know really how many species
+20:44
+are there in the world but what we know
+20:46
+is that they are about 1.5 million
+20:48
+species that have a name and there could
+20:49
+be easily up to 8.7 million species
+20:52
+where are those species in the world
+20:54
+well the reality is that we don't know
+20:56
+very well we have problems on the way
+20:58
+the data is standardized some patterns
+21:00
+can be overestimated depending on where
+21:02
+we use geographical ranges or there
+21:05
+could be a lack of considerable data to
+21:07
+build patterns based on census data and
+21:10
+that unfortunately
+21:12
+leads to a
+21:14
+patterns that are weak and
+21:17
+not only the parents are not reliable
+21:19
+100
+21:20
+what are the processes to those parents
+21:22
+is also something that we know we don't
+21:24
+know very well
+21:26
+and again as i explained to you there
+21:27
+could be multiple statistical issues as
+21:30
+they relate to multicollinearity and the
+21:31
+fact that we had tons of bibles that
+21:33
+would explain these patterns
+21:35
+and again not only though we don't know
+21:37
+very well the parents the processes are
+21:39
+not very well known and unfortunately
+21:41
+that's very sad because unfortunately
+21:43
+this information about the patterns and
+21:46
+processes of biodiversity are
+21:47
+fundamental if we want to better protect
+21:49
+those species and that finishes the
+21:51
+class for today for this episode see you
+21:53
+>>>>>>> 13f4ffe9d2e9a16535f71e86959748a90295fbdb
+guys in the next chapter

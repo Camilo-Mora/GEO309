@@ -1,0 +1,2472 @@
+<<<<<<< HEAD
+
+Intro
+0:06
+so today we are going to be looking at
+0:08
+taxonomy systematics and philogenics
+0:11
+instead of describing what the problem
+0:14
+is here when you look at the diversity
+0:15
+of life on the planet it turns out that
+0:17
+there are tons of species that we share
+0:19
+the planet with and obviously one of the
+0:21
+things that we have to do is to figure
+0:23
+out a way to put them together organize
+0:24
+them right
+0:26
+and basically what we need is a
+0:27
+classification system basically we need
+0:29
+to take all of these species that we
+0:31
+share the planet with and put it in a
+0:33
+organizing in a way that we can easily
+0:35
+understand them that's what it's called
+0:36
+a classification system let me just give
+Classification system
+0:39
+you an example to contextualize the
+0:40
+problem that we are dealing with imagine
+0:42
+that you are an alien species and you
+0:44
+just go into this planet and you find
+0:46
+this interview of this organism
+0:48
+and obviously the first thing that you
+0:49
+have to do is to give it a name you need
+0:51
+to name it if you are the first one to
+0:53
+find it actually you get to name it and
+0:54
+let's say that i call this guy the spoon
+0:57
+right the second problem that you have
+0:58
+to encounter is how do i organize this
+1:01
+guy in relationship to similar guys that
+1:03
+i find in this planet well it turns out
+1:05
+that we need to have something a
+1:07
+classification a way to classify this
+1:09
+individual it turns out that there is a
+1:10
+place called the kitchen and in that
+1:12
+inside the kitchen there is something
+1:13
+called a cabinet and inside that cabinet
+1:15
+there is something called a cutler
+1:17
+clothing organizer and it turns out that
+1:19
+in that place there are individuals that
+1:22
+are very similar to my spoon
+1:24
+so as you can imagine now if i get here
+1:27
+and i'm looking for a spoon i know
+1:29
+exactly where to look to go and look for
+1:31
+my spoon and that's the significance
+1:33
+here of us having a classification
+1:35
+system and of course having a name so
+1:37
+basically
+1:39
+when we try to classify all these
+1:40
+species in the planet you have two
+1:42
+problems at hand one is naming
+1:44
+and the other one is classification
+1:48
+in biogeography or generally sciences
+1:50
+the actual term that deals with the
+1:53
+naming and classification of a species
+1:55
+is called taxonomy again when you take
+1:57
+the diversity of species on the planet
+1:59
+and we deal with the
+2:00
+we and we deal with this problem of
+2:02
+trying to get in a name and organizing
+2:04
+in a classification system the name or
+2:05
+the study of that is called taxonomy
+2:07
+again taxonomy is the story of naming
+2:09
+and classifying biological organisms
+2:13
+this idea of classifying
+2:16
+a species is not new and in fact the
+2:18
+first record of us ever trying to
+2:20
+classify the species came from this guy
+2:22
+called aristotles that came out with
+2:24
+what is called the aristotelian system
+2:26
+it was again 300 years before christ 400
+2:30
+years before christ and basically again
+2:32
+again this this guy this one guy was the
+2:34
+first one to try to classify organisms
+2:37
+the naming system that he used was
+2:39
+basically the description of the parts
+2:41
+of the species so for instance uh uh
+2:45
+something like me he will say
+2:47
+that species has hair has a skin had
+2:50
+teeth
+2:51
+wax so that's what he used to to name
+2:54
+the species there was not an eight
+2:55
+percent but rather a description of how
+2:57
+the individual was used to look like and
+3:00
+as for the grouping or classification
+3:01
+system he has two groups everything in
+3:04
+life he organized between plants
+3:06
+and animals and within plants he had two
+3:08
+groups that were small large and medium
+3:11
+and for animals he had soup groups that
+3:14
+were land water and air so again imagine
+3:17
+you trying to to to have all these
+3:20
+species in the planet giving them very
+3:22
+complex names and trying to classify
+3:24
+them into either plants or animals and
+3:26
+within plants small large or or large
+3:28
+small large or
+3:30
+small
+3:31
+or medium sorry
+3:33
+so
+3:34
+obviously that system created by
+3:36
+aristotle's was not very good because
+3:38
+not all of the species could be easily
+3:40
+put into that classification system
+3:42
+let's just look at an example here again
+3:45
+if you look at animals the general group
+3:47
+was animals so groups land water and air
+3:50
+but if you take an example like the frog
+3:52
+for instance well it turns out that the
+3:53
+frog when they are adults they live on
+3:55
+land but when they are young they live
+3:57
+in water so in this case of this animal
+4:01
+it was very hard to to classify this
+4:03
+species on the taxonomic system that was
+4:06
+introduced by aristotle's
+4:08
+so
+4:10
+actually 2 000 years later back in 1700
+4:14
+this guy came along called carolius
+4:18
+that came out with a new system called
+4:20
+the linear classification system we use
+4:22
+a version of this system even today he's
+4:25
+defined as the fire of taxonomy
+4:28
+well let's see what he came up with as
+4:31
+it comes down to the naming he decided
+4:32
+to use what is called a binomial naming
+4:34
+system basically every species is going
+4:37
+to have a name
+4:39
+that is called the genus and a specific
+4:41
+name basically like every person has a
+4:43
+name and a last name he came up with a
+4:45
+similar system again he used genus and a
+4:48
+specific name let's look at an example
+4:50
+here like homo sapiens in the case of
+4:52
+homo sapiens
+4:53
+omo
+4:54
+is genus and sapiens is the specific
+4:57
+name the specific name is also at times
+4:59
+called a specific
+5:00
+appetite
+5:03
+what about the grouping the way that he
+5:05
+classified the species he came up with
+5:07
+something called the taxonomy hierarchy
+5:09
+and basically what he did he took a
+5:12
+species that were similar to each other
+5:14
+based on their attributes
+5:16
+that you could see and came up with this
+5:18
+a
+5:19
+again system called the taxonomy
+5:20
+hierarchy in which you had the base a
+5:22
+species
+5:24
+species are grouped within genocides
+5:26
+genos is a group within families
+5:28
+families within orders ordered in class
+5:30
+class within phylum and basically he
+5:32
+came out with this
+5:34
+hierarchy in which individuals are
+5:36
+clustered depending on how similar they
+5:38
+are among them
+5:41
+here's an example for instance for the
+5:43
+for the grizzly bear bear how is it
+5:44
+classified according to the linear
+5:46
+system so again at the base here you
+5:48
+have a species the name of the species
+5:50
+is ursus are twos ursus will be the
+5:53
+genus arctus will be the a specific name
+5:56
+that is clustered within genus and it
+5:58
+turns out that their species shares very
+6:00
+similar characteristics with the polar
+6:02
+bear
+6:03
+and that genus is clustered within the
+6:05
+family or she died that is also
+6:08
+a part of the panda bear
+6:10
+sharing against similar characteristics
+6:12
+and you can see how
+6:14
+from the bottom
+6:15
+of a species all the way up to the main
+6:17
+you start clustering species depending
+6:19
+on how similar they are and this is
+6:21
+again the taxonomy hierarchy that
+6:22
+lineals came up with
+convergent evolution
+6:25
+now unfortunately the
+6:27
+the system that was introduced by
+6:28
+linneos was not perfect let's look at an
+6:31
+example here we had a bird and a bat you
+6:34
+can see that there are very similar
+6:36
+attributes to these species like they
+6:38
+have wings and they have a the capacity
+6:40
+to fly so again those are attributes
+6:42
+that you can measure and given the
+6:44
+system that lineals use of
+6:46
+grouping individuals by the similarity
+6:48
+of their attributes you could
+6:49
+potentially say that these two species
+6:51
+then belong to the same group so again
+6:53
+this this idea what is called convergent
+6:55
+evolution in which you have the species
+6:57
+that are in completely different
+6:58
+pathways of evolution having similar
+7:01
+attributes
+7:02
+that had nothing to do with them but
+7:04
+unfortunately for the linear system it
+7:06
+was very difficult to to separate these
+7:08
+things because nails was a basically
+7:12
+grouping species depending on how
+7:13
+similar those attributes were and in
+7:15
+this case example these two species
+7:17
+belong to completely different branches
+7:18
+of evolution but they are very similar
+7:20
+so
+7:21
+that's the reason why the lineal system
+7:23
+was not quite perfect
+cladistic classification
+7:25
+then it came out this guy came about
+7:28
+charles darwin and charles darwin came
+7:31
+out and introduced something that is
+7:32
+pretty simple but it has been
+7:33
+revolutionary for the way that we see
+7:35
+evolution a life in the planet and it's
+7:38
+the idea that all species of light had a
+7:40
+descendant that comes from a common
+7:42
+ancestor imagine that this guy made it
+7:44
+to the history books
+7:45
+just by making that simple discovery
+7:47
+that all of the species that we see
+7:49
+today come from a common ancestor the
+7:52
+significance of this
+7:54
+for the classification system is that it
+7:56
+allows to introduce a whole new way to
+7:58
+classify
+7:59
+the
+8:00
+the species that we share the planet
+8:01
+with and that's what is called the
+8:03
+cladistic classification system
+8:05
+again let me just
+8:07
+simplify how the classification system
+8:09
+works as for the naming they are using
+8:11
+exactly the same name naming style that
+8:13
+was used by linneos white to reinvent
+8:15
+something that works very well and it's
+8:17
+pretty nice and simple which is a
+8:18
+species having a name and a last name so
+8:20
+to speak
+8:21
+but for the grouping
+8:23
+rather than using a taxonomic hierarchy
+8:26
+in which species are grouped by their
+8:28
+general attributes in this
+8:30
+classification system those groupings
+8:33
+are based on the philogenic
+8:34
+phyllogenetic relationship among species
+8:37
+how closely in the evolution of life
+8:39
+those species are and that then is used
+8:42
+as a way to classify a
+8:46
+the species
+8:48
+this classification system obviously was
+8:50
+a huge improvement to the system that
+8:52
+was
+8:53
+introduced by linneos originally again
+8:55
+you look at this example of the birds
+8:57
+with the bats and you rather use the
+9:00
+phylogeny again how the species are
+9:02
+related over time you find that using
+9:05
+the cladistic system the birds are in a
+9:07
+completely different branch of evolution
+9:09
+that they than the models so
+9:12
+again that that was a huge improvement
+9:14
+in the way that we separate species in
+9:16
+this classification system that we use
+9:18
+today
+systematics
+9:20
+now
+9:21
+the emergence of of evolution of us
+9:24
+knowing evolution are using that as a
+9:26
+way to classify species led to what is
+9:28
+called systematics but systematics is
+9:30
+basically the field of story about the
+9:32
+classification of organisms by based on
+9:34
+the revolution this idea again that we
+9:36
+can classify a species in using this
+9:38
+taxonomic hierarchy by looking at the
+9:41
+evolution of those species
+9:43
+basically is the
+9:45
+the system introduced by lineals and
+9:47
+arguing coming together on a single
+9:49
+classification system a huge improvement
+9:51
+so here it is this is the taxonomy
+9:53
+hierarchy introduced by lynn nels
+9:56
+and here we have the philogenetic
+10:00
+map of life in the planet that was
+10:01
+introduced by charles darwin you can put
+10:03
+those two things together and now we
+10:05
+have a very neat way to organize the
+10:08
+species that we share the planet with
+10:10
+something that again allows to create
+10:12
+groups of species that we can easily
+10:16
+map along this map of how they evolve
+10:21
+so i'm going to introduce a few terms
+10:24
+that i have probably spoke about that
+10:25
+probably i should define the first one
+10:26
+is phylogeny phylogeny is basically the
+10:29
+history of evolution of a species or
+10:32
+the revolutionary relationships so here
+10:34
+is an example of a phylogeny again how
+10:37
+the species are related to each other
+10:41
+and phylogenetics is the study of
+10:43
+phylogenys basically phylogenetics is
+10:45
+the story of reconstruction of past
+10:47
+evolutionary history of a species or
+10:49
+taxa again philogenetics is a field of
+10:52
+study that studies phylogenys
+10:55
+so how are these phylogenys done you
+10:58
+know like how is that you managed to
+11:00
+create this is these trees
+11:02
+that that lead to the philosophies how
+11:04
+are they created well there are
+11:06
+different ways to do that one is what is
+11:08
+called chair ancestral or chair their
+11:10
+life character characters
+11:13
+when when you had a species when you had
+11:15
+when you said the notion that was
+11:17
+introduced by darwin that all of the
+11:19
+species come from a common ancestor one
+11:20
+of the things that you will find is that
+11:22
+there are characters left on the species
+11:24
+from the ancestral
+11:27
+species where they come from that's what
+11:28
+is called chair ancestral characters
+11:30
+again are characters that you see on
+11:33
+individuals that are shared with the
+11:35
+ancestor and then you have obviously
+11:37
+another set of characters which are
+11:39
+characters that are now new and specific
+11:41
+to that species and that's what is
+11:42
+called share derived characters okay let
+11:45
+me just give you an example this is for
+11:47
+instance the phylogeny of most
+11:49
+vertebrates again
+11:51
+and let's now look at the mammals right
+11:53
+there so when you look at the mammals it
+11:55
+turns out that one attribute that they
+11:57
+have is this hair
+11:59
+when you look at hair all of the mammals
+12:01
+have hair but no other vertebrate has
+12:04
+hair so in this specific case of the
+12:06
+mammals hair then becomes a chair
+12:09
+derived character again it's a character
+12:11
+that is unique to that clay that is not
+12:14
+shared with ancestral
+12:16
+species
+12:18
+let's look at another character which is
+12:20
+the backbones which i highlight here for
+12:22
+this species now when you look at the
+12:24
+back when you look at the backbone
+12:25
+that's an attribute that is found in
+12:27
+many other species
+12:29
+in common to the mammals so in this case
+12:32
+this backbone is an ancestral
+12:34
+characteristic of leopards right because
+12:37
+again it's ancestral in the sense that
+12:39
+the backbone is also shared by many
+12:41
+other species on on the phylogeny of
+12:44
+vertebrates
+12:45
+so again the difference here between
+12:48
+derived characters are characters that
+12:49
+are new to to the species to the clay
+12:52
+and ancestral characters are those
+12:54
+characters that are found on the
+12:55
+essential on the ancestral species so
+12:58
+with that in mind then
+13:00
+how do we build phylogenys using those
+13:03
+type of characters especially the
+13:04
+characters that are derived so here is
+13:06
+an example here again you have the
+13:08
+philology of the vertebrates here you
+13:10
+have the different tags and here you
+13:11
+have the different attributes so
+13:12
+basically what you do is you see the
+13:15
+presence of these characters along the
+13:17
+different taxes and given this whether
+13:20
+the character is present or not then you
+13:22
+can
+13:23
+go back and reconstruct the relationship
+13:26
+on them
+13:27
+and again this is one way to create this
+13:30
+philogenics based on the life characters
+13:32
+basically by looking at the present or
+13:35
+presence or accents of these kind of
+13:37
+absence of these characters on several
+13:39
+taxes
+13:41
+another way to build
+13:42
+philogenes is by using molecules things
+13:45
+like proteins and dna turns out that
+13:48
+these molecules make part of every
+13:50
+single organism in life and basically
+13:52
+what we can do is to sequence
+13:54
+the the molecules that make those
+13:57
+things like proteins and dna and by
+13:59
+looking at the similarities between
+14:01
+these proteins or dna among different
+14:04
+species then we can build these
+14:08
+philogenetic trees again how similar are
+14:10
+these proteins or dna among different
+14:12
+species and it allows to then create
+14:14
+phylogenys that are based on molecules
+14:19
+now with the possibility of us now
+14:21
+reconstructing how species are related
+14:23
+to each other via philogenics which
+14:26
+which is a a tool that is used in
+14:29
+philogenetics now we can put all of
+14:31
+these species together in what is called
+14:32
+the tree of life and it's a beautiful
+14:35
+thing no joke when you start seeing all
+14:37
+of these species sometimes sharing these
+14:39
+ancestral or these derived
+14:40
+characteristics and how that allows you
+14:42
+to then see how all these species in the
+14:44
+planet are related and here is a general
+14:46
+reconstruction of all of the species
+14:48
+that we share the planet with we start
+14:50
+with three domains of life we have
+14:52
+archaea eukaryota and bacteria the
+14:55
+bacteria and
+14:56
+the archaea and bacteria are pretty much
+14:58
+the same thing are organisms that had no
+15:01
+nucleus and the main difference between
+15:02
+bacteria and archaea is that
+15:04
+they had different molecules on on their
+15:09
+cell walls
+15:11
+the eukaryota in turn in turn is divided
+15:14
+in five different kingdoms depending on
+15:16
+the classification system including
+15:18
+plants animals fungi and proteins if we
+15:20
+go down the animal pathway you will see
+15:23
+that some animals are defined between
+15:25
+animals nidarians or bilat bilateral
+15:28
+bilateral are species that if you take
+15:31
+their body and cut in half one half is
+15:34
+going to be another copy of the other
+15:35
+one so you take myself you come in half
+15:37
+you will see that this side is very
+15:38
+similar to that science that's why it's
+15:40
+called bilaterial and you can
+15:42
+look at many species that share that
+15:44
+attribute you take a fish cutting hub
+15:46
+you will see that one size exactly to
+15:47
+the other one turns out that there is a
+15:50
+a branch of evolution and then within
+15:52
+that branch of species are bellator and
+15:54
+you get crustaceans are troposphere to
+15:56
+raise moles in vertebrates then you get
+15:59
+in
+16:00
+the
+16:01
+mammals reptilians turtles
+16:03
+and you name it and again thanks to
+16:05
+these phylogenys that we can build based
+16:08
+on these characters our ceremony species
+16:10
+or based on our understanding of the
+16:12
+molecules that make those individuals
+16:14
+now we can reconstruct these trees all
+16:17
+life
+16:19
+now
+16:21
+several times through this class i have
+16:22
+talked about this concept of a species
+16:24
+but what is a species that's another
+16:26
+thing that has turned out to be quite
+16:27
+controversial in science and in fact
+16:29
+there are 26 different ways to to
+16:32
+describe a species so what is the con
+16:34
+there are actually 26
+16:36
+26 different concepts of what a species
+16:38
+is
+16:39
+the most common concept that is affected
+16:41
+the most today is what is called the
+16:43
+biological species concept
+16:45
+the biological species concept basically
+16:48
+suggests that a species is defined as
+16:49
+groups of groups of organisms that can
+16:52
+successfully interpret and produce
+16:54
+fertile offspring basically again
+16:57
+individuals that can reproduce with each
+16:59
+other and having offspring that can
+17:01
+survive by be viable that is what is
+17:03
+defined uh a species and that term
+17:07
+generally speaking is what is called the
+17:08
+biological species concept
+Biological Species
+17:10
+now unfortunately there are problems
+17:13
+with that concept right one of the
+17:15
+obvious problems is a sexual
+17:17
+reproduction now all the species in the
+17:18
+planet are reproduced by by
+17:20
+sexual mechanisms some of them reproduce
+17:22
+completely as sexual meaning that you
+17:24
+can take an individual spirit in two and
+17:26
+then you get
+17:28
+to to also the same species
+17:30
+and the example of that is bacteria and
+17:33
+the viruses basically these species live
+17:35
+life with no sex
+17:37
+but many other species the ones that are
+17:39
+included within the biological
+17:40
+definition concept of species those are
+17:43
+those species
+17:44
+reproduce via sex these ones multiply
+17:47
+reproduce without having sex they
+17:49
+basically split themselves in halves and
+17:51
+that's how they manage to reproduce
+17:54
+the other problem of the biological
+17:56
+concept is hybridization have
+17:58
+realization is basically when different
+18:00
+species come together and produce
+18:02
+offspring that myomino will be viable
+18:04
+over a few generations an example is a
+18:07
+zebra and a donkey they go out in a date
+18:11
+and the result of that day is what is
+18:13
+called asanki right so here is an
+18:15
+example again in which two very
+18:17
+different species still manage to
+18:20
+interpret to produce offspring so that
+18:22
+becomes complicated
+18:24
+in the terms on on the
+18:27
+use of the biological concept for this
+18:29
+species because they clearly reproduce
+18:31
+and produce offspring
+18:34
+another limitation of the biological
+18:35
+concept of species is this idea of the
+18:38
+horizontal gene transfer so basically
+18:40
+what happens here is that there are many
+18:43
+species especially in bacteria and
+18:45
+archaea
+18:46
+that
+18:47
+they have been evolving over branches of
+18:49
+evolution over many different times and
+18:51
+they have been separated for millions of
+18:52
+years so how they come together and they
+18:55
+reproduce and that reproduction still
+18:56
+leads to viable
+18:58
+species and that's what it's called
+18:59
+horizontally and transfer that is so
+19:01
+crazy in bacteria and archaea for them
+19:04
+to do this this is like having a whale
+19:07
+and an insect which are two groups of
+19:10
+animals that have wolves in completely
+19:12
+different pathways
+19:13
+putting them together and having a well
+19:15
+and an insect reproducing or producing
+19:17
+another another species so that is
+19:20
+exactly what is happening here with the
+19:21
+bacteria in archaea having lineages that
+19:24
+have been separated for millions of
+19:26
+years somehow coming together
+19:27
+reproducing and producing integrals that
+19:29
+are viable so that's a huge limitation
+19:32
+for the use of the biological species
+19:34
+concept
+19:37
+now another
+19:38
+concept that is commonly used to define
+19:41
+a species is what is called the genetic
+19:43
+species concept in this case this
+19:45
+concept uses the similarity
+19:48
+the genetic similar genetic or molecular
+19:51
+similarity among a species
+19:53
+right basically what you do you take
+19:55
+these molecules as i explained to you
+19:57
+either protein or dna compare that among
+19:59
+different species and that allows you
+20:01
+then to differentiate different species
+20:04
+and that turns then into what is called
+20:06
+the genetic species concept again trying
+20:09
+to differentiate the degree to which
+20:11
+species are different different based on
+20:13
+their molecular molecular
+20:16
+composition
+20:18
+however that concept is not quite
+20:20
+perfect yet though because unfortunately
+20:22
+what is the threshold that you use and
+20:24
+what percentage of difference you say a
+20:26
+species
+20:27
+is a species
+20:29
+right so here you can see for instance
+20:31
+the genetic similarity among different
+20:34
+species on a given molecule and you can
+20:36
+see that these differences molecular
+20:39
+differences are quite different between
+20:41
+things that we clearly identify as
+20:43
+different species today so unfortunately
+20:46
+that's kind of the the limitation of the
+20:48
+genetic species concept is the fact that
+20:50
+it's very hard for us to come up with a
+20:51
+threshold that will allow us to separate
+20:53
+all of the species that we know in the
+20:55
+planet because as you can see here there
+20:56
+are clearly things are different species
+20:58
+that have different levels of genetic
+21:00
+differentiation
+21:03
+now
+21:04
+certain times you see me using the word
+21:06
+species and population but i want to
+21:08
+clarify that those two things are
+21:10
+different there are certain times that
+21:11
+they kind of can be used in the same way
+21:13
+but they are actually very different as
+21:15
+i explained to you species are normally
+21:16
+organisms that it can be either they're
+21:20
+reproduced with each other and the
+21:21
+oceans are viable or they are
+21:22
+genetically similar but a population
+21:25
+though
+21:26
+are groups of individuals of the same
+21:28
+species okay so i need you to keep to
+21:30
+keep that distinction
+21:32
+in mind again a population are discrete
+21:35
+groups of individuals of the same
+21:37
+species
+21:38
+all the species is what we just
+21:40
+described
+21:41
+and that's the class for today and i see
+21:43
+=======
+
+Intro
+0:06
+so today we are going to be looking at
+0:08
+taxonomy systematics and philogenics
+0:11
+instead of describing what the problem
+0:14
+is here when you look at the diversity
+0:15
+of life on the planet it turns out that
+0:17
+there are tons of species that we share
+0:19
+the planet with and obviously one of the
+0:21
+things that we have to do is to figure
+0:23
+out a way to put them together organize
+0:24
+them right
+0:26
+and basically what we need is a
+0:27
+classification system basically we need
+0:29
+to take all of these species that we
+0:31
+share the planet with and put it in a
+0:33
+organizing in a way that we can easily
+0:35
+understand them that's what it's called
+0:36
+a classification system let me just give
+Classification system
+0:39
+you an example to contextualize the
+0:40
+problem that we are dealing with imagine
+0:42
+that you are an alien species and you
+0:44
+just go into this planet and you find
+0:46
+this interview of this organism
+0:48
+and obviously the first thing that you
+0:49
+have to do is to give it a name you need
+0:51
+to name it if you are the first one to
+0:53
+find it actually you get to name it and
+0:54
+let's say that i call this guy the spoon
+0:57
+right the second problem that you have
+0:58
+to encounter is how do i organize this
+1:01
+guy in relationship to similar guys that
+1:03
+i find in this planet well it turns out
+1:05
+that we need to have something a
+1:07
+classification a way to classify this
+1:09
+individual it turns out that there is a
+1:10
+place called the kitchen and in that
+1:12
+inside the kitchen there is something
+1:13
+called a cabinet and inside that cabinet
+1:15
+there is something called a cutler
+1:17
+clothing organizer and it turns out that
+1:19
+in that place there are individuals that
+1:22
+are very similar to my spoon
+1:24
+so as you can imagine now if i get here
+1:27
+and i'm looking for a spoon i know
+1:29
+exactly where to look to go and look for
+1:31
+my spoon and that's the significance
+1:33
+here of us having a classification
+1:35
+system and of course having a name so
+1:37
+basically
+1:39
+when we try to classify all these
+1:40
+species in the planet you have two
+1:42
+problems at hand one is naming
+1:44
+and the other one is classification
+1:48
+in biogeography or generally sciences
+1:50
+the actual term that deals with the
+1:53
+naming and classification of a species
+1:55
+is called taxonomy again when you take
+1:57
+the diversity of species on the planet
+1:59
+and we deal with the
+2:00
+we and we deal with this problem of
+2:02
+trying to get in a name and organizing
+2:04
+in a classification system the name or
+2:05
+the study of that is called taxonomy
+2:07
+again taxonomy is the story of naming
+2:09
+and classifying biological organisms
+2:13
+this idea of classifying
+2:16
+a species is not new and in fact the
+2:18
+first record of us ever trying to
+2:20
+classify the species came from this guy
+2:22
+called aristotles that came out with
+2:24
+what is called the aristotelian system
+2:26
+it was again 300 years before christ 400
+2:30
+years before christ and basically again
+2:32
+again this this guy this one guy was the
+2:34
+first one to try to classify organisms
+2:37
+the naming system that he used was
+2:39
+basically the description of the parts
+2:41
+of the species so for instance uh uh
+2:45
+something like me he will say
+2:47
+that species has hair has a skin had
+2:50
+teeth
+2:51
+wax so that's what he used to to name
+2:54
+the species there was not an eight
+2:55
+percent but rather a description of how
+2:57
+the individual was used to look like and
+3:00
+as for the grouping or classification
+3:01
+system he has two groups everything in
+3:04
+life he organized between plants
+3:06
+and animals and within plants he had two
+3:08
+groups that were small large and medium
+3:11
+and for animals he had soup groups that
+3:14
+were land water and air so again imagine
+3:17
+you trying to to to have all these
+3:20
+species in the planet giving them very
+3:22
+complex names and trying to classify
+3:24
+them into either plants or animals and
+3:26
+within plants small large or or large
+3:28
+small large or
+3:30
+small
+3:31
+or medium sorry
+3:33
+so
+3:34
+obviously that system created by
+3:36
+aristotle's was not very good because
+3:38
+not all of the species could be easily
+3:40
+put into that classification system
+3:42
+let's just look at an example here again
+3:45
+if you look at animals the general group
+3:47
+was animals so groups land water and air
+3:50
+but if you take an example like the frog
+3:52
+for instance well it turns out that the
+3:53
+frog when they are adults they live on
+3:55
+land but when they are young they live
+3:57
+in water so in this case of this animal
+4:01
+it was very hard to to classify this
+4:03
+species on the taxonomic system that was
+4:06
+introduced by aristotle's
+4:08
+so
+4:10
+actually 2 000 years later back in 1700
+4:14
+this guy came along called carolius
+4:18
+that came out with a new system called
+4:20
+the linear classification system we use
+4:22
+a version of this system even today he's
+4:25
+defined as the fire of taxonomy
+4:28
+well let's see what he came up with as
+4:31
+it comes down to the naming he decided
+4:32
+to use what is called a binomial naming
+4:34
+system basically every species is going
+4:37
+to have a name
+4:39
+that is called the genus and a specific
+4:41
+name basically like every person has a
+4:43
+name and a last name he came up with a
+4:45
+similar system again he used genus and a
+4:48
+specific name let's look at an example
+4:50
+here like homo sapiens in the case of
+4:52
+homo sapiens
+4:53
+omo
+4:54
+is genus and sapiens is the specific
+4:57
+name the specific name is also at times
+4:59
+called a specific
+5:00
+appetite
+5:03
+what about the grouping the way that he
+5:05
+classified the species he came up with
+5:07
+something called the taxonomy hierarchy
+5:09
+and basically what he did he took a
+5:12
+species that were similar to each other
+5:14
+based on their attributes
+5:16
+that you could see and came up with this
+5:18
+a
+5:19
+again system called the taxonomy
+5:20
+hierarchy in which you had the base a
+5:22
+species
+5:24
+species are grouped within genocides
+5:26
+genos is a group within families
+5:28
+families within orders ordered in class
+5:30
+class within phylum and basically he
+5:32
+came out with this
+5:34
+hierarchy in which individuals are
+5:36
+clustered depending on how similar they
+5:38
+are among them
+5:41
+here's an example for instance for the
+5:43
+for the grizzly bear bear how is it
+5:44
+classified according to the linear
+5:46
+system so again at the base here you
+5:48
+have a species the name of the species
+5:50
+is ursus are twos ursus will be the
+5:53
+genus arctus will be the a specific name
+5:56
+that is clustered within genus and it
+5:58
+turns out that their species shares very
+6:00
+similar characteristics with the polar
+6:02
+bear
+6:03
+and that genus is clustered within the
+6:05
+family or she died that is also
+6:08
+a part of the panda bear
+6:10
+sharing against similar characteristics
+6:12
+and you can see how
+6:14
+from the bottom
+6:15
+of a species all the way up to the main
+6:17
+you start clustering species depending
+6:19
+on how similar they are and this is
+6:21
+again the taxonomy hierarchy that
+6:22
+lineals came up with
+convergent evolution
+6:25
+now unfortunately the
+6:27
+the system that was introduced by
+6:28
+linneos was not perfect let's look at an
+6:31
+example here we had a bird and a bat you
+6:34
+can see that there are very similar
+6:36
+attributes to these species like they
+6:38
+have wings and they have a the capacity
+6:40
+to fly so again those are attributes
+6:42
+that you can measure and given the
+6:44
+system that lineals use of
+6:46
+grouping individuals by the similarity
+6:48
+of their attributes you could
+6:49
+potentially say that these two species
+6:51
+then belong to the same group so again
+6:53
+this this idea what is called convergent
+6:55
+evolution in which you have the species
+6:57
+that are in completely different
+6:58
+pathways of evolution having similar
+7:01
+attributes
+7:02
+that had nothing to do with them but
+7:04
+unfortunately for the linear system it
+7:06
+was very difficult to to separate these
+7:08
+things because nails was a basically
+7:12
+grouping species depending on how
+7:13
+similar those attributes were and in
+7:15
+this case example these two species
+7:17
+belong to completely different branches
+7:18
+of evolution but they are very similar
+7:20
+so
+7:21
+that's the reason why the lineal system
+7:23
+was not quite perfect
+cladistic classification
+7:25
+then it came out this guy came about
+7:28
+charles darwin and charles darwin came
+7:31
+out and introduced something that is
+7:32
+pretty simple but it has been
+7:33
+revolutionary for the way that we see
+7:35
+evolution a life in the planet and it's
+7:38
+the idea that all species of light had a
+7:40
+descendant that comes from a common
+7:42
+ancestor imagine that this guy made it
+7:44
+to the history books
+7:45
+just by making that simple discovery
+7:47
+that all of the species that we see
+7:49
+today come from a common ancestor the
+7:52
+significance of this
+7:54
+for the classification system is that it
+7:56
+allows to introduce a whole new way to
+7:58
+classify
+7:59
+the
+8:00
+the species that we share the planet
+8:01
+with and that's what is called the
+8:03
+cladistic classification system
+8:05
+again let me just
+8:07
+simplify how the classification system
+8:09
+works as for the naming they are using
+8:11
+exactly the same name naming style that
+8:13
+was used by linneos white to reinvent
+8:15
+something that works very well and it's
+8:17
+pretty nice and simple which is a
+8:18
+species having a name and a last name so
+8:20
+to speak
+8:21
+but for the grouping
+8:23
+rather than using a taxonomic hierarchy
+8:26
+in which species are grouped by their
+8:28
+general attributes in this
+8:30
+classification system those groupings
+8:33
+are based on the philogenic
+8:34
+phyllogenetic relationship among species
+8:37
+how closely in the evolution of life
+8:39
+those species are and that then is used
+8:42
+as a way to classify a
+8:46
+the species
+8:48
+this classification system obviously was
+8:50
+a huge improvement to the system that
+8:52
+was
+8:53
+introduced by linneos originally again
+8:55
+you look at this example of the birds
+8:57
+with the bats and you rather use the
+9:00
+phylogeny again how the species are
+9:02
+related over time you find that using
+9:05
+the cladistic system the birds are in a
+9:07
+completely different branch of evolution
+9:09
+that they than the models so
+9:12
+again that that was a huge improvement
+9:14
+in the way that we separate species in
+9:16
+this classification system that we use
+9:18
+today
+systematics
+9:20
+now
+9:21
+the emergence of of evolution of us
+9:24
+knowing evolution are using that as a
+9:26
+way to classify species led to what is
+9:28
+called systematics but systematics is
+9:30
+basically the field of story about the
+9:32
+classification of organisms by based on
+9:34
+the revolution this idea again that we
+9:36
+can classify a species in using this
+9:38
+taxonomic hierarchy by looking at the
+9:41
+evolution of those species
+9:43
+basically is the
+9:45
+the system introduced by lineals and
+9:47
+arguing coming together on a single
+9:49
+classification system a huge improvement
+9:51
+so here it is this is the taxonomy
+9:53
+hierarchy introduced by lynn nels
+9:56
+and here we have the philogenetic
+10:00
+map of life in the planet that was
+10:01
+introduced by charles darwin you can put
+10:03
+those two things together and now we
+10:05
+have a very neat way to organize the
+10:08
+species that we share the planet with
+10:10
+something that again allows to create
+10:12
+groups of species that we can easily
+10:16
+map along this map of how they evolve
+10:21
+so i'm going to introduce a few terms
+10:24
+that i have probably spoke about that
+10:25
+probably i should define the first one
+10:26
+is phylogeny phylogeny is basically the
+10:29
+history of evolution of a species or
+10:32
+the revolutionary relationships so here
+10:34
+is an example of a phylogeny again how
+10:37
+the species are related to each other
+10:41
+and phylogenetics is the study of
+10:43
+phylogenys basically phylogenetics is
+10:45
+the story of reconstruction of past
+10:47
+evolutionary history of a species or
+10:49
+taxa again philogenetics is a field of
+10:52
+study that studies phylogenys
+10:55
+so how are these phylogenys done you
+10:58
+know like how is that you managed to
+11:00
+create this is these trees
+11:02
+that that lead to the philosophies how
+11:04
+are they created well there are
+11:06
+different ways to do that one is what is
+11:08
+called chair ancestral or chair their
+11:10
+life character characters
+11:13
+when when you had a species when you had
+11:15
+when you said the notion that was
+11:17
+introduced by darwin that all of the
+11:19
+species come from a common ancestor one
+11:20
+of the things that you will find is that
+11:22
+there are characters left on the species
+11:24
+from the ancestral
+11:27
+species where they come from that's what
+11:28
+is called chair ancestral characters
+11:30
+again are characters that you see on
+11:33
+individuals that are shared with the
+11:35
+ancestor and then you have obviously
+11:37
+another set of characters which are
+11:39
+characters that are now new and specific
+11:41
+to that species and that's what is
+11:42
+called share derived characters okay let
+11:45
+me just give you an example this is for
+11:47
+instance the phylogeny of most
+11:49
+vertebrates again
+11:51
+and let's now look at the mammals right
+11:53
+there so when you look at the mammals it
+11:55
+turns out that one attribute that they
+11:57
+have is this hair
+11:59
+when you look at hair all of the mammals
+12:01
+have hair but no other vertebrate has
+12:04
+hair so in this specific case of the
+12:06
+mammals hair then becomes a chair
+12:09
+derived character again it's a character
+12:11
+that is unique to that clay that is not
+12:14
+shared with ancestral
+12:16
+species
+12:18
+let's look at another character which is
+12:20
+the backbones which i highlight here for
+12:22
+this species now when you look at the
+12:24
+back when you look at the backbone
+12:25
+that's an attribute that is found in
+12:27
+many other species
+12:29
+in common to the mammals so in this case
+12:32
+this backbone is an ancestral
+12:34
+characteristic of leopards right because
+12:37
+again it's ancestral in the sense that
+12:39
+the backbone is also shared by many
+12:41
+other species on on the phylogeny of
+12:44
+vertebrates
+12:45
+so again the difference here between
+12:48
+derived characters are characters that
+12:49
+are new to to the species to the clay
+12:52
+and ancestral characters are those
+12:54
+characters that are found on the
+12:55
+essential on the ancestral species so
+12:58
+with that in mind then
+13:00
+how do we build phylogenys using those
+13:03
+type of characters especially the
+13:04
+characters that are derived so here is
+13:06
+an example here again you have the
+13:08
+philology of the vertebrates here you
+13:10
+have the different tags and here you
+13:11
+have the different attributes so
+13:12
+basically what you do is you see the
+13:15
+presence of these characters along the
+13:17
+different taxes and given this whether
+13:20
+the character is present or not then you
+13:22
+can
+13:23
+go back and reconstruct the relationship
+13:26
+on them
+13:27
+and again this is one way to create this
+13:30
+philogenics based on the life characters
+13:32
+basically by looking at the present or
+13:35
+presence or accents of these kind of
+13:37
+absence of these characters on several
+13:39
+taxes
+13:41
+another way to build
+13:42
+philogenes is by using molecules things
+13:45
+like proteins and dna turns out that
+13:48
+these molecules make part of every
+13:50
+single organism in life and basically
+13:52
+what we can do is to sequence
+13:54
+the the molecules that make those
+13:57
+things like proteins and dna and by
+13:59
+looking at the similarities between
+14:01
+these proteins or dna among different
+14:04
+species then we can build these
+14:08
+philogenetic trees again how similar are
+14:10
+these proteins or dna among different
+14:12
+species and it allows to then create
+14:14
+phylogenys that are based on molecules
+14:19
+now with the possibility of us now
+14:21
+reconstructing how species are related
+14:23
+to each other via philogenics which
+14:26
+which is a a tool that is used in
+14:29
+philogenetics now we can put all of
+14:31
+these species together in what is called
+14:32
+the tree of life and it's a beautiful
+14:35
+thing no joke when you start seeing all
+14:37
+of these species sometimes sharing these
+14:39
+ancestral or these derived
+14:40
+characteristics and how that allows you
+14:42
+to then see how all these species in the
+14:44
+planet are related and here is a general
+14:46
+reconstruction of all of the species
+14:48
+that we share the planet with we start
+14:50
+with three domains of life we have
+14:52
+archaea eukaryota and bacteria the
+14:55
+bacteria and
+14:56
+the archaea and bacteria are pretty much
+14:58
+the same thing are organisms that had no
+15:01
+nucleus and the main difference between
+15:02
+bacteria and archaea is that
+15:04
+they had different molecules on on their
+15:09
+cell walls
+15:11
+the eukaryota in turn in turn is divided
+15:14
+in five different kingdoms depending on
+15:16
+the classification system including
+15:18
+plants animals fungi and proteins if we
+15:20
+go down the animal pathway you will see
+15:23
+that some animals are defined between
+15:25
+animals nidarians or bilat bilateral
+15:28
+bilateral are species that if you take
+15:31
+their body and cut in half one half is
+15:34
+going to be another copy of the other
+15:35
+one so you take myself you come in half
+15:37
+you will see that this side is very
+15:38
+similar to that science that's why it's
+15:40
+called bilaterial and you can
+15:42
+look at many species that share that
+15:44
+attribute you take a fish cutting hub
+15:46
+you will see that one size exactly to
+15:47
+the other one turns out that there is a
+15:50
+a branch of evolution and then within
+15:52
+that branch of species are bellator and
+15:54
+you get crustaceans are troposphere to
+15:56
+raise moles in vertebrates then you get
+15:59
+in
+16:00
+the
+16:01
+mammals reptilians turtles
+16:03
+and you name it and again thanks to
+16:05
+these phylogenys that we can build based
+16:08
+on these characters our ceremony species
+16:10
+or based on our understanding of the
+16:12
+molecules that make those individuals
+16:14
+now we can reconstruct these trees all
+16:17
+life
+16:19
+now
+16:21
+several times through this class i have
+16:22
+talked about this concept of a species
+16:24
+but what is a species that's another
+16:26
+thing that has turned out to be quite
+16:27
+controversial in science and in fact
+16:29
+there are 26 different ways to to
+16:32
+describe a species so what is the con
+16:34
+there are actually 26
+16:36
+26 different concepts of what a species
+16:38
+is
+16:39
+the most common concept that is affected
+16:41
+the most today is what is called the
+16:43
+biological species concept
+16:45
+the biological species concept basically
+16:48
+suggests that a species is defined as
+16:49
+groups of groups of organisms that can
+16:52
+successfully interpret and produce
+16:54
+fertile offspring basically again
+16:57
+individuals that can reproduce with each
+16:59
+other and having offspring that can
+17:01
+survive by be viable that is what is
+17:03
+defined uh a species and that term
+17:07
+generally speaking is what is called the
+17:08
+biological species concept
+Biological Species
+17:10
+now unfortunately there are problems
+17:13
+with that concept right one of the
+17:15
+obvious problems is a sexual
+17:17
+reproduction now all the species in the
+17:18
+planet are reproduced by by
+17:20
+sexual mechanisms some of them reproduce
+17:22
+completely as sexual meaning that you
+17:24
+can take an individual spirit in two and
+17:26
+then you get
+17:28
+to to also the same species
+17:30
+and the example of that is bacteria and
+17:33
+the viruses basically these species live
+17:35
+life with no sex
+17:37
+but many other species the ones that are
+17:39
+included within the biological
+17:40
+definition concept of species those are
+17:43
+those species
+17:44
+reproduce via sex these ones multiply
+17:47
+reproduce without having sex they
+17:49
+basically split themselves in halves and
+17:51
+that's how they manage to reproduce
+17:54
+the other problem of the biological
+17:56
+concept is hybridization have
+17:58
+realization is basically when different
+18:00
+species come together and produce
+18:02
+offspring that myomino will be viable
+18:04
+over a few generations an example is a
+18:07
+zebra and a donkey they go out in a date
+18:11
+and the result of that day is what is
+18:13
+called asanki right so here is an
+18:15
+example again in which two very
+18:17
+different species still manage to
+18:20
+interpret to produce offspring so that
+18:22
+becomes complicated
+18:24
+in the terms on on the
+18:27
+use of the biological concept for this
+18:29
+species because they clearly reproduce
+18:31
+and produce offspring
+18:34
+another limitation of the biological
+18:35
+concept of species is this idea of the
+18:38
+horizontal gene transfer so basically
+18:40
+what happens here is that there are many
+18:43
+species especially in bacteria and
+18:45
+archaea
+18:46
+that
+18:47
+they have been evolving over branches of
+18:49
+evolution over many different times and
+18:51
+they have been separated for millions of
+18:52
+years so how they come together and they
+18:55
+reproduce and that reproduction still
+18:56
+leads to viable
+18:58
+species and that's what it's called
+18:59
+horizontally and transfer that is so
+19:01
+crazy in bacteria and archaea for them
+19:04
+to do this this is like having a whale
+19:07
+and an insect which are two groups of
+19:10
+animals that have wolves in completely
+19:12
+different pathways
+19:13
+putting them together and having a well
+19:15
+and an insect reproducing or producing
+19:17
+another another species so that is
+19:20
+exactly what is happening here with the
+19:21
+bacteria in archaea having lineages that
+19:24
+have been separated for millions of
+19:26
+years somehow coming together
+19:27
+reproducing and producing integrals that
+19:29
+are viable so that's a huge limitation
+19:32
+for the use of the biological species
+19:34
+concept
+19:37
+now another
+19:38
+concept that is commonly used to define
+19:41
+a species is what is called the genetic
+19:43
+species concept in this case this
+19:45
+concept uses the similarity
+19:48
+the genetic similar genetic or molecular
+19:51
+similarity among a species
+19:53
+right basically what you do you take
+19:55
+these molecules as i explained to you
+19:57
+either protein or dna compare that among
+19:59
+different species and that allows you
+20:01
+then to differentiate different species
+20:04
+and that turns then into what is called
+20:06
+the genetic species concept again trying
+20:09
+to differentiate the degree to which
+20:11
+species are different different based on
+20:13
+their molecular molecular
+20:16
+composition
+20:18
+however that concept is not quite
+20:20
+perfect yet though because unfortunately
+20:22
+what is the threshold that you use and
+20:24
+what percentage of difference you say a
+20:26
+species
+20:27
+is a species
+20:29
+right so here you can see for instance
+20:31
+the genetic similarity among different
+20:34
+species on a given molecule and you can
+20:36
+see that these differences molecular
+20:39
+differences are quite different between
+20:41
+things that we clearly identify as
+20:43
+different species today so unfortunately
+20:46
+that's kind of the the limitation of the
+20:48
+genetic species concept is the fact that
+20:50
+it's very hard for us to come up with a
+20:51
+threshold that will allow us to separate
+20:53
+all of the species that we know in the
+20:55
+planet because as you can see here there
+20:56
+are clearly things are different species
+20:58
+that have different levels of genetic
+21:00
+differentiation
+21:03
+now
+21:04
+certain times you see me using the word
+21:06
+species and population but i want to
+21:08
+clarify that those two things are
+21:10
+different there are certain times that
+21:11
+they kind of can be used in the same way
+21:13
+but they are actually very different as
+21:15
+i explained to you species are normally
+21:16
+organisms that it can be either they're
+21:20
+reproduced with each other and the
+21:21
+oceans are viable or they are
+21:22
+genetically similar but a population
+21:25
+though
+21:26
+are groups of individuals of the same
+21:28
+species okay so i need you to keep to
+21:30
+keep that distinction
+21:32
+in mind again a population are discrete
+21:35
+groups of individuals of the same
+21:37
+species
+21:38
+all the species is what we just
+21:40
+described
+21:41
+and that's the class for today and i see
+21:43
+>>>>>>> 13f4ffe9d2e9a16535f71e86959748a90295fbdb
+you guys in the next episode
