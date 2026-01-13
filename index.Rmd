@@ -46,7 +46,7 @@ AS you watch the content of a video, look for and write down the responses to th
 
 **Weekly Assignments**
 
-Most of your grade is based on this weekly assignments. Each week, make it each Sunday, in case you want to work on the weekends, you need to load your responses (ideally handwritten) into an AI app I have developed exclusively for this class. 
+The responses to those questions are your weekly assignments, and they need to be loaded in the provided app. Most of your grade is based on this weekly assignments. Each week, make it each Sunday, in case you want to work on the weekends, you need to load your responses (ideally handwritten) into an AI app I have developed exclusively for this class. 
 
 In this app, you will get feedback over the quality of your responses, but also test your comprehension of the materials and your capacity to think critically. I create this app myself for this class, and if you have any feedback please send me a long an email. 
 
@@ -57,13 +57,13 @@ In this app, you will get feedback over the quality of your responses, but also 
 
 The final exam is voluntary, and it will only determine your grade in the A territory (A-, A, and A+). For this, you need to deliver exam videos of the lectures. 
 
-Basically, you need to study the content of specific number of chapter (depending on the A you want), and record yourself reporting those responses.
+Basically, you need to study the content of a specific number of chapters (depending on the A you want), and record yourself reporting those responses.
 
 Say you want to get an A+; that means you should know the responses to each question from 10 chapters (I leave you choose which ones). 
 
 This exam videos are like if you were having an oral exam, just that you test yourself in front of a camera, you are not allow to cheat, meaning using any external help to get the responses. You need to prove you really know the content. 
 
-These videos need to be loaded in Youtube, no exception, and the URLs send to Dr. Mora by email. In this email disclaim the grade you are aiming for (I want an A+, so I send 10 videos showing my mastery of the content of those chapters). 
+These videos need to be loaded in Youtube, no exception, and the URLs send to Dr. Mora by email. In this email disclaim the grade you are aiming for (I want an A+, so I send 10 videos showing my mastery of the content of 10 chapters). Send a video per chapter; in other words, if you want an A+ you need to deliver 10 videos, each showing you report the responses to each question of those chapters.
 
 I will review your videos to assess that they indeed meet the standard of the grade, if I suspect cheating, or if the responses are incorrect, I will allow you to do the videos again. I can help you get the grade that you want but you have to deserve it. If your responses are outrageously incorrect I may ask for evidence that you did your weekly assignments, as those weekly assessment are design that if you allocate quality time to them, they will give you the right responses.
 
@@ -71,7 +71,7 @@ I will review your videos to assess that they indeed meet the standard of the gr
 
 Your grade in this class is transparent and proportional to the content you master in this class. It follows the image below. 
 
-To read the image, check for instance, that to get an B+ you need to deliver all 13 essays via the app, you may choose a B and that requires to submit at least 12 chapters, etc.
+To read the image, check for instance, that to get an B+ you need to deliver all 13 weekly essays via the app, you may choose a B and that requires to submit at least 12 chapters, etc.
 
 If you choose to take the exam, you need to submit excellent videos with all the responses for six chapter for an A-, eight chapters for an A, and 10 chapters for an A+. 
 
@@ -84,6 +84,12 @@ Each week as you deliver your essays, the app will display your current grade.
 iStudy uses Gemini models to work with you in your essays. The models have been tested extensively and exclusively to work solely based in the content of this class. 
 
 After you watch the videos, and collected your responses load those responses into the app. The app accepts an image (if you do the handwriten responses, take a photo and load it, the app will transcribe your handwritten to text) or a text file. If you choose to write your responses in Word or Excel, when finish, click on Save As, and select .txt; any of those: image or text file can be loaded in the app.
+
+Ensure you number your responses, and provide the chapter number. Here is an example  of how the responses should look like, when you load them into the app.
+
+![](images/ExampleResponses.png )
+
+
 
 The app will then process each of your responses. Basically, I have provided the AI with the responses, and it simply matches my responses to yours, giving you feedback in what was right or wrong. My expectation is that overtime you sharpen your skills to collect data from this or any other class.
 
