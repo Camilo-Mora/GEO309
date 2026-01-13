@@ -1,1 +1,6 @@
 section
+your-roadmap-in-this-class
+phase-a-submitting-weekly-essays
+critical-budget-60-minutes-of-continuous-time.-the-app-does-not-save-progress-if-you-stop-you-must-start-from-the-beginning-of-that-chapter.
+phase-b-submitting-exam-videos
+critical-budget-60-minutes-of-continuous-time-to-deliver-your-essays.-the-app-does-not-save-progress-if-you-stop-you-must-start-from-the-beginning-of-that-chapter.
