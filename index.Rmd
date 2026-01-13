@@ -7,7 +7,12 @@ description: "Understanding the patterns and processes of biodiversity on Earth"
 
 # Welcome {-}
 
-Welcome to Introduction to BioGeography.
+
+```{block2, type='rmdtip'}
+**LEARNING OBJECTIVES**
+At the end of the class, students are expected to describe spatial patterns on the number of species, body size and abundance on Earth, as well as the driving forces behind those patterns.
+```
+
 
 
 ```{js, echo = FALSE}
