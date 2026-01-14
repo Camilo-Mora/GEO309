@@ -63,7 +63,7 @@ This course consists of a number of weekly lectures covering different aspects a
 
 <br>
 
-![](images/ExampleResponses.png){style="display: block; margin: 0 auto; width: 120%;"}
+![](images/ExampleResponsesV1.png){style="display: block; margin: 0 auto; width: 120%;"}
 
 <p style="text-align: center; color: gray; font-size: 0.9em;">*Example of the required formatting for your submissions.*</p>
 
