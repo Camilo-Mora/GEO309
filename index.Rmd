@@ -36,9 +36,9 @@ This course consists of a number of weekly lectures covering different aspects a
 
 
 
-### **Phase A: Submitting Weekly Essays** {-}
+### **Phase A: Submitting Weekly Q&A** {-}
 
-<span style="font-size: 0.8em;"> *Determines your grade up to a **B+**. Each week, by the end of Sunday, submit at least one essay. You are welcome to submit more if you wish to work ahead.*</span>
+<span style="font-size: 0.8em;"> *This determines your grade up to a **B+**.  Each week, by the end of Sunday, you have to submit the Q&A report of a chapter. You are welcome to submit more if you wish to work ahead. I expect that you would expend quality time in this phase, which is the reason why I gave such a high proportion of the grade to it.*</span>
 
 
 
@@ -47,11 +47,11 @@ This course consists of a number of weekly lectures covering different aspects a
 
 
 
-*   **The Workflow:**
-    1.  **Chapter Selection:** Navigate to the current week's chapter on this website. There are 13 chapters in the class, which are enumerated on the TOC on the left.
-    2.  **Get Questions:** Click the **"Exam questions"** link to see what you need to answer.
-    3.  **Watch & Answer:** Watch the lecture video. Your answers must come **exclusively** from the lecture content.
-    4.  **Submit to iStudy:** Upload your file to the [iStudy App](https://camilo-mora.github.io/GEO309/istudy-weekly-essay-delivery-app.html). iStudy will give you feedback on your responses, and deliver a revised version of the responses for your records.
+* **The Workflow:**
+    1.  **Chapter Selection:** This course has 13 chapters **numbered** in the Table of Contents on the left sidebar (e.g., **1:**, **2:**); click the current week's chapter.
+    2.  **Get Questions:** On the chapter page, click the **"Exam questions"** link to see the specific list of questions you need to answer.
+    3.  **Watch & Answer:** Watch the lecture video **located on that same page** and **collect** the answers as you watch. The lecture contains all the information needed to respond to the questions.
+    4.  **Submit to iStudy:** Save your answers as a file (e.g., Text, or photo of your handwritten responses). Upload that file to the [iStudy App](https://camilo-mora.github.io/GEO309/istudy-weekly-essay-delivery-app.html). The app will provide feedback and generate a revised version of your responses for your records.
 
 <br>
 
@@ -63,7 +63,7 @@ This course consists of a number of weekly lectures covering different aspects a
 
 <br>
 
-![](images/ExampleResponses.png){style="display: block; margin: 0 auto; width: 80%;"}
+![](images/ExampleResponses.png){style="display: block; margin: 0 auto; width: 120%;"}
 
 <p style="text-align: center; color: gray; font-size: 0.9em;">*Example of the required formatting for your submissions.*</p>
 
@@ -114,7 +114,7 @@ If you choose to take the exam, you need to submit excellent videos with all the
 
 Each week as you deliver your essays, the app will display your current grade.
 
-![](images/GradingOnline.png)
+![](images/GradingOnlineV1.png)
 
 ## 🔑 How to Get Your Google API Key {-}
 
