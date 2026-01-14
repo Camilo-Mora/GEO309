@@ -118,35 +118,53 @@ Each week as you deliver your essays, the app will display your current grade.
 
 ## 🔑 How to Get Your Google API Key {-}
 
-To use the iStudy app, you need a free Google AI API key. Follow these steps:
+
+To use the iStudy app, you need a free Google AI API key. Follow these steps: 
+
+```{block2, type='rmdtip'}
+**Caution:** 
+  
+As students start to use the app, we have come across some compatibility issues you need to be aware of:
+
+*Restricted Gmail account*: If your Gmail account does not display the option to get an API key, it is very likely your account is from a restricted country. I am certain Gmail accounts created in the USA offer these keys. UH email does not work.
+
+
+*Mac browser problem*: if you get a warning like "Suspicius request", use a different browser. Some Apple products are being flaged by Google.
+```
+
+
+
+
+You will do this only once, as the key(s) get saved in your local browser.
+
+
+
 
 1.  **Go to Google AI Studio:**
     Visit [aistudio.google.com](https://aistudio.google.com/) and log in with your **personal Gmail account** (UH emails do not work).
 
 2.  **Create a Project:**
-    *   Click on **"Projects"** (top left).
-    *   Click **"+ Create a new project"**.
+    *   2.1 Click on **"Projects"** (top left).
+    *   2.2 Click **"+ Create a new project"**.
     *   On the popup window, name your project **"GEO309"** and click **"Create project"**.
 ![](images/GoogleAIStudio.png)
 
 3.  **Generate the Key:**
-    *   Click `Get API key` (bottom left button).
-    *   Click `Create API key`.
+    *   3.1 Click `Get API key` (bottom left button).
+    *   3.2 Click `Create API key`.
     *   On the popup window, select the **GEO309** project you just created.
     *   Click **"Create key"**.
 ![](images/GoogleAIStudiokey.png)
 
 4.  **Copy & Paste:**
     *   Copy the generated key string.
-    *   Go to the iStudy app, click the **Settings (⚙️)** icon, and paste your key, and save it.
+    *   4.2 Go to the iStudy app, click the **Settings (⚙️)** icon, and paste your key, and save it.
 
 ![](images/iStudy.png)
 
 > **Note:** Ideally, generate **2 or 3 keys** using different personal Google accounts and add them all to the app settings. This prevents "Quota Limit" errors during long review sessions. 
 
-> **Caution:** If your Gmail account does not display the option to get an API key, it is very likely your account is from a restricted country. I am certain Gmail accounts created in the USA offer these keys.
 
-You will do this only once, as the key(s) get saved in your local browser.
 
 # Launch iStudy App {-}
 
