@@ -51,7 +51,7 @@ This course consists of a number of weekly lectures covering different aspects a
     1.  **Chapter Selection:** This course has 13 chapters **numbered** in the Table of Contents on the left sidebar (e.g., **1:**, **2:**); click the current week's chapter.
     2.  **Get Questions:** On the chapter page, click the **"Exam questions"** link to see the specific list of questions you need to answer.
     3.  **Watch & Answer:** Watch the lecture video **located on that same page** and **collect** the answers as you watch. The lecture contains all the information needed to respond to the questions.
-    4.  **Submit to iStudy:** Save your answers as a file (e.g., Text, or photo of your handwritten responses). Upload that file to the [iStudy App](https://camilo-mora.github.io/GEO309/istudy-weekly-essay-delivery-app.html). The app will provide feedback and generate a revised version of your responses for your records.
+    4.  **Submit to iStudy:** Save your answers as a file (e.g., Text, or photo of your handwritten responses). Upload that file to the iStudy App (link provided in the Table of Contents on the left sidebar). The app will provide feedback and generate a revised version of your responses for your records.
 
 <br>
 
