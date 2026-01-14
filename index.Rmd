@@ -126,17 +126,21 @@ To use the iStudy app, you need a free Google AI API key. Follow these steps:
 2.  **Create a Project:**
     *   Click on **"Projects"** (top left).
     *   Click **"+ Create a new project"**.
-    *   Name your project **"GEO309"** and click **"Create project"**.
+    *   On the popup window, name your project **"GEO309"** and click **"Create project"**.
+![](images/GoogleAIStudio.png)
 
 3.  **Generate the Key:**
-    *   Click `Get API key` (top left button).
+    *   Click `Get API key` (bottom left button).
     *   Click `Create API key`.
-    *   Select the **GEO309** project you just created.
+    *   On the popup window, select the **GEO309** project you just created.
     *   Click **"Create key"**.
+![](images/GoogleAIStudiokey.png)
 
 4.  **Copy & Paste:**
     *   Copy the generated key string.
     *   Go to the iStudy app, click the **Settings (⚙️)** icon, and paste your key, and save it.
+
+![](images/iStudy.png)
 
 > **Note:** Ideally, generate **2 or 3 keys** using different personal Google accounts and add them all to the app settings. This prevents "Quota Limit" errors during long review sessions. 
 
