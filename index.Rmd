@@ -138,7 +138,9 @@ To use the iStudy app, you need a free Google AI API key. Follow these steps:
     *   Copy the generated key string.
     *   Go to the iStudy app, click the **Settings (⚙️)** icon, and paste your key, and save it.
 
-> **Note:** Ideally, generate **2 or 3 keys** using different personal Google accounts and add them all to the app settings. This prevents "Quota Limit" errors during long review sessions.
+> **Note:** Ideally, generate **2 or 3 keys** using different personal Google accounts and add them all to the app settings. This prevents "Quota Limit" errors during long review sessions. 
+
+> **Caution:** If your Gmail account does not display the option to get an API key, it is very likely your account is from a restricted country. I am certain Gmail accounts created in the USA offer these keys.
 
 You will do this only once, as the key(s) get saved in your local browser.
 
