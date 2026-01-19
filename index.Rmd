@@ -34,6 +34,7 @@ This course consists of a number of weekly lectures covering different aspects a
 
 # Your Roadmap in this Class {- #roadmap-style}
 
+Here I explain your expected work in this course; the following page, provides extended details about how this work translates to your grade for this class.
 
 
 ### **Phase A: Submitting Weekly Q&A** {-}
@@ -119,19 +120,19 @@ Each week as you deliver your essays, the app will display your current grade.
 ## 🔑 How to Get Your Google API Key {-}
 
 
-To use the iStudy app, you need a free Google AI API key. Follow these steps: 
+To use the iStudy app, you need a free Google AI API key. Follow the steps below: 
 
 ```{block2, type='rmdtip'}
 **Caution:** 
   
-As students start to use the app, we have come across some Gmail issues you need to be aware of:
+If you fail to collect tha API key after following the isntructions below, we came across a couple of issues:
 
-*Restricted Gmail account*: If your Gmail account does not display the option to get an API key, it is very likely your account has restrictions. You were a minor when you opened it, from a restricted country, or administrator restriciton (UH email does not work). Try a different account or create a new one. 
+*Restricted Gmail account*: If you see any wording to this fact, try a different account or create a new one in the USA. UH accounts do not work. 
 
 
-*Mac browser problem*: if you get a warning like "Suspicius request", use a different browser. Some Apple products are being flaged by Google.
+*Suspicius request*: This warning appears in Apple computers with some browsers. Simply use a different browser.
 
-If you try and still fail, take a screenshot of the website where you hit a roadblock, paste it in [Gemini](https://gemini.google.com/) or [chatGPT](https://chatgpt.com), and write ***"Help me get a Google AI studio API key. I am stuck in the current page. What do I need to do next? Be brief and give me a solution I can do now"***
+If you follow the instructions below and still fail to get the API, take a screenshot of the website where you hit a roadblock, paste it in [Gemini](https://gemini.google.com/) or [chatGPT](https://chatgpt.com), and write ***"Help me get a Google AI studio API key. I am stuck in the current page. What do I need to do next? Be brief and give me a solution I can do now"***
 ```
 
 
