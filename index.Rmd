@@ -52,16 +52,24 @@ Here I explain your expected work in this course; the following page, provides e
     1.  **Chapter Selection:** This course has 13 chapters **numbered** in the Table of Contents on the left sidebar (e.g., **1:**, **2:**); click the current week's chapter.
     2.  **Get Questions:** On the chapter page, click the **"Exam questions"** link to see the specific list of questions you need to answer.
     3.  **Watch & Answer:** Watch the lecture video **located on that same page** and **collect** the answers as you watch. The lecture contains all the information needed to respond to the questions.
-    4.  **Submit to iStudy:** Save your answers as a file (e.g., Text, or photo of your handwritten responses). Upload that file to the iStudy App (link provided in the Table of Contents on the left sidebar). The app will provide feedback and generate a revised version of your responses for your records.
+    4.  **Submit to iStudy:** Save your answers as a file (e.g., Text, or photo of your handwritten responses). Upload that file to the iStudy App (link provided in the Table of Contents on the left sidebar). The iStudy app will provide feedback and generate a revised version of your responses for your records. 
+    
+    <br>
+    
 
-<br>
 
 *   **Submission Rules:**
     *   **Single File Only:** You can only upload **one file** per chapter (containing all answers for the given chapter).
-    *   **File Type:** A photo of your handwriting OR a `.txt` file. 
+    *   **File Type:** A photo of your handwriting OR a plain text file (`.txt`). 
         *   *If using Word/Excel: Click "Save As" and select "Plain Text (.txt)" before uploading.*
+        *   *If you choose to submit handwritten responses, please ensure they are organized and legible. Clearly mark each question number, leave ample white space between responses, and keep your text in straight, orderly lines. While the application is powerful, it cannot accurately transcribe handwriting that is illegible or disorganized.*
     *   **Required Labeling:** Your file **must** clearly state the Chapter Number and Question Numbers. 
 
+<br>
+```{block2, type='rmdtip'}
+**WARNING**
+the iStudy app will download your revised responses to your computer. Save that file as you will need it as proof that you did the work, and as your study guide, if you chooce to take the exam.
+```
 <br>
 
 ![](images/ExampleResponsesV1.png){style="display: block; margin: 0 auto; width: 120%;"}
@@ -70,7 +78,7 @@ Here I explain your expected work in this course; the following page, provides e
 
 <br>
 
-> 🚨 **Critical:** Budget **60 minutes** of continuous time to deliver your essays. Due to privacy issues, the app does not save progress; if you stop, you must start from the beginning of that chapter.
+> 🚨 **Critical:** Budget **60 minutes** of continuous time to deliver your Q&A report. Due to privacy issues, the app does not save progress; if you stop, you must start from the beginning of that chapter.
 
 <br>
 
@@ -90,7 +98,7 @@ Here I explain your expected work in this course; the following page, provides e
         *   Film yourself responding to **all** questions for that chapter. You choose which chapters to record.
         *   **Format:** Facing the camera, state the question clearly, then provide the response from memory.
         *   **Integrity:** No notes allowed; this is an oral proof of mastery. If I suspect cheating, you may be asked to re-do the videos.
-        *   **Validation:** If your responses are incorrect, it may indicate Phase A was not completed properly, and you may be asked to provide evidence of your weekly essays.
+        *   **Validation:** If your responses are incorrect, it may indicate Phase A was not completed properly, and you may be asked to provide evidence of your weekly Q&A reports.
 
 <br>
 
@@ -98,10 +106,16 @@ Here I explain your expected work in this course; the following page, provides e
     1.  **Upload:** Post your videos to YouTube (Public or Unlisted).
     2.  **Email:** Send the URL links to Dr. Mora.
         *   **Subject Line:** `GEO309-[YOUR LAST NAME]-Final exam`
-        *   **Email Body:** State clearly what you sent and the grade you aim for. For example, "I want an A+, so I am submitting 10 videos showing my mastery of 10 chapters."
+        *   **Email Body:** State clearly what you sent and the grade you aim for. For example, "I want an A+, so I am submitting 10 videos showing my mastery of 10 chapters." 
 
 <br>
 
+<br>
+```{block2, type='rmdtip'}
+**WARNING**
+You should create one video per lecture and submit which ever many for the grade that you want. Use the Grading page to check how many chapters you need to submit for the grade you desire.
+```
+<br>
 
 
 # 📝 Grading {-}
@@ -109,11 +123,11 @@ Here I explain your expected work in this course; the following page, provides e
 
 Your grade in this class is transparent and proportional to the content you master in this class. It follows the image below. 
 
-To read the image, check for instance, that to get an B+ you need to deliver all 13 weekly essays via the app, you may choose a B and that requires to submit at least 12 chapters, etc.
+To read the image, check for instance, that to get an B+ you need to deliver all 13 weekly Q&A reports via the app, you may choose a B and that requires to submit at least 12 chapters, etc.
 
 If you choose to take the exam, you need to submit excellent videos with all the responses for six chapter for an A-, eight chapters for an A, and 10 chapters for an A+. 
 
-Each week as you deliver your essays, the app will display your current grade.
+Each week as you deliver your Q&A reports, the app will display your current grade.
 
 ![](images/GradingOnlineV1.png)
 
