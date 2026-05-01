@@ -180,8 +180,6 @@ You will do this only once, as the key(s) get saved in your local browser.
 
 ![](images/iStudy.png)
 
-> **Note:** Ideally, generate **2 or 3 keys** using different personal Google accounts and add them all to the app settings. This prevents "Quota Limit" errors during long review sessions. 
-
 
 
 # Launch iStudy App {-}
